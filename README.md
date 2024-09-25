@@ -25,7 +25,7 @@ Vietgourmet được phát triển dựa trên nền tảng MERN stack:
 
 ## Cài đặt và chạy dự án
 
-1. **Clone repository:** `git clone https://github.com/vitegod/vietgourmet.git`
+1. **Clone repository:** `https://github.com/vitegod/Vietgourmet/`
 2. **Cài đặt dependencies:**
    * Backend: `cd server && npm install`
    * Frontend: `cd client && npm install`
