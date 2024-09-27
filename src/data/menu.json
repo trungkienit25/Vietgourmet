@@ -15,9 +15,9 @@
                 },
                 {
                     "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "title": "Cà phê Robusta",
+                    "price": "55000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
