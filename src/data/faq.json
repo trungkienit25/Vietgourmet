@@ -1,47 +1,78 @@
 {
     "categories": [
-      {
-        "name": "Câu hỏi về giao hàng",
-        "items": [
-          {
-            "title": "Giờ làm việc của quán là gì?",
-            "text": "Quán hoạt động từ 8 giờ sáng đến 21 giờ tối từ thứ Hai đến thứ Sáu, và từ 8 giờ sáng đến 23 giờ tối vào cuối tuần. Chúng tôi luôn sẵn sàng phục vụ trong khoảng thời gian này, và bạn có thể đặt hàng trực tuyến bất kỳ lúc nào."
-          },
-          {
-            "title": "Địa chỉ của quán ở đâu?",
-            "text": "Quán của chúng tôi tọa lạc tại 123 Đường Trường Chinh, Thành phố Hà Nội. Bạn có thể dễ dàng tìm thấy chúng tôi ở gần khu trung tâm thành phố, với chỗ đậu xe tiện lợi cho khách hàng."
-          },
-          {
-            "title": "Làm thế nào để đặt bàn tại quán?",
-            "text": "Để đặt bàn, bạn có thể gọi đến số điện thoại 0987654321 hoặc truy cập trang web để đặt bàn trực tuyến. Quý khách vui lòng đảm bảo đặt bàn trước để tránh tình trạng hết chỗ."
-          },
-          {
-            "title": "Làm thế nào để đặt hàng giao tận nhà?",
-            "text": "Bạn có thể đặt hàng giao tận nhà thông qua website của chúng tôi hoặc các ứng dụng giao đồ ăn đối tác. Chỉ cần nhập địa chỉ của bạn, chọn món và chúng tôi sẽ giao hàng trong thời gian sớm nhất."
-          }
-        ]
-      },
-      {
-        "name": "Câu hỏi về dịch vụ",
-        "items": [
-          {
-            "title": "Dịch vụ đặt bàn tại quán hoạt động như thế nào?",
-            "text": "Bạn có thể đặt bàn trước thông qua website hoặc gọi điện trực tiếp đến nhà hàng. Chúng tôi sẽ giữ chỗ cho bạn trong thời gian quy định và xác nhận qua tin nhắn hoặc email."
-          },
-          {
-            "title": "Địa chỉ của quán ở đâu?",
-            "text": "Quán của chúng tôi tọa lạc tại 123 Đường Chính, Trung Tâm Thành Phố. Bạn có thể dễ dàng tìm thấy chúng tôi ở gần khu trung tâm, với chỗ đậu xe tiện lợi cho khách hàng."
-          },
-          {
-            "title": "Nhà hàng có chương trình khuyến mãi nào không?",
-            "text": "Chúng tôi thường xuyên có các chương trình khuyến mãi cho cả khách hàng đặt trực tuyến và tại chỗ. Bạn có thể kiểm tra các ưu đãi hiện có trên website hoặc theo dõi fanpage của chúng tôi để biết thêm chi tiết."
-          },
-          {
-            "title": "Tôi có thể đổi trả hàng hoặc hủy đơn hàng không?",
-            "text": "Bạn có thể hủy đơn hàng trực tuyến trước khi chúng tôi bắt đầu chuẩn bị. Đối với các trường hợp hàng giao không đúng hoặc có vấn đề, bạn có thể liên hệ với chúng tôi để được hỗ trợ đổi trả."
-          }
-        ]
-      }
+        {
+            "name": "Questions about delivery",
+            "items": [
+                {
+                    "title": "What are the working hours?",
+                    "text": "Dolor sit amet, consectetur adipisicing elit. Aliquam animi, facere quia eveniet perferendis dolorem, eaque magnam quod esse in itaque placeat expedita assumenda aliquid iusto architecto libero hic quasi, veniam. Voluptas sunt ullam vel dolorum excepturi veritatis incidunt. Rem recusandae ipsa molestias alias assumenda nemo facere quos sunt possimus earum magnam, iusto, dolore eius illo iste laboriosam fugit odit obcaecati, distinctio ratione corporis voluptatem nisi quod natus. Architecto dolore ipsam minima ducimus dolorem qui excepturi eveniet velit ea dolor asperiores reiciendis soluta. Consequatur harum tempora eaque aperiam, eligendi consectetur dolorem veniam? Ipsam consectetur corporis, asperiores commodi adipisci, non dolor veniam, molestiae architecto magnam, repellat ut qui dolorem vero."
+                },
+                {
+                    "title": "What is the location of the restaurant?",
+                    "text": "Aarchitecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum. Perferendis?"
+                },
+                {
+                    "title": "How to book a table in a restaurant?",
+                    "text": "Officiis quos sint quae explicabo architecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum."
+                },
+                {
+                    "title": "How to order home delivery?",
+                    "text": "Quidem magnam commodi maiores accusantium dolor architecto at tempora, cumque natus enim? Nihil inventore labore enim a praesentium numquam eaque animi magni laudantium provident ullam temporibus reprehenderit, cumque libero blanditiis beatae, reiciendis debitis dignissimos dolor recusandae quas! Magni officiis sapiente odit neque aliquid! Animi ipsum, aut. Officia dicta ut ducimus, omnis perferendis impedit facilis voluptate consectetur molestias eos id et veniam eaque unde magnam quae facere praesentium quod."
+                },
+                {
+                    "title": "How to book a table in a restaurant?",
+                    "text": "Officiis quos sint quae explicabo architecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum."
+                },
+                {
+                    "title": "What is the location of the restaurant?",
+                    "text": "Aarchitecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum. Perferendis?"
+                },
+                {
+                    "title": "How to order home delivery?",
+                    "text": "Quidem magnam commodi maiores accusantium dolor architecto at tempora, cumque natus enim? Nihil inventore labore enim a praesentium numquam eaque animi magni laudantium provident ullam temporibus reprehenderit, cumque libero blanditiis beatae, reiciendis debitis dignissimos dolor recusandae quas! Magni officiis sapiente odit neque aliquid! Animi ipsum, aut. Officia dicta ut ducimus, omnis perferendis impedit facilis voluptate consectetur molestias eos id et veniam eaque unde magnam quae facere praesentium quod."
+                },
+                {
+                    "title": "What are the working hours?",
+                    "text": "Dolor sit amet, consectetur adipisicing elit. Aliquam animi, facere quia eveniet perferendis dolorem, eaque magnam quod esse in itaque placeat expedita assumenda aliquid iusto architecto libero hic quasi, veniam. Voluptas sunt ullam vel dolorum excepturi veritatis incidunt. Rem recusandae ipsa molestias alias assumenda nemo facere quos sunt possimus earum magnam, iusto, dolore eius illo iste laboriosam fugit odit obcaecati, distinctio ratione corporis voluptatem nisi quod natus. Architecto dolore ipsam minima ducimus dolorem qui excepturi eveniet velit ea dolor asperiores reiciendis soluta. Consequatur harum tempora eaque aperiam, eligendi consectetur dolorem veniam? Ipsam consectetur corporis, asperiores commodi adipisci, non dolor veniam, molestiae architecto magnam, repellat ut qui dolorem vero."
+                }
+            ]
+        },
+        {
+            "name": "Questions about services",
+            "items": [
+                {
+                    "title": "What are the working hours?",
+                    "text": "Dolor sit amet, consectetur adipisicing elit. Aliquam animi, facere quia eveniet perferendis dolorem, eaque magnam quod esse in itaque placeat expedita assumenda aliquid iusto architecto libero hic quasi, veniam. Voluptas sunt ullam vel dolorum excepturi veritatis incidunt. Rem recusandae ipsa molestias alias assumenda nemo facere quos sunt possimus earum magnam, iusto, dolore eius illo iste laboriosam fugit odit obcaecati, distinctio ratione corporis voluptatem nisi quod natus. Architecto dolore ipsam minima ducimus dolorem qui excepturi eveniet velit ea dolor asperiores reiciendis soluta. Consequatur harum tempora eaque aperiam, eligendi consectetur dolorem veniam? Ipsam consectetur corporis, asperiores commodi adipisci, non dolor veniam, molestiae architecto magnam, repellat ut qui dolorem vero."
+                },
+                {
+                    "title": "What is the location of the restaurant?",
+                    "text": "Aarchitecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum. Perferendis?"
+                },
+                {
+                    "title": "How to book a table in a restaurant?",
+                    "text": "Officiis quos sint quae explicabo architecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum."
+                },
+                {
+                    "title": "How to order home delivery?",
+                    "text": "Quidem magnam commodi maiores accusantium dolor architecto at tempora, cumque natus enim? Nihil inventore labore enim a praesentium numquam eaque animi magni laudantium provident ullam temporibus reprehenderit, cumque libero blanditiis beatae, reiciendis debitis dignissimos dolor recusandae quas! Magni officiis sapiente odit neque aliquid! Animi ipsum, aut. Officia dicta ut ducimus, omnis perferendis impedit facilis voluptate consectetur molestias eos id et veniam eaque unde magnam quae facere praesentium quod."
+                },
+                {
+                    "title": "How to book a table in a restaurant?",
+                    "text": "Officiis quos sint quae explicabo architecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum."
+                },
+                {
+                    "title": "What is the location of the restaurant?",
+                    "text": "Aarchitecto nihil omnis cupiditate voluptatum, fuga, iure culpa doloremque. Laboriosam veniam culpa architecto fuga consequuntur dolorem iusto rem reprehenderit nam natus corporis, quam minus, optio quae molestiae, tempore doloribus voluptatibus aliquid fugit. Modi officiis voluptate perspiciatis consequatur unde ex consequuntur, nulla ratione molestiae cupiditate quod ut dolorum beatae quam rerum id voluptates voluptatum corrupti, repudiandae ea ducimus aliquid alias veniam harum. Perferendis?"
+                },
+                {
+                    "title": "How to order home delivery?",
+                    "text": "Quidem magnam commodi maiores accusantium dolor architecto at tempora, cumque natus enim? Nihil inventore labore enim a praesentium numquam eaque animi magni laudantium provident ullam temporibus reprehenderit, cumque libero blanditiis beatae, reiciendis debitis dignissimos dolor recusandae quas! Magni officiis sapiente odit neque aliquid! Animi ipsum, aut. Officia dicta ut ducimus, omnis perferendis impedit facilis voluptate consectetur molestias eos id et veniam eaque unde magnam quae facere praesentium quod."
+                },
+                {
+                    "title": "What are the working hours?",
+                    "text": "Dolor sit amet, consectetur adipisicing elit. Aliquam animi, facere quia eveniet perferendis dolorem, eaque magnam quod esse in itaque placeat expedita assumenda aliquid iusto architecto libero hic quasi, veniam. Voluptas sunt ullam vel dolorum excepturi veritatis incidunt. Rem recusandae ipsa molestias alias assumenda nemo facere quos sunt possimus earum magnam, iusto, dolore eius illo iste laboriosam fugit odit obcaecati, distinctio ratione corporis voluptatem nisi quod natus. Architecto dolore ipsam minima ducimus dolorem qui excepturi eveniet velit ea dolor asperiores reiciendis soluta. Consequatur harum tempora eaque aperiam, eligendi consectetur dolorem veniam? Ipsam consectetur corporis, asperiores commodi adipisci, non dolor veniam, molestiae architecto magnam, repellat ut qui dolorem vero."
+                }
+            ]
+        }
     ]
-  }
-  
+}
