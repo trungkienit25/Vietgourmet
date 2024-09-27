@@ -1,25 +1,25 @@
 {
     "categories": [
         {
-            "name": "Cà phê Việt Nam",
-            "slug": "coffee_vn",
-            "description": "Các loại cà phê đặc sản Việt Nam như Arabica, Robusta, Culi, Moka và Chồn, từ hạt rang xay nguyên chất đến cà phê pha sẵn tiện lợi.",
+            "name": "Starters",
+            "slug": "starters",
+            "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
             "items": [
                 {
                     "image": "/img/menu/1.jpg",
-                    "title": "Cà phê Arabica",
-                    "price": "45000",
-                    "currency": "VNĐ",
+                    "title": "Chevrefrit au miel",
+                    "price": "14",
+                    "currency": "$",
                     "rating": 5,
-                    "text": "Cà phê Arabica có mùi thơm nồng nàn, vị chua nhẹ."
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
                 },
                 {
                     "image": "/img/menu/2.jpg",
-                    "title": "Cà phê Robusta",
-                    "price": "55000",
-                    "currency": "VNĐ",
+                    "title": "Saumon Gravlax",
+                    "price": "9",
+                    "currency": "$",
                     "rating": 5,
-                    "text": "Hạt cà phê Robusta khá nhỏ, có mùi thơm dịu, được sấy trực tiếp chứ không lên men nên có vị đắng gắt, độ cafein cao, nước có màu nâu sánh, đậm đặc, phù hợp với khẩu vị người Việt Nam.",
+                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
