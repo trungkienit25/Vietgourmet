@@ -15,34 +15,34 @@
                 },
                 {
                     "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "title": "Cà phê Robusta",
+                    "price": "55000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/3.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Cà phê Culi",
+                    "price": "45000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/4.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "title": "Cà phê Cherry",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/5.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "title": "Cà phê Moka",
+                    "price": "60000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
@@ -115,32 +115,32 @@
             "items": [
                 {
                     "image": "/img/menu/1.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Espresso",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "title": "Cappuccino",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/3.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Macchiato",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/4.jpg",
-                    "title": "Stracciatella",
+                    "title": "Latte",
                     "price": "11",
                     "currency": "$",
                     "rating": 5,
@@ -148,18 +148,18 @@
                 },
                 {
                     "image": "/img/menu/5.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "title": "Mocha",
+                    "price": "55000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/6.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Americano",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
