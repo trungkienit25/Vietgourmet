@@ -1,0 +1,231 @@
+{
+    "settings": {
+        "siteName": "Vietgourmet",
+        "siteDescription": "Restaurant React Next.JS Template",
+        "formspreeURL": "https://formspree.io/f/your_api_key",
+        "mapbox": {
+            "AccessToken": "*",
+            "style": "mapbox://styles/mapbox/light-v11",
+            "zoom": 15,
+            "long": -79.394900,
+            "lat": 43.643102
+        },
+        "perPage": 6
+    },
+    "header": {
+        "logo": {
+            "image": "/img/ui/logo.svg",
+            "alt": "Logo"
+        },
+        "menu": [
+            {
+                "label": "Trang chủ",
+                "link": "/",
+                "children": [
+                    {
+                        "label": "Trang chủ 1",
+                        "link": "/"
+                    },
+                    {
+                        "label": "Trang chủ 2",
+                        "link": "/home-2"
+                    }
+                ]
+            },
+            {
+                "label": "Giới thiệu",
+                "link": "/about",
+                "children": [
+                    {
+                        "label": "Giới thiệu 1",
+                        "link": "/about"
+                    },
+                    {
+                        "label": "Giới thiệu 2",
+                        "link": "/about-2"
+                    },
+                    {
+                        "label": "Bộ sưu tập 1",
+                        "link": "/gallery"
+                    },
+                    {
+                        "label": "Bộ sưu tập 2",
+                        "link": "/gallery-2"
+                    },
+                    {
+                        "label": "Đánh giá",
+                        "link": "/reviews"
+                    },
+                    {
+                        "label": "Đặt trước",
+                        "link": "/reservation"
+                    },
+                    {
+                        "label": "FAQ",
+                        "link": "/faq"
+                    },
+                    {
+                        "label": "404",
+                        "link": "/404"
+                    }
+                ]
+            },
+            {
+                "label": "Thực đơn",
+                "link": "/menu",
+                "children": [
+                    {
+                        "label": "Thực đơn 1",
+                        "link": "/menu"
+                    },
+                    {
+                        "label": "Thực đơn 2",
+                        "link": "/menu-2"
+                    },
+                    {
+                        "label": "Thực đơn 3",
+                        "link": "/menu-3"
+                    },
+                    {
+                        "label": "Thực đơn 4",
+                        "link": "/menu-4"
+                    },
+                    {
+                        "label": "Thực đơn 5",
+                        "link": "/menu-5"
+                    },
+                    {
+                        "label": "Thực đơn 6",
+                        "link": "/menu-6"
+                    }
+                ]
+            },
+            {
+                "label": "Blog",
+                "link": "/blog-3",
+                "children": [
+                    {
+                        "label": "Blog",
+                        "link": "/blog-3"
+                    },
+                    {
+                        "label": "Blog list",
+                        "link": "/blog"
+                    },
+                    {
+                        "label": "Blog list 2",
+                        "link": "/blog-2"
+                    },
+                    {
+                        "label": "Publication",
+                        "link": "/blog/beet-and-burrata-salad-with-fried-bread"
+                    },
+                    {
+                        "label": "Publication 2",
+                        "link": "/blog/creamy-kale-pasta"
+                    },
+                    {
+                        "label": "Publication 3",
+                        "link": "/blog/incredible-vegan-mac-and-cheese"
+                    }
+                ]
+            },
+            {
+                "label": "Cửa hàng",
+                "link": "/shop",
+                "children": [
+                    {
+                        "label": "Cửa hàng",
+                        "link": "/shop"
+                    },
+                    {
+                        "label": "Cửa hàng 2",
+                        "link": "/shop-2"
+                    },
+                    {
+                        "label": "Sản phẩm",
+                        "link": "/products"
+                    },
+                    {
+                        "label": "Sản phẩm 2",
+                        "link": "/products-2"
+                    },
+                    {
+                        "label": "Sản phẩm",
+                        "link": "/product"
+                    },
+                    {
+                        "label": "Giỏ hàng",
+                        "link": "/cart"
+                    },
+                    {
+                        "label": "Thanh toán",
+                        "link": "/checkout"
+                    }
+                ]
+            },
+            {
+                "label": "Liên hệ",
+                "link": "/contact",
+                "children": 0
+            }
+        ]
+    },
+    "footer": {
+        "copy": "© 2024 Vietgourmet. All rights reserved."
+    },
+    "social": [
+        {
+            "link": "https://twitter.com",
+            "title": "Twitter",
+            "icon": "fab fa-twitter"
+        },
+        {
+            "link": "https://instagram.com",
+            "title": "Instagram",
+            "icon": "fab fa-instagram"
+        },
+        {
+            "link": "https://facebook.com",
+            "title": "Facebook",
+            "icon": "fab fa-facebook-f"
+        },
+        {
+            "link": "https://youtube.com",
+            "title": "Youtube",
+            "icon": "fab fa-youtube"
+        }
+    ],
+    "instagram": [
+        {
+            "image": "/img/instagram/1.jpg",
+            "title": "Image #1",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/2.jpg",
+            "title": "Image #2",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/3.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/4.jpg",
+            "title": "Image #3",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/5.jpg",
+            "title": "Image #5",
+            "link": "https://instagram.com/"
+        },
+        {
+            "image": "/img/instagram/6.jpg",
+            "title": "Image #6",
+            "link": "https://instagram.com/"
+        }
+    ]
+}

@@ -1,0 +1,213 @@
+{
+    "collection": {
+        "popular": [
+            {
+                "image": "/img/menu/3.jpg",
+                "title": "Carpaccio cá daurade",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+            },
+            {
+                "image": "/img/menu/1.jpg",
+                "title": "Phô mai chiên mật ong",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+            },
+            {
+                "image": "/img/menu/2.jpg",
+                "title": "Cá hồi Gravlax",
+                "price": "9",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+            },
+            {
+                "image": "/img/menu/9.jpg",
+                "title": "Bánh cá giòn",
+                "price": "4",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+            },
+            {
+                "image": "/img/menu/5.jpg",
+                "title": "Carpaccio cá daurade",
+                "price": "6",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+            },
+            {
+                "image": "/img/menu/4.jpg",
+                "title": "Stracciatella",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+            }    
+        ],
+        "bestseller": [
+            {
+                "image": "/img/menu/6.jpg",
+                "title": "Bánh cá giòn",
+                "price": "4",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+            },
+            {
+                "image": "/img/menu/7.jpg",
+                "title": "Carpaccio cá daurade",
+                "price": "6",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+            },
+            {
+                "image": "/img/menu/8.jpg",
+                "title": "Stracciatella",
+                "price": "11",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+            },
+            {
+                "image": "/img/menu/11.jpg",
+                "title": "Carpaccio cá daurade",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+            },
+            {
+                "image": "/img/menu/10.jpg",
+                "title": "Phô mai chiên mật ong",
+                "price": "14",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+            },
+            {
+                "image": "/img/menu/9.jpg",
+                "title": "Cá hồi Gravlax",
+                "price": "9",
+                "currency": "$",
+                "rating": 5,
+                "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+            }
+        ]
+    },
+    "items": [
+        {
+            "image": "/img/menu/1.jpg",
+            "title": "Phô mai chiên mật ong",
+            "price": "14",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        },
+        {
+            "image": "/img/menu/2.jpg",
+            "title": "Cá hồi Gravlax",
+            "price": "9",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+        },
+        {
+            "image": "/img/menu/3.jpg",
+            "title": "Carpaccio cá daurade",
+            "price": "14",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        },
+        {
+            "image": "/img/menu/4.jpg",
+            "title": "Stracciatella",
+            "price": "11",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        },
+        {
+            "image": "/img/menu/5.jpg",
+            "title": "Carpaccio cá daurade",
+            "price": "6",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+        },
+        {
+            "image": "/img/menu/6.jpg",
+            "title": "Phô mai chiên mật ong",
+            "price": "14",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        },
+        {
+            "image": "/img/menu/7.jpg",
+            "title": "Stracciatella",
+            "price": "11",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        },
+        {
+            "image": "/img/menu/8.jpg",
+            "title": "Carpaccio cá daurade",
+            "price": "6",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+        },
+        {
+            "image": "/img/menu/9.jpg",
+            "title": "Bánh cá giòn",
+            "price": "4",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+            "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+        },
+        {
+            "image": "/img/menu/10.jpg",
+            "title": "Carpaccio cá daurade",
+            "price": "6",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+        },
+        {
+            "image": "/img/menu/11.jpg",
+            "title": "Carpaccio cá daurade",
+            "price": "7",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        },
+        {
+            "image": "/img/menu/12.jpg",
+            "title": "Carpaccio cá daurade",
+            "price": "12",
+            "currency": "$",
+            "rating": 5,
+            "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+        }
+    ]
+}
