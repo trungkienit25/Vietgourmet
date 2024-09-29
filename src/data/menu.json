@@ -8,103 +8,44 @@
                 {
                     "image": "/img/menu/1.jpg",
                     "title": "Cà phê Arabica",
-                    "price": "45000",
+                    "price": "45k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Cà phê Arabica có mùi thơm nồng nàn, vị chua nhẹ."
+                    "text": "Mùi hương thơm nồng nàn, vị chua nhẹ."
                 },
                 {
                     "image": "/img/menu/2.jpg",
                     "title": "Cà phê Robusta",
-                    "price": "55000",
+                    "price": "55k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Hạt cà phê Robusta khá nhỏ, có mùi thơm dịu, được sấy trực tiếp chứ không lên men nên có vị đắng gắt, độ cafein cao, nước có màu nâu sánh, đậm đặc, phù hợp với khẩu vị người Việt Nam.",
+                    "text": "Mùi thơm dịu, được sấy trực tiếp chứ không lên men nên phù hợp với khẩu vị người Việt Nam.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/3.jpg",
                     "title": "Cà phê Culi",
-                    "price": "45000",
+                    "price": "45k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Cà phê culi vị đắng ngắt, hương thơm quyến rũ, hàm lượng cafein cao, nước màu đen sánh."
+                    "text": "Hương thơm quyến rũ, hàm lượng cafein cao, nước màu đen sánh."
                 },
                 {
                     "image": "/img/menu/4.jpg",
                     "title": "Cà phê Cherry",
-                    "price": "50000",
+                    "price": "50k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Hạt cà phê có màu vàng, sáng bóng, mùi hương thoang thoảng khi pha và có vị chua nhẹ, tạo ra một cảm hứng thư giãn dễ chịu."
+                    "text": "Mùi hương thoang thoảng khi pha và có vị chua nhẹ, thư giãn, dễ chịu."
                 },
                 {
                     "image": "/img/menu/5.jpg",
                     "title": "Cà phê Moka",
-                    "price": "60000",
+                    "price": "60k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Cà phê Moka là một món quà đặt biệt dành tặng nhau của những người sành cà phê.",
+                    "text": "Một món quà đặc biệt dành tặng cho những người sành cà phê.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/6.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-                },
-                {
-                    "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-                },
-                {
-                    "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
-                },
-                {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-                },
-                {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
                 }
             ]
         },
@@ -116,15 +57,15 @@
                 {
                     "image": "/img/menu/1.jpg",
                     "title": "Espresso",
-                    "price": "50000",
+                    "price": "50k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Espresso mang hương vị đậm đà, trên mặt có lớp bọt màu nâu tạo hương thơm và sự sang trọng cho cà phê. Đây là loại cà phê này rất đắng, đậm đặc và có lượng cafein cao."
+                    "text": "Hương vị đậm đà, vẻ đẹp sang trọng."
                 },
                 {
                     "image": "/img/menu/2.jpg",
                     "title": "Cappuccino",
-                    "price": "50000",
+                    "price": "50k",
                     "currency": "VNĐ",
                     "rating": 5,
                     "text": "Cà phê Cappuccino không còn quá xa lạ đối với người dân Việt Nam, một tách cà phê gồm 3 tầng thường được chia đều nhau: cà phê espresso, sữa nóng và bọt sữa.",
@@ -133,86 +74,35 @@
                 {
                     "image": "/img/menu/3.jpg",
                     "title": "Macchiato",
-                    "price": "50000",
+                    "price": "50k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Macchiato (trong tiếng Ý có nghĩa là lốm đốm), bề mặt tách cà phê được thêm vài vệt sữa lên trên để tạo thành các đường gợn trông bắt mắt mà thôi."
+                    "text": "Bề mặt tách cà phê được thêm vài vệt sữa lên trên để tạo thành các đường gợn trông bắt mắt mà thôi."
                 },
                 {
                     "image": "/img/menu/4.jpg",
                     "title": "Latte",
-                    "price": "11",
-                    "currency": "$",
+                    "price": "50k",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Cà phê Latte (trong tiếng Ý có nghĩa là cà phê sữa), chúng ta rất dễ nhầm lẫn giữa vị của Latte với Capuchino, tuy nhiên lượng bọt sữa chỉ bằng 1 nửa so với sữa nóng."
+                    "text": "Giống với Cappuccino, tuy nhiên lượng bọt sữa chỉ bằng 1 nửa so với sữa nóng."
                 },
                 {
                     "image": "/img/menu/5.jpg",
                     "title": "Mocha",
-                    "price": "55000",
+                    "price": "55k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Mocha mang đến cho người thưởng thức hương vị béo thơm của kem tươi cùng với vị ngậy của chocolate nóng.",
+                    "text": "Hương vị béo thơm của kem tươi cùng với vị ngậy của chocolate nóng.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/6.jpg",
                     "title": "Americano",
-                    "price": "50000",
+                    "price": "50k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Cà phê Americano chính là Espresso đã được pha loãng với lượng nước gấp đôi, vừa giữ được hương vị của Espresso, vừa hạn chế được nhiều tác hại từ cafein."
-                },
-                {
-                    "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-                },
-                {
-                    "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
-                },
-                {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-                },
-                {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Hương vị của Espresso nhưng hạn chế được nhiều tác hại từ cafein."
                 }
             ]
         },
@@ -224,59 +114,59 @@
                 {
                     "image": "/img/menu/15.jpg",
                     "title": "Trà Nõn Tôm",
-                    "price": "30000",
+                    "price": "30k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng của vùng Tân Cương Thái Nguyên. Trà Nõn Tôm chỉ sử dụng một tôm duy nhất trên mỗi búp trà, cùng với những bí quyết trong quá trình chế biến mà trà có hương thơm cốm rất đậm, vị dày đượm."
+                    "text": "Trà thượng hạng của vùng Tân Cương Thái Nguyên, hương thơm cốm rất đậm, vị dày đượm."
                 },
                 {
                     "image": "/img/menu/4.jpg",
                     "title": "Trà Sen Tây Hồ",
-                    "price": "35000",
+                    "price": "35k",
                     "currency": "VNĐ",
                     "rating": 4,
-                    "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà. Tên gọi này nhằm tôn vinh nghệ thuật ướp trà hoa cổ xưa cũng như những giá trị văn hóa được truyền lại cho đời sau."
+                    "text": "Thiên cổ đệ nhất trà, tôn vinh nghệ thuật ướp trà hoa cổ xưa cùng những giá trị văn hóa lâu đời."
                 },
                 {
                     "image": "/img/menu/6.jpg",
                     "title": "Trà Shan Tuyết Tây Bắc",
-                    "price": "30000",
+                    "price": "30k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Trà Shan Tuyết Tây Bắc được chế biến từ những búp trà non của những cây trà cổ thụ trên các đỉnh núi ở Tây Bắc. Những búp trà chắc khoẻ và xanh tươi mơn mởn hấp thụ dưỡng chất của đất và mây trời, mang đến sản phẩm có chất lượng và hương vị vượt trội.",
+                    "text": "Những búp trà chắc khoẻ và xanh tươi hấp thụ dưỡng chất của đất và mây trời, mang đến hương vị vượt trội.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/10.jpg",
                     "title": "Trà Cổ Thụ Tà Xùa",
-                    "price": "35000",
+                    "price": "35k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác. Tà Xùa là nơi nổi tiếng có những đồi chè cổ thụ bạt ngàn. Thiên nhiên diệu kỳ đã nuôi dưỡng nên những cây chè cao lớn và mạnh mẽ với tuổi đời hàng trăm năm."
+                    "text": "Hương vị độc đáo của đất trời thiên nhiên Tà Xùa diệu kì."
                 },
                 {
                     "image": "/img/menu/14.jpg",
                     "title": "Trà Ô Long",
-                    "price": "35000",
+                    "price": "35k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Trà Ô Long nổi tiếng toàn thế giới bởi phẩm chất rất tốt của nó: trà thơm, giàu mùi vị, hậu vị kéo dài, nước dày…  Tất cả đều rất tinh tế, có thể pha được rất nhiều lần nước."
+                    "text": "Thơm, giàu mùi vị, hậu vị kéo dài, nước dày… Tất cả đều rất tinh tế, có thể pha được rất nhiều lần nước."
                 },
                 {
                     "image": "/img/menu/14.jpg",
                     "title": "Hồng Trà Hà Giang",
-                    "price": "30000",
+                    "price": "30k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Hồng Trà được ví như viên ngọc quý, như “rượu vang” của giới uống trà. Điều thực sự nổi bật với quá trình chế biến Hồng Trà Hà Giang không phải là khuôn khổ lý thuyết, mà là sự siêng năng và đam mê đến từng chi tiết."
+                    "text": "“Rượu vang” của giới uống trà."
                 },
                 {
                     "image": "/img/menu/14.jpg",
                     "title": "Trà Sâm Dứa Bảo Lộc",
-                    "price": "30000",
+                    "price": "30k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Trà Sâm Dứa từ khi xuất hiện đã ngay lập tức chinh phục hàng ngàn người yêu trà bởi hương vị độc đáo và dễ gây nghiện. Giá trị của nó thể hiện ở công thức sáng tạo bằng cách kết hợp cốt trà xanh chất lượng cao với các loại thảo mộc tốt cho sức khỏe."
+                    "text": "Hương vị độc đáo và dễ gây nghiện, cốt trà xanh chất lượng cao kết hợp với các loại thảo mộc tốt cho sức khỏe."
                 }
             ]
         },
@@ -288,61 +178,27 @@
                 {
                     "image": "/img/menu/6.jpg",
                     "title": "Bánh đậu xanh",
-                    "price": "20000",
+                    "price": "20k",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Vị ngọt bùi từ đậu xanh, hòa quyện cùng hương thơm đặc trưng của vùng quê Hải Dương."
                 },
                 {
                     "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "title": "Kẹo lạc",
+                    "price": "15k",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Món ăn dân dã của Việt Nam, kết hợp giữa vị ngọt của đường, vị béo bùi của lạc rang và hương thơm của vừng."
                 },
                 {
                     "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "title": "Ô mai",
+                    "price": "10k",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "text": "Món ăn truyền thống của Việt Nam, kết hợp vị chua, ngọt, mặn hài hòa từ các loại trái cây được tẩm ướp và sấy khô.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
-                },
-                {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
-                },
-                {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
                 }
             ]
         }
