@@ -1,50 +1,50 @@
 {
     "categories": [
         {
-            "name": "Starters",
-            "slug": "starters",
-            "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
+            "name": "Cà phê Việt Nam",
+            "slug": "coffee_vn",
+            "description": "Các loại cà phê đặc sản Việt Nam như Arabica, Robusta, Culi, Moka và Chồn, từ hạt rang xay nguyên chất đến cà phê pha sẵn tiện lợi.",
             "items": [
                 {
                     "image": "/img/menu/1.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Cà phê Arabica",
+                    "price": "45000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Cà phê Arabica có mùi thơm nồng nàn, vị chua nhẹ."
                 },
                 {
                     "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "title": "Cà phê Robusta",
+                    "price": "55000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "text": "Hạt cà phê Robusta khá nhỏ, có mùi thơm dịu, được sấy trực tiếp chứ không lên men nên có vị đắng gắt, độ cafein cao, nước có màu nâu sánh, đậm đặc, phù hợp với khẩu vị người Việt Nam.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/3.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Cà phê Culi",
+                    "price": "45000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Cà phê culi vị đắng ngắt, hương thơm quyến rũ, hàm lượng cafein cao, nước màu đen sánh."
                 },
                 {
                     "image": "/img/menu/4.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "title": "Cà phê Cherry",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Hạt cà phê có màu vàng, sáng bóng, mùi hương thoang thoảng khi pha và có vị chua nhẹ, tạo ra một cảm hứng thư giãn dễ chịu."
                 },
                 {
                     "image": "/img/menu/5.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "title": "Cà phê Moka",
+                    "price": "60000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "text": "Cà phê Moka là một món quà đặt biệt dành tặng nhau của những người sành cà phê.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
@@ -109,59 +109,59 @@
             ]
         },
         {
-            "name": "Main Dishes",
-            "slug": "main-dishes",
-            "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
+            "name": "Cà phê Ý",
+            "slug": "coffee_it",
+            "description": "Các loại cà phê mang hương vị Ý cao cấp, lãng mạn.",
             "items": [
                 {
                     "image": "/img/menu/1.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Espresso",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Espresso mang hương vị đậm đà, trên mặt có lớp bọt màu nâu tạo hương thơm và sự sang trọng cho cà phê. Đây là loại cà phê này rất đắng, đậm đặc và có lượng cafein cao."
                 },
                 {
                     "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "title": "Cappuccino",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "text": "Cà phê Cappuccino không còn quá xa lạ đối với người dân Việt Nam, một tách cà phê gồm 3 tầng thường được chia đều nhau: cà phê espresso, sữa nóng và bọt sữa.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/3.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Macchiato",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Macchiato (trong tiếng Ý có nghĩa là lốm đốm), bề mặt tách cà phê được thêm vài vệt sữa lên trên để tạo thành các đường gợn trông bắt mắt mà thôi."
                 },
                 {
                     "image": "/img/menu/4.jpg",
-                    "title": "Stracciatella",
+                    "title": "Latte",
                     "price": "11",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Cà phê Latte (trong tiếng Ý có nghĩa là cà phê sữa), chúng ta rất dễ nhầm lẫn giữa vị của Latte với Capuchino, tuy nhiên lượng bọt sữa chỉ bằng 1 nửa so với sữa nóng."
                 },
                 {
                     "image": "/img/menu/5.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "title": "Mocha",
+                    "price": "55000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "text": "Mocha mang đến cho người thưởng thức hương vị béo thơm của kem tươi cùng với vị ngậy của chocolate nóng.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/6.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Americano",
+                    "price": "50000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Cà phê Americano chính là Espresso đã được pha loãng với lượng nước gấp đôi, vừa giữ được hương vị của Espresso, vừa hạn chế được nhiều tác hại từ cafein."
                 },
                 {
                     "image": "/img/menu/7.jpg",
@@ -217,63 +217,79 @@
             ]
         },
         {
-            "name": "Drinks",
-            "slug": "drinks",
-            "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
+            "name": "Trà",
+            "slug": "tea",
+            "description": "Mang đến những loại trà truyền thống và đặc sản như trà xanh, trà Shan Tuyết, trà sen Tây Hồ, với hương vị thơm ngon và lợi ích sức khỏe.",
             "items": [
                 {
                     "image": "/img/menu/15.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Trà Nõn Tôm",
+                    "price": "30000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng của vùng Tân Cương Thái Nguyên. Trà Nõn Tôm chỉ sử dụng một tôm duy nhất trên mỗi búp trà, cùng với những bí quyết trong quá trình chế biến mà trà có hương thơm cốm rất đậm, vị dày đượm."
                 },
                 {
                     "image": "/img/menu/4.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "13",
-                    "currency": "$",
+                    "title": "Trà Sen Tây Hồ",
+                    "price": "35000",
+                    "currency": "VNĐ",
                     "rating": 4,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà. Tên gọi này nhằm tôn vinh nghệ thuật ướp trà hoa cổ xưa cũng như những giá trị văn hóa được truyền lại cho đời sau."
                 },
                 {
                     "image": "/img/menu/6.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "title": "Trà Shan Tuyết Tây Bắc",
+                    "price": "30000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+                    "text": "Trà Shan Tuyết Tây Bắc được chế biến từ những búp trà non của những cây trà cổ thụ trên các đỉnh núi ở Tây Bắc. Những búp trà chắc khoẻ và xanh tươi mơn mởn hấp thụ dưỡng chất của đất và mây trời, mang đến sản phẩm có chất lượng và hương vị vượt trội.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
                     "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Trà Cổ Thụ Tà Xùa",
+                    "price": "35000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác. Tà Xùa là nơi nổi tiếng có những đồi chè cổ thụ bạt ngàn. Thiên nhiên diệu kỳ đã nuôi dưỡng nên những cây chè cao lớn và mạnh mẽ với tuổi đời hàng trăm năm."
                 },
                 {
                     "image": "/img/menu/14.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "title": "Trà Ô Long",
+                    "price": "35000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "Trà Ô Long nổi tiếng toàn thế giới bởi phẩm chất rất tốt của nó: trà thơm, giàu mùi vị, hậu vị kéo dài, nước dày…  Tất cả đều rất tinh tế, có thể pha được rất nhiều lần nước."
+                },
+                {
+                    "image": "/img/menu/14.jpg",
+                    "title": "Hồng Trà Hà Giang",
+                    "price": "30000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Hồng Trà được ví như viên ngọc quý, như “rượu vang” của giới uống trà. Điều thực sự nổi bật với quá trình chế biến Hồng Trà Hà Giang không phải là khuôn khổ lý thuyết, mà là sự siêng năng và đam mê đến từng chi tiết."
+                },
+                {
+                    "image": "/img/menu/14.jpg",
+                    "title": "Trà Sâm Dứa Bảo Lộc",
+                    "price": "30000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Sâm Dứa từ khi xuất hiện đã ngay lập tức chinh phục hàng ngàn người yêu trà bởi hương vị độc đáo và dễ gây nghiện. Giá trị của nó thể hiện ở công thức sáng tạo bằng cách kết hợp cốt trà xanh chất lượng cao với các loại thảo mộc tốt cho sức khỏe."
                 }
             ]
         },
         {
-            "name": "Desserts",
-            "slug": "desserts",
-            "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
+            "name": "Đặc sản",
+            "slug": "region_special",
+            "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
             "items": [
                 {
                     "image": "/img/menu/6.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "title": "Bánh đậu xanh",
+                    "price": "20000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
                 },
