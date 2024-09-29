@@ -21,148 +21,27 @@
             {
                 "label": "Trang chủ",
                 "link": "/",
-                "children": [
-                    {
-                        "label": "Trang chủ 1",
-                        "link": "/"
-                    },
-                    {
-                        "label": "Trang chủ 2",
-                        "link": "/home-2"
-                    }
-                ]
+                "children": []
             },
             {
                 "label": "Giới thiệu",
                 "link": "/about",
-                "children": [
-                    {
-                        "label": "Giới thiệu 1",
-                        "link": "/about"
-                    },
-                    {
-                        "label": "Giới thiệu 2",
-                        "link": "/about-2"
-                    },
-                    {
-                        "label": "Bộ sưu tập 1",
-                        "link": "/gallery"
-                    },
-                    {
-                        "label": "Bộ sưu tập 2",
-                        "link": "/gallery-2"
-                    },
-                    {
-                        "label": "Đánh giá",
-                        "link": "/reviews"
-                    },
-                    {
-                        "label": "Đặt trước",
-                        "link": "/reservation"
-                    },
-                    {
-                        "label": "FAQ",
-                        "link": "/faq"
-                    },
-                    {
-                        "label": "404",
-                        "link": "/404"
-                    }
-                ]
+                "children": []
             },
             {
                 "label": "Thực đơn",
                 "link": "/menu",
-                "children": [
-                    {
-                        "label": "Thực đơn 1",
-                        "link": "/menu"
-                    },
-                    {
-                        "label": "Thực đơn 2",
-                        "link": "/menu-2"
-                    },
-                    {
-                        "label": "Thực đơn 3",
-                        "link": "/menu-3"
-                    },
-                    {
-                        "label": "Thực đơn 4",
-                        "link": "/menu-4"
-                    },
-                    {
-                        "label": "Thực đơn 5",
-                        "link": "/menu-5"
-                    },
-                    {
-                        "label": "Thực đơn 6",
-                        "link": "/menu-6"
-                    }
-                ]
+                "children": []
             },
             {
                 "label": "Blog",
-                "link": "/blog-3",
-                "children": [
-                    {
-                        "label": "Blog",
-                        "link": "/blog-3"
-                    },
-                    {
-                        "label": "Blog list",
-                        "link": "/blog"
-                    },
-                    {
-                        "label": "Blog list 2",
-                        "link": "/blog-2"
-                    },
-                    {
-                        "label": "Publication",
-                        "link": "/blog/beet-and-burrata-salad-with-fried-bread"
-                    },
-                    {
-                        "label": "Publication 2",
-                        "link": "/blog/creamy-kale-pasta"
-                    },
-                    {
-                        "label": "Publication 3",
-                        "link": "/blog/incredible-vegan-mac-and-cheese"
-                    }
-                ]
+                "link": "/blog",
+                "children": []
             },
             {
-                "label": "Cửa hàng",
-                "link": "/shop",
-                "children": [
-                    {
-                        "label": "Cửa hàng",
-                        "link": "/shop"
-                    },
-                    {
-                        "label": "Cửa hàng 2",
-                        "link": "/shop-2"
-                    },
-                    {
-                        "label": "Sản phẩm",
-                        "link": "/products"
-                    },
-                    {
-                        "label": "Sản phẩm 2",
-                        "link": "/products-2"
-                    },
-                    {
-                        "label": "Sản phẩm",
-                        "link": "/product"
-                    },
-                    {
-                        "label": "Giỏ hàng",
-                        "link": "/cart"
-                    },
-                    {
-                        "label": "Thanh toán",
-                        "link": "/checkout"
-                    }
-                ]
+                "label": "Đặt bàn",
+                "link": "/reservation",
+                "children": 0
             },
             {
                 "label": "Liên hệ",
