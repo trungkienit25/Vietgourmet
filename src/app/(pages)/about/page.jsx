@@ -44,6 +44,11 @@ import CallToActionSection from "@components/sections/CallToAction";
 import PromoVideoSection from "@components/sections/PromoVideo";
 import TeamSection from "@components/sections/Team";
 
+import GalleryData from "@data/gallery.json";
+
+
+const GalleryMasonry = dynamic( () => import("@components/gallery/GalleryMasonry"), { ssr: false } );
+
 const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
 
 export const metadata = {
@@ -62,6 +67,28 @@ const About2 = () => {
       <PromoVideoSection />
       <TeamSection items={3} />
       <TestimonialSlider />
+      <CallToActionSection />
+      <PageBanner pageTitle={"Gallery."} breadTitle={"Gallery"} type={1} />
+      
+      {/* gallery */}
+      <div className="sb-p-90-60">
+        <div className="container">
+          <GalleryMasonry items={GalleryData.items} layout={1} />
+
+          <div>
+            <ul className="sb-pagination">
+              <li className="sb-active"><a href="#.">1</a></li>
+              <li><a href="#.">2</a></li>
+              <li><a href="#.">3</a></li>
+              <li><a href="#.">4</a></li>
+              <li><a href="#.">...</a></li>
+            </ul>
+          </div>
+        </div>
+        
+      </div>
+      {/* gallery end */}
+
       <CallToActionSection />
     </>
   );

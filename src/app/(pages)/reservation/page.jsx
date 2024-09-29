@@ -75,7 +75,7 @@ const Reservation = () => {
 
       <ContactInfoSection />
 
-      <ContactMapSection />
+      {/* <ContactMapSection /> */}
     </>
   );
 };
