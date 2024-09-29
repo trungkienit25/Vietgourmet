@@ -1,19 +1,19 @@
 {
     "image": {
-       "url": "/img/illustrations/girl.png",
-       "alt": "girl"
+        "url": "/img/illustrations/girl.png",
+        "alt": "cô gái"
     },
-    "subtitle": "Hi, new friend!",
-    "title": "We do not <span>cook</span>, <br>we <span>create</span> your <br>emotions!",
-    "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
+    "subtitle": "Chào, người bạn mới!",
+    "title": "Chúng tôi không chỉ <span>nấu</span>, <br>chúng tôi <span>tạo ra</span> cảm xúc của bạn!",
+    "description": "Chúng tôi cung cấp trải nghiệm ẩm thực độc đáo<br>để bạn thưởng thức từng khoảnh khắc.",
     "button1": {
         "link": "/menu",
         "icon": "/img/ui/icons/menu.svg",
-        "label": "Our menu"
+        "label": "Thực đơn của chúng tôi"
     },
     "button2": {
         "link": "/about",
         "icon": "/img/ui/icons/arrow.svg",
-        "label": "About us"
+        "label": "Về chúng tôi"
     }
 }

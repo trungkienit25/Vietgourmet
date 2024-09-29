@@ -53,7 +53,7 @@
                     "price": "14",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/7.jpg",
@@ -61,7 +61,7 @@
                     "price": "11",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/8.jpg",
@@ -69,8 +69,8 @@
                     "price": "6",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/9.jpg",
@@ -78,8 +78,8 @@
                     "price": "4",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
                 },
                 {
                     "image": "/img/menu/10.jpg",
@@ -87,8 +87,8 @@
                     "price": "6",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/11.jpg",
@@ -96,7 +96,7 @@
                     "price": "7",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/12.jpg",
@@ -104,7 +104,7 @@
                     "price": "12",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 }
             ]
         },
@@ -169,7 +169,7 @@
                     "price": "11",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/8.jpg",
@@ -177,8 +177,8 @@
                     "price": "6",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/9.jpg",
@@ -186,8 +186,8 @@
                     "price": "4",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
                 },
                 {
                     "image": "/img/menu/10.jpg",
@@ -195,8 +195,8 @@
                     "price": "6",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/11.jpg",
@@ -204,7 +204,7 @@
                     "price": "7",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/12.jpg",
@@ -212,7 +212,7 @@
                     "price": "12",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 }
             ]
         },
@@ -299,7 +299,7 @@
                     "price": "11",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/8.jpg",
@@ -307,8 +307,8 @@
                     "price": "6",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/9.jpg",
@@ -316,8 +316,8 @@
                     "price": "4",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Hot</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
                 },
                 {
                     "image": "/img/menu/10.jpg",
@@ -325,8 +325,8 @@
                     "price": "6",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
                     "image": "/img/menu/11.jpg",
@@ -334,7 +334,7 @@
                     "price": "7",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
                     "image": "/img/menu/12.jpg",
@@ -342,7 +342,7 @@
                     "price": "12",
                     "currency": "$",
                     "rating": 5,
-                    "text": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp."
+                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 }
             ]
         }

@@ -4,26 +4,26 @@
         {
             "title": "Chevrefrit au miel",
             "image": "/img/menu/1.jpg",
-            "description": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "description": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
             "quantity": 1,
             "price": "14.00",
-            "currency": "$"
+            "currency": "VNĐ"
         },
         {
             "title": "Carpaccio de daurade",
             "image": "/img/menu/2.jpg",
-            "description": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "description": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
             "quantity": 1,
             "price": "7.99",
-            "currency": "$"
+            "currency": "VNĐ"
         },
         {
             "title": "Stracciatella",
             "image": "/img/menu/3.jpg",
-            "description": "tomatoes, nori, feta cheese, mushrooms, rice noodles, corn, shrimp.",
+            "description": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
             "quantity": 1,
             "price": "11.00",
-            "currency": "$"
+            "currency": "VNĐ"
         }
     ]
 }

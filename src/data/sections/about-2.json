@@ -1,13 +1,13 @@
 {
-    "title": "We are doing more than <br>you expect",
-    "description": "<p>Faudantium magnam error temporibus ipsam aliquid neque quibusdam dolorum, quia ea numquam assumenda mollitia dolorem impedit. Voluptate at quis exercitationem officia temporibus adipisci quae totam enim dolorum, assumenda. Sapiente soluta nostrum reprehenderit a velit obcaecati facilis vitae magnam tenetur neque vel itaque inventore eaque explicabo commodi maxime! Aliquam quasi, voluptates odio.</p><p>Consectetur adipisicing elit. Cupiditate nesciunt amet facilis numquam, nam adipisci qui voluptate voluptas enim obcaecati veritatis animi nulla, mollitia commodi quaerat ex, autem ea laborum.</p>",
+    "title": "Chúng tôi làm nhiều hơn <br> bạn mong đợi",
+    "description": "<p>Chúng tôi vượt qua những khó khăn và trở ngại, biến thách thức thành cơ hội để mang lại kết quả vượt trên sự mong đợi của bạn. </p><p>Chúng tôi không ngừng nỗ lực để đáp ứng và vượt qua sự mong đợi của bạn, cam kết mang đến sự hài lòng tuyệt đối.</p>",
     "image": {
-        "url": "/img/gallery/2.jpg",
-        "alt": "image"
+    "url": "/img/gallery/2.jpg",
+    "alt": "image"
     },
     "number": {
-        "value": "17",
-        "label": "Years Experiense"
+    "value": "17",
+    "label": "Năm Kinh nghiệm"
     },
     "signature": "/img/ui/signature.png"
-}
+    }

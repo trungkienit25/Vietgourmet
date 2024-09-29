@@ -1,6 +1,6 @@
 {
     "settings": {
-        "siteName": "Starbelly",
+        "siteName": "Vietgourmet",
         "siteDescription": "Restaurant React Next.JS Template",
         "formspreeURL": "https://formspree.io/f/your_api_key",
         "mapbox": {
@@ -19,160 +19,39 @@
         },
         "menu": [
             {
-                "label": "Home",
+                "label": "Trang chủ",
                 "link": "/",
-                "children": [
-                    {
-                        "label": "Homepage 1",
-                        "link": "/"
-                    },
-                    {
-                        "label": "Homepage 2",
-                        "link": "/home-2"
-                    }
-                ]
+                "children": []
             },
             {
-                "label": "Pages",
+                "label": "Giới thiệu",
                 "link": "/about",
-                "children": [
-                    {
-                        "label": "About 1",
-                        "link": "/about"
-                    },
-                    {
-                        "label": "About 2",
-                        "link": "/about-2"
-                    },
-                    {
-                        "label": "Gallery 1",
-                        "link": "/gallery"
-                    },
-                    {
-                        "label": "Gallery 2",
-                        "link": "/gallery-2"
-                    },
-                    {
-                        "label": "Reviews",
-                        "link": "/reviews"
-                    },
-                    {
-                        "label": "Reservation",
-                        "link": "/reservation"
-                    },
-                    {
-                        "label": "FAQ",
-                        "link": "/faq"
-                    },
-                    {
-                        "label": "404",
-                        "link": "/404"
-                    }
-                ]
+                "children": []
             },
             {
-                "label": "Menu",
+                "label": "Thực đơn",
                 "link": "/menu",
-                "children": [
-                    {
-                        "label": "Menu 1",
-                        "link": "/menu"
-                    },
-                    {
-                        "label": "Menu 2",
-                        "link": "/menu-2"
-                    },
-                    {
-                        "label": "Menu 3",
-                        "link": "/menu-3"
-                    },
-                    {
-                        "label": "Menu 4",
-                        "link": "/menu-4"
-                    },
-                    {
-                        "label": "Menu 5",
-                        "link": "/menu-5"
-                    },
-                    {
-                        "label": "Menu 6",
-                        "link": "/menu-6"
-                    }
-                ]
+                "children": []
             },
             {
                 "label": "Blog",
-                "link": "/blog-3",
-                "children": [
-                    {
-                        "label": "Blog",
-                        "link": "/blog-3"
-                    },
-                    {
-                        "label": "Blog list",
-                        "link": "/blog"
-                    },
-                    {
-                        "label": "Blog list 2",
-                        "link": "/blog-2"
-                    },
-                    {
-                        "label": "Publication",
-                        "link": "/blog/beet-and-burrata-salad-with-fried-bread"
-                    },
-                    {
-                        "label": "Publication 2",
-                        "link": "/blog/creamy-kale-pasta"
-                    },
-                    {
-                        "label": "Publication 3",
-                        "link": "/blog/incredible-vegan-mac-and-cheese"
-                    }
-                ]
+                "link": "/blog",
+                "children": []
             },
             {
-                "label": "Shop",
-                "link": "/shop",
-                "children": [
-                    {
-                        "label": "Shop",
-                        "link": "/shop"
-                    },
-                    {
-                        "label": "Shop 2",
-                        "link": "/shop-2"
-                    },
-                    {
-                        "label": "Products",
-                        "link": "/products"
-                    },
-                    {
-                        "label": "Products 2",
-                        "link": "/products-2"
-                    },
-                    {
-                        "label": "Product page",
-                        "link": "/product"
-                    },
-                    {
-                        "label": "Cart",
-                        "link": "/cart"
-                    },
-                    {
-                        "label": "Checkout",
-                        "link": "/checkout"
-                    }
-                ]
+                "label": "Đặt bàn",
+                "link": "/reservation",
+                "children": 0
             },
             {
-                "label": "Contact",
+                "label": "Liên hệ",
                 "link": "/contact",
                 "children": 0
             }
         ]
     },
     "footer": {
-        "copy": "© 2024 Starbelly. All rights reserved."
+        "copy": "© 2024 Vietgourmet. All rights reserved."
     },
     "social": [
         {

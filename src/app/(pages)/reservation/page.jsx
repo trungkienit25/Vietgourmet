@@ -1,12 +1,10 @@
-import React from "react";
 
 import AppData from "@data/app.json";
 
 import Link from "next/link";
 
-import ContactInfoSection from "@components/sections/ContactInfo";
-import ContactMapSection from "@components/sections/ContactMap";
 import ReservationForm from "@components/forms/ReservationForm";
+import ContactInfoSection from "@components/sections/ContactInfo";
 
 export const metadata = {
   title: {
