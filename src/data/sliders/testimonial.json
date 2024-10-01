@@ -11,26 +11,26 @@
             "title": "Rất ngon",
             "name": "Emma Newman",
             "rating": 5,
-            "image": "/img/faces/1.jpg",
+            "image": "/img/faces/1.png",
             "text": "Tôi rất thích món ăn ở đây. Mọi thứ đều tuyệt vời, từ hương vị đến chất lượng phục vụ!"
         },
         {
             "title": "Tôi ăn trưa ở đây mỗi ngày",
             "name": "Paul Trueman",
             "rating": 5,
-            "image": "/img/faces/2.jpg",
+            "image": "/img/faces/2.png",
             "text": "Món ăn luôn tươi ngon và phục vụ nhanh chóng. Tôi rất hài lòng!"
         },
         {
             "title": "Dịch vụ tuyệt vời",
-            "name": "Viktoria Freeman",
+            "name": "Gordon Freeman",
             "rating": 5,
             "image": "/img/faces/3.jpg",
             "text": "Đội ngũ phục vụ rất chuyên nghiệp và thân thiện. Tôi chắc chắn sẽ quay lại!"
         },
         {
             "title": "Starbelly thật tuyệt vời!",
-            "name": "Audrey Oldman",
+            "name": "Henry Cavill",
             "rating": 5,
             "image": "/img/faces/4.jpg",
             "text": "Một trải nghiệm tuyệt vời từ đầu đến cuối. Tôi rất thích không khí nơi đây!"
