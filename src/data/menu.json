@@ -301,17 +301,17 @@
             "description": "Chỉ có một số người không thể từ chối<br>việc lựa chọn những điều mình muốn.",
             "items": [
                 {
-                    "image": "/img/menu/1.jpg",
-                    "title": "Espresso",
-                    "price": "50000",
+                    "image": "/img/menu/Set/1.jpg",
+                    "title": "Set 1",
+                    "price": "739.000",
                     "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
                 },
                 {
-                    "image": "/img/menu/2.jpg",
-                    "title": "Cappuccino",
-                    "price": "50000",
+                    "image": "/img/menu/Set/2.jpeg",
+                    "title": "Set 2",
+                    "price": "869.000",
                     "currency": "VNĐ",
                     "rating": 5,
                     "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
