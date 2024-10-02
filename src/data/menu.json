@@ -296,108 +296,32 @@
             ]
         },
         {
-            "name": "Cà phê Ý",
+            "name": "Set Menu",
             "slug": "coffee_it",
             "description": "Các loại cà phê mang hương vị Ý cao cấp, lãng mạn.",
             "items": [
                 {
-                    "image": "/img/menu/1.jpg",
-                    "title": "Espresso",
-                    "price": "50000",
+                    "image": "/img/menu/Set/1.jpg",
+                    "title": "Set 1",
+                    "price": "739.000",
                     "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Espresso mang hương vị đậm đà, trên mặt có lớp bọt màu nâu tạo hương thơm và sự sang trọng cho cà phê. Đây là loại cà phê này rất đắng, đậm đặc và có lượng cafein cao."
-                },
-                {
-                    "image": "/img/menu/2.jpg",
-                    "title": "Cappuccino",
-                    "price": "50000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Cà phê Cappuccino không còn quá xa lạ đối với người dân Việt Nam, một tách cà phê gồm 3 tầng thường được chia đều nhau: cà phê espresso, sữa nóng và bọt sữa.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/3.jpg",
-                    "title": "Macchiato",
-                    "price": "50000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Macchiato (trong tiếng Ý có nghĩa là lốm đốm), bề mặt tách cà phê được thêm vài vệt sữa lên trên để tạo thành các đường gợn trông bắt mắt mà thôi."
-                },
-                {
-                    "image": "/img/menu/4.jpg",
-                    "title": "Latte",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "Cà phê Latte (trong tiếng Ý có nghĩa là cà phê sữa), chúng ta rất dễ nhầm lẫn giữa vị của Latte với Capuchino, tuy nhiên lượng bọt sữa chỉ bằng 1 nửa so với sữa nóng."
-                },
-                {
-                    "image": "/img/menu/5.jpg",
-                    "title": "Mocha",
-                    "price": "55000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Mocha mang đến cho người thưởng thức hương vị béo thơm của kem tươi cùng với vị ngậy của chocolate nóng.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/6.jpg",
-                    "title": "Americano",
-                    "price": "50000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Cà phê Americano chính là Espresso đã được pha loãng với lượng nước gấp đôi, vừa giữ được hương vị của Espresso, vừa hạn chế được nhiều tác hại từ cafein."
-                },
-                {
-                    "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
                     "rating": 5,
                     "text": ""
                 },
                 {
-                    "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "image": "/img/menu/Set/2.jpeg",
+                    "title": "Set 2",
+                    "price": "869.000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
                 },
                 {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
-                },
-                {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
+                    "image": "/img/menu/Set/3.jpg",
+                    "title": "Set BBQ Family",
+                    "price": "969.000",
+                    "currency": "VNĐ",
                     "rating": 5,
                     "text": ""
                 }
