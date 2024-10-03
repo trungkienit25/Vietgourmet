@@ -211,7 +211,15 @@
                     "rating": 5,
                     "text": "Hoa Quả Theo Mùa Ăn Kèm Phomai Burrata Và Sốt Nâu",
                     "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
-                },
+                }
+            ]
+        },
+        {
+            "name": "Món chính",
+            "slug": "region_special",
+            "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
+            "items": [
+                
                 {
                     "image": "/img/menu/Food/bruschetta.jpeg",
                     "title": "Bruschetta",
