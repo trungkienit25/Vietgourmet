@@ -1,9 +1,182 @@
 {
     "categories": [
+        {
+            "name": "Cà phê",
+            "slug": "coffee_vn",
+            "description": "Các loại cà phê đặc sản Việt Nam như Arabica, Robusta, Culi, Moka và Chồn, từ hạt rang xay nguyên chất đến cà phê pha sẵn tiện lợi.",
+            "items": [
+                {
+                    "image": "/img/menu/VN/1.jpg",
+                    "title": "Cà phê Arabica",
+                    "price": "45000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Cà phê Arabica có mùi thơm nồng nàn, vị chua nhẹ."
+                },
+                {
+                    "image": "/img/menu/VN/Rob.jpg",
+                    "title": "Cà phê Robusta",
+                    "price": "55000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Hạt cà phê Robusta khá nhỏ, có mùi thơm dịu, được sấy trực tiếp chứ không lên men nên có vị đắng gắt, độ cafein cao, nước có màu nâu sánh, đậm đặc, phù hợp với khẩu vị người Việt Nam.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/VN/Culi.jpg",
+                    "title": "Cà phê Culi",
+                    "price": "45000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Cà phê culi vị đắng ngắt, hương thơm quyến rũ, hàm lượng cafein cao, nước màu đen sánh."
+                },
+                {
+                    "image": "/img/menu/VN/Cherry.jpg",
+                    "title": "Cà phê Cherry",
+                    "price": "50000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Hạt cà phê có màu vàng, sáng bóng, mùi hương thoang thoảng khi pha và có vị chua nhẹ, tạo ra một cảm hứng thư giãn dễ chịu."
+                },
+                {
+                    "image": "/img/menu/VN/Moka.jpg",
+                    "title": "Cà phê Moka",
+                    "price": "60000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Một món quà đặt biệt dành tặng nhau của những người sành cà phê.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/VN/Egg.jpg",
+                    "title": "Cafe trứng",
+                    "price": "14",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": ""
+                },
+                {
+                    "image": "/img/menu/VN/Cacao.jpg",
+                    "title": "Cafe Cacao ",
+                    "price": "11",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": ""
+                },
+                {
+                    "image": "/img/menu/VN/TT.jpg",
+                    "title": "Cafe truyền thống",
+                    "price": "6",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                },
+                {
+                    "image": "/img/menu/VN/Hn.jpg",
+                    "title": "Cafe trứng hạnh nhân",
+                    "price": "4",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "",
+                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+                },
+                {
+                    "image": "/img/menu/VN/Matcha.jpg",
+                    "title": "Matcha trứng",
+                    "price": "6",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": "",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                },
+                {
+                    "image": "/img/menu/VN/O.jpg",
+                    "title": "Oreo trứng",
+                    "price": "7",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": ""
+                },
+                {
+                    "image": "/img/menu/VN/DX.jpg",
+                    "title": "Đậu xanh trứng",
+                    "price": "12",
+                    "currency": "$",
+                    "rating": 5,
+                    "text": ""
+                }
+            ]
+        },
         
         {
-            "name": "Món khai vị",
-            "slug": "Dessert",
+            "name": "Trà",
+            "slug": "tea",
+            "description": "Mang đến những loại trà truyền thống và đặc sản như trà xanh, trà Shan Tuyết, trà sen Tây Hồ, với hương vị thơm ngon và lợi ích sức khỏe.",
+            "items": [
+                {
+                    "image": "/img/menu/Tea/Tôm.jpg",
+                    "title": "Trà Nõn Tôm",
+                    "price": "30000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng của vùng Tân Cương Thái Nguyên, có hương thơm cốm rất đậm, vị dày đượm."
+                },
+                {
+                    "image": "/img/menu/Tea/Sen.jpg",
+                    "title": "Trà Sen Tây Hồ",
+                    "price": "35000",
+                    "currency": "VNĐ",
+                    "rating": 4,
+                    "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà. Tên gọi này nhằm tôn vinh nghệ thuật ướp trà hoa cổ xưa cũng như những giá trị văn hóa được truyền lại cho đời sau."
+                },
+                {
+                    "image": "/img/menu/Tea/Shan.jpg",
+                    "title": "Trà Shan Tuyết",
+                    "price": "30000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/Tea/Cothu.jpg",
+                    "title": "Trà Cổ Thụ",
+                    "price": "35000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
+                },
+                {
+                    "image": "/img/menu/Tea/Long.jpg",
+                    "title": "Trà Ô Long",
+                    "price": "35000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Ô Long nổi tiếng toàn thế giới bởi phẩm chất rất tốt của nó: trà thơm, giàu mùi vị, hậu vị kéo dài, nước dày…  Tất cả đều rất tinh tế, có thể pha được rất nhiều lần nước."
+                },
+                {
+                    "image": "/img/menu/Tea/Hong.jpg",
+                    "title": "Hồng Trà",
+                    "price": "30000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Hồng Trà được ví như viên ngọc quý, như “rượu vang” của giới uống trà. Điều thực sự nổi bật với quá trình chế biến Hồng Trà Hà Giang không phải là khuôn khổ lý thuyết, mà là sự siêng năng và đam mê đến từng chi tiết."
+                },
+                {
+                    "image": "/img/menu/Tea/Sam.jpg",
+                    "title": "Trà Sâm Dứa",
+                    "price": "30000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Sâm Dứa từ khi xuất hiện đã ngay lập tức chinh phục hàng ngàn người yêu trà bởi hương vị độc đáo và dễ gây nghiện. Giá trị của nó thể hiện ở công thức sáng tạo bằng cách kết hợp cốt trà xanh chất lượng cao với các loại thảo mộc tốt cho sức khỏe."
+                }
+            ]
+        },
+        {
+            "name": "Món ăn",
+            "slug": "region_special",
+            "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
             "items": [
                 {
                     "image": "/img/menu/Food/bido.jpeg",
@@ -38,15 +211,7 @@
                     "rating": 5,
                     "text": "Hoa Quả Theo Mùa Ăn Kèm Phomai Burrata Và Sốt Nâu",
                     "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
-                }
-            ]
-        },
-        {
-            "name": "Món chính",
-            "slug": "region_special",
-            "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
-            "items": [
-                
+                },
                 {
                     "image": "/img/menu/Food/bruschetta.jpeg",
                     "title": "Bruschetta",
@@ -130,178 +295,6 @@
                 }
             ]
         },
-        {
-            "name": "Tráng miệng",
-            "slug": "trang_mieng",
-            "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
-            "items": [
-                {
-                    "image": "/img/menu/TM/brownie.jpeg",
-                    "title": "Brownie-Cheese",
-                    "price": "85.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/chocolate.jpeg",
-                    "title": "Chocolate Mousse",
-                    "price": "75.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/lotus.jpeg",
-                    "title": "Sen dừa",
-                    "price": "85.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/pomelo.jpeg",
-                    "title": "Matcha bưởi",
-                    "price": "85.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/strawberry.jpeg",
-                    "title": "Dâu phô mai",
-                    "price": "85.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/tiramisu.jpeg",
-                    "title": "Tiramisu",
-                    "price": "75.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/yogurt.jpeg",
-                    "title": "Plain Yogurt",
-                    "price": "25.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                },
-                {
-                    "image": "/img/menu/TM/1.jpeg",
-                    "title": "Kem cháy hương hồi",
-                    "price": "45.000",
-                    "currency": "VNĐ",
-                    "rating": 5
-                }
-
-                
-            ]
-        },
-        {
-            "name": "Đồ uống",
-            "slug": "coffee_vn",
-            "description": "Các loại cà phê đặc sản Việt Nam như Arabica, Robusta, Culi, Moka và Chồn, từ hạt rang xay nguyên chất đến cà phê pha sẵn tiện lợi.",
-            "items": [
-                {
-                    "image": "/img/menu/VN/1.jpg",
-                    "title": "Cà phê Arabica",
-                    "price": "45.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Cà phê Arabica có mùi thơm nồng nàn, vị chua nhẹ."
-                },
-                {
-                    "image": "/img/menu/VN/Rob.jpg",
-                    "title": "Cà phê Robusta",
-                    "price": "55.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Hạt cà phê Robusta khá nhỏ, có mùi thơm dịu, vị đắng gắt.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/VN/Culi.jpg",
-                    "title": "Cà phê Culi",
-                    "price": "45.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Cà phê culi vị đắng ngắt, hương thơm quyến rũ."
-                },
-                {
-                    "image": "/img/menu/VN/Cherry.jpg",
-                    "title": "Cà phê Cherry",
-                    "price": "50.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Hạt cà phê có màu vàng, sáng bóng, mùi hương thoang thoảng khi pha."
-                },
-                {
-                    "image": "/img/menu/VN/Moka.jpg",
-                    "title": "Cà phê Moka",
-                    "price": "60.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/VN/Matcha.jpg",
-                    "title": "Matcha",
-                    "price": "35.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/VN/Cacao.jpg",
-                    "title": "Cafe Cacao ",
-                    "price": "50.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/VN/Hn.jpg",
-                    "title": "Cafe hạnh nhân",
-                    "price": "45.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/Tea/Tôm.jpg",
-                    "title": "Trà Nõn Tôm",
-                    "price": "30.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng của vùng Tân Cương Thái Nguyên, có hương thơm cốm rất đậm, vị dày đượm."
-                },
-                {
-                    "image": "/img/menu/Tea/Sen.jpg",
-                    "title": "Trà Sen Tây Hồ",
-                    "price": "35.000",
-                    "currency": "VNĐ",
-                    "rating": 4,
-                    "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà. Tên gọi này nhằm tôn vinh nghệ thuật ướp trà hoa cổ xưa cũng như những giá trị văn hóa được truyền lại cho đời sau."
-                },
-                {
-                    "image": "/img/menu/Tea/Shan.jpg",
-                    "title": "Trà Shan Tuyết",
-                    "price": "30.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/Tea/Cothu.jpg",
-                    "title": "Trà Cổ Thụ",
-                    "price": "35000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
-                }
-            ]
-        },        
         {
             "name": "Set Menu",
             "slug": "coffee_it",
