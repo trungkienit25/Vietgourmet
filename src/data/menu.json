@@ -6,222 +6,49 @@
             "description": "Không có ai có thể từ chối<br>việc chọn lựa điều mà họ mong muốn.",
             "items": [
                 {
-                    "image": "/img/menu/1.jpg",
-                    "title": "MMB",
-                    "price": "14",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/VN/Rob.jpg",
-                    "title": "Cà phê Robusta",
-                    "price": "55000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/VN/Culi.jpg",
-                    "title": "Cà phê Culi",
-                    "price": "45000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/VN/Cherry.jpg",
-                    "title": "Cà phê Cherry",
-                    "price": "50000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/VN/Moka.jpg",
-                    "title": "Cà phê Moka",
-                    "price": "60000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/VN/Egg.jpg",
-                    "title": "Cafe trứng",
-                    "price": "14",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/VN/Cacao.jpg",
-                    "title": "Cafe Cacao ",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/VN/TT.jpg",
-                    "title": "Cafe truyền thống",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/VN/Hn.jpg",
-                    "title": "Cafe trứng hạnh nhân",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
-                },
-                {
-                    "image": "/img/menu/VN/Matcha.jpg",
-                    "title": "Matcha trứng",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/VN/O.jpg",
-                    "title": "Oreo trứng",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/VN/DX.jpg",
-                    "title": "Đậu xanh trứng",
-                    "price": "12",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                }
-            ]
-        },
-        
-        {
-            "name": "Trà",
-            "slug": "tea",
-            "description": "Mang đến những loại trà truyền thống và đặc sản như trà xanh, trà Shan Tuyết, trà sen Tây Hồ, với hương vị thơm ngon và lợi ích sức khỏe.",
-            "items": [
-                {
-                    "image": "/img/menu/Tea/Tôm.jpg",
-                    "title": "Trà Nõn Tôm",
-                    "price": "30000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng của vùng Tân Cương Thái Nguyên, có hương thơm cốm rất đậm, vị dày đượm."
-                },
-                {
-                    "image": "/img/menu/Tea/Sen.jpg",
-                    "title": "Trà Sen Tây Hồ",
-                    "price": "35000",
-                    "currency": "VNĐ",
-                    "rating": 4,
-                    "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà. Tên gọi này nhằm tôn vinh nghệ thuật ướp trà hoa cổ xưa cũng như những giá trị văn hóa được truyền lại cho đời sau."
-                },
-                {
-                    "image": "/img/menu/Tea/Shan.jpg",
-                    "title": "Trà Shan Tuyết",
-                    "price": "30000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-                },
-                {
-                    "image": "/img/menu/Tea/Cothu.jpg",
-                    "title": "Trà Cổ Thụ",
-                    "price": "35000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
-                },
-                {
-                    "image": "/img/menu/Tea/Long.jpg",
-                    "title": "Trà Ô Long",
-                    "price": "35000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Ô Long nổi tiếng toàn thế giới bởi phẩm chất rất tốt của nó: trà thơm, giàu mùi vị, hậu vị kéo dài, nước dày…  Tất cả đều rất tinh tế, có thể pha được rất nhiều lần nước."
-                },
-                {
-                    "image": "/img/menu/Tea/Hong.jpg",
-                    "title": "Hồng Trà",
-                    "price": "30000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Hồng Trà được ví như viên ngọc quý, như “rượu vang” của giới uống trà. Điều thực sự nổi bật với quá trình chế biến Hồng Trà Hà Giang không phải là khuôn khổ lý thuyết, mà là sự siêng năng và đam mê đến từng chi tiết."
-                },
-                {
-                    "image": "/img/menu/Tea/Sam.jpg",
-                    "title": "Trà Sâm Dứa",
-                    "price": "30000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "Trà Sâm Dứa từ khi xuất hiện đã ngay lập tức chinh phục hàng ngàn người yêu trà bởi hương vị độc đáo và dễ gây nghiện. Giá trị của nó thể hiện ở công thức sáng tạo bằng cách kết hợp cốt trà xanh chất lượng cao với các loại thảo mộc tốt cho sức khỏe."
-                }
-            ]
-        },
-        {
-            "name": "Món ăn",
-            "slug": "region_special",
-            "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
-            "items": [
-                {
-                    "image": "/img/menu/Food/bido.jpeg",
+                    "image": "/img/menu/Food/bido.jpg",
                     "title": "Súp bí đỏ",
                     "price": "89.000",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Bí đỏ, kem tươi và bánh mì nướng"
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/Food/so.jpeg",
+                    "image": "/img/menu/Food/so.jpg",
                     "title": "Súp sò điệp",
                     "price": "99.000",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Súp Măng Tây Và Sò Điệp Áp Chảo Kèm Bánh Mì Nướng"
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/Food/salad-chicken.jpeg",
+                    "image": "/img/menu/Food/salad-chicken.jpg",
                     "title": "Sa Lát Gà",
                     "price": "149.000",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Xà Lách, Lườn Gà Nướng, Trứng Luộc, Cà Chua Bi, Phomai Parmesan",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                    "text": ""
+                    
                 },
                 {
-                    "image": "/img/menu/Food/saldveg.jpeg",
+                    "image": "/img/menu/Food/saldveg.jpg",
                     "title": "Sa lát hoa quả",
                     "price": "329.000",
                     "currency": "VNĐ",
                     "rating": 5,
-                    "text": "Hoa Quả Theo Mùa Ăn Kèm Phomai Burrata Và Sốt Nâu",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+                    "text": "",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 }
             ]
         },
         {
             "name": "Món chính",
-            "slug": "region_special",
+            "slug": "mon-chinh",
             "description": "Giới thiệu những món đặc sản vùng miền độc đáo như bánh đậu xanh, kẹo lạc, ô mai, mang đậm hương vị truyền thống Việt Nam.",
             "items": [
                 
                 {
-                    "image": "/img/menu/Food/bruschetta.jpeg",
+                    "image": "/img/menu/Food/bruschetta.jpg",
                     "title": "Bruschetta",
                     "price": "95.000",
                     "currency": "VNĐ",
@@ -230,7 +57,7 @@
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
-                    "image": "/img/menu/Food/potato.jpeg",
+                    "image": "/img/menu/Food/potato.jpg",
                     "title": "Khoai Tây Chiên",
                     "price": "89.000",
                     "currency": "VNĐ",
@@ -238,7 +65,7 @@
                     "text": "Khoai Tây Chiên Ăn Kèm Với Sốt Mayo Sa Tế"
                 },
                 {
-                    "image": "/img/menu/Food/steak.jpeg",
+                    "image": "/img/menu/Food/steak.jpg",
                     "title": "Bít Tết Nạc Lưng",
                     "price": "295.000",
                     "currency": "VNĐ",
@@ -246,7 +73,7 @@
                     "text": "Thịt Bò Úc Nạc Lưng Nướng Phục Vụ Cùng Khoai Tây Nghiền Hoặc Khoai Tây Chiên Cùng Salad"
                 },
                 {
-                    "image": "/img/menu/Food/suoncuu.jpeg",
+                    "image": "/img/menu/Food/suoncuu.jpg",
                     "title": "Sườn Cừu Bỏ Lò",
                     "price": "399.000",
                     "currency": "VNĐ",
@@ -254,7 +81,7 @@
                     "text": "Sườn Cừu Bỏ Lò Phục Vụ Kèm Rau Củ Nướng, Khoai Tây Nghiền."
                 },
                 {
-                    "image": "/img/menu/Food/buncha.jpeg",
+                    "image": "/img/menu/Food/buncha.jpg",
                     "title": "Bún chả",
                     "price": "120.000",
                     "currency": "VNĐ",
@@ -262,7 +89,7 @@
                     "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
                 },
                 {
-                    "image": "/img/menu/Food/noddle.jpeg",
+                    "image": "/img/menu/Food/noodle.jpg",
                     "title": "Mì xào truyền thống",
                     "price": "120.000",
                     "currency": "VNĐ",
@@ -270,7 +97,7 @@
                     "text": "Mì Trứng Xào Với Rau Cải Chíp, Cà Rốt, Hành Tây. Lựa Chọn Bò Hoặc Gà."
                 },
                 {
-                    "image": "/img/menu/Food/myysotkem.jpeg",
+                    "image": "/img/menu/Food/myysotkem.jpg",
                     "title": "Mỳ Ý sốt kem",
                     "price": "155.000",
                     "currency": "VNĐ",
@@ -278,7 +105,7 @@
                     "text": ""
                 },
                 {
-                    "image": "/img/menu/Food/myythitbo.jpeg",
+                    "image": "/img/menu/Food/myythitbo.jpg",
                     "title": "Mỳ Ý Thịt Bò Bằm",
                     "price": "155.000",
                     "currency": "VNĐ",
@@ -286,7 +113,7 @@
                     "text": ""
                 },
                 {
-                    "image": "/img/menu/Food/burger.jpeg",
+                    "image": "/img/menu/Food/burger.jpg",
                     "title": "Burger",
                     "price": "185.000",
                     "currency": "VNĐ",
@@ -294,7 +121,7 @@
                     "text": ""
                 },
                 {
-                    "image": "/img/menu/Food/burgurga.jpeg",
+                    "image": "/img/menu/Food/burgurga.jpg",
                     "title": "Burger gà",
                     "price": "169.000",
                     "currency": "VNĐ",
@@ -303,219 +130,80 @@
                 }
             ]
         },
-        {
-            "name": "Món Chính",
-            "slug": "mon-chinh",
-            "description": "Chỉ có một số người không thể từ chối<br>việc lựa chọn những điều mình muốn.",
-            "items": [
-                {
-                    "image": "/img/menu/Set/1.jpg",
-                    "title": "Set 1",
-                    "price": "739.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/Set/2.jpeg",
-                    "title": "Set 2",
-                    "price": "869.000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/3.jpg",
-                    "title": "Macchiato",
-                    "price": "50000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/4.jpg",
-                    "title": "Latte",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/5.jpg",
-                    "title": "Mocha",
-                    "price": "55000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/6.jpg",
-                    "title": "Americano",
-                    "price": "50000",
-                    "currency": "VNĐ",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
-                },
-                {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": ""
-                },
-                {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                }
-            ]
-        },
+        
         {
             "name": "Món Tráng Miệng",
             "slug": "mon-trang-mieng",
             "description": "Cấu trúc này không cho phép bất kỳ ai từ chối<br>việc lựa chọn và đạt được điều mình mong muốn.",
             "items": [
                 {
-                    "image": "/img/menu/1.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "image": "/img/menu/TM/1.jpg",
+                    "title": "Kem cháy hương hồi",
+                    "price": "45.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "image": "/img/menu/TM/2.jpg",
+                    "title": "Matcha Bưởi",
+                    "price": "85.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/3.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "image": "/img/menu/TM/3.jpg",
+                    "title": "Plein yogurt",
+                    "price": "25.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/4.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "image": "/img/menu/TM/4.jpg",
+                    "title": "Sen dừa",
+                    "price": "85.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
+                  
                 },
                 {
-                    "image": "/img/menu/5.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "image": "/img/menu/TM/5.jpg",
+                    "title": "Dâu phô mai",
+                    "price": "75.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                    "text": ""
+                   
                 },
                 {
-                    "image": "/img/menu/6.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "image": "/img/menu/TM/6.jpg",
+                    "title": "Chocolate Mousse",
+                    "price": "75.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
+                    
                 },
                 {
-                    "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "image": "/img/menu/TM/7.jpg",
+                    "title": "Brownie-Cheese",
+                    "price": "85.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
+                    
                 },
                 {
-                    "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "image": "/img/menu/TM/8.jpg",
+                    "title": "Tiramisu",
+                    "price": "75.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
-                },
-                {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
+                    
                 }
             ]
         },
@@ -525,105 +213,105 @@
             "description": "Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.",
             "items": [
                 {
-                    "image": "/img/menu/1.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "image": "/img/menu/VN/1.jpg",
+                    "title": "Cà phê Arabica",
+                    "price": "50.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/2.jpg",
-                    "title": "Saumon Gravlax",
-                    "price": "9",
-                    "currency": "$",
+                    "image": "/img/menu/VN/Rob.jpg",
+                    "title": "Cà phê Robusta",
+                    "price": "55.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "text": "",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
-                    "image": "/img/menu/3.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "14",
-                    "currency": "$",
+                    "image": "/img/menu/VN/Culi.jpg",
+                    "title": "Cà phê Culi",
+                    "price": "45.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/4.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
+                    "image": "/img/menu/VN/Cherry.jpg",
+                    "title": "Cà phê Cherry",
+                    "price": "50.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": ""
                 },
                 {
-                    "image": "/img/menu/5.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "image": "/img/menu/VN/Moka.jpg",
+                    "title": "Cà phê Moka",
+                    "price": "60.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "text": "",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
-                    "image": "/img/menu/6.jpg",
-                    "title": "Chevrefrit au miel",
-                    "price": "14",
-                    "currency": "$",
+                    "image": "/img/menu/VN/Hn.jpg",
+                    "title": "Cafe trứng hạnh nhân",
+                    "price": "75.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/7.jpg",
-                    "title": "Stracciatella",
-                    "price": "11",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
-                },
-                {
-                    "image": "/img/menu/8.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
-                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-                },
-                {
-                    "image": "/img/menu/9.jpg",
-                    "title": "Croustillant de poisson",
-                    "price": "4",
-                    "currency": "$",
-                    "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "text": "",
                     "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
                 },
                 {
-                    "image": "/img/menu/10.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "6",
-                    "currency": "$",
+                    "image": "/img/menu/VN/Cacao.jpg",
+                    "title": "Cafe Cacao ",
+                    "price": "45.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm.",
+                    "text": ""
+                },
+                {
+                    "image": "/img/menu/VN/Matcha.jpg",
+                    "title": "Matcha trứng",
+                    "price": "50.000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
                 },
                 {
-                    "image": "/img/menu/11.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "7",
-                    "currency": "$",
+                    "image": "/img/menu/Tea/Tôm.jpg",
+                    "title": "Trà Nõn Tôm",
+                    "price": "30.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng, có hương thơm cốm rất đậm, vị dày đượm."
                 },
                 {
-                    "image": "/img/menu/12.jpg",
-                    "title": "Carpaccio de daurade",
-                    "price": "12",
-                    "currency": "$",
+                    "image": "/img/menu/Tea/Sen.jpg",
+                    "title": "Trà Sen Tây Hồ",
+                    "price": "35.000",
+                    "currency": "VNĐ",
+                    "rating": 4,
+                    "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà."
+                },
+                {
+                    "image": "/img/menu/Tea/Shan.jpg",
+                    "title": "Trà Shan Tuyết",
+                    "price": "30.000",
+                    "currency": "VNĐ",
                     "rating": 5,
-                    "text": "cà chua, nori, phô mai feta, nấm, mì gạo, ngô, tôm."
+                    "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
+                    "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+                },
+                {
+                    "image": "/img/menu/Tea/Cothu.jpg",
+                    "title": "Trà Cổ Thụ",
+                    "price": "35.000",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
                 }
             ]
         }
