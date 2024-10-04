@@ -17,7 +17,7 @@ export const metadata = {
 const Products = () => {
   return (
     <>
-      <PageBanner pageTitle={"Đồ uống"} breadTitle={"Đồ uống"} type={1} />
+      <PageBanner pageTitle={"Món khai vị"} breadTitle={"Món khai vị"} type={1} />
 
       {/* shop list */}
       <section className="sb-menu-section sb-p-90-60">
@@ -25,7 +25,7 @@ const Products = () => {
           <div />
         </div>
         <div className="container">
-          <ProductsGrid items={ProductsData.items4} /> {/*items 4 chứa thông tin đồ uống*/}
+          <ProductsGrid items={ProductsData.appetizer} /> {/*items 1 chứa thông tin món khai vị*/}
 
           <div>
             <ul className="sb-pagination">
