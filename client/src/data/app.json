@@ -31,7 +31,16 @@
             {
                 "label": "Thực đơn",
                 "link": "/menu",
-                "children": []
+                "children": [
+                    {
+                        "label": "Tại quán",
+                        "link": "/menu"
+                    },
+                    {
+                        "label": "Mang về",
+                        "link": "/shop"
+                    }
+                ]
             },
             {
                 "label": "Blog",
