@@ -4,7 +4,7 @@
             {
                 "image": "/img/menu/Food/salad-chicken.jpg",
                 "title": "Sa Lát Gà",
-                "price": "149.000",
+                "price": "149K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": ""
@@ -12,7 +12,7 @@
             {
                 "image": "/img/menu/Tea/Shan.jpg",
                 "title": "Trà Shan Tuyết",
-                "price": "30.000",
+                "price": "30K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
@@ -21,7 +21,7 @@
             {
                 "image": "/img/menu/Food/buncha.jpg",
                 "title": "Bún chả",
-                "price": "120.000",
+                "price": "120K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
@@ -29,7 +29,7 @@
         {
             "image": "/img/menu/TM/4.jpg",
             "title": "Sen dừa",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -55,7 +55,7 @@
             {
                 "image": "/img/menu/Food/steak.jpg",
                 "title": "Bít Tết Nạc Lưng",
-                "price": "295.000",
+                "price": "295K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "Thịt Bò Úc Nạc Lưng Nướng Phục Vụ Cùng Khoai Tây Nghiền Hoặc Khoai Tây Chiên Cùng Salad"
@@ -63,7 +63,7 @@
             {
                 "image": "/img/menu/Tea/Sen.jpg",
                 "title": "Trà Sen Tây Hồ",
-                "price": "35.000",
+                "price": "35K",
                 "currency": "VNĐ",
                 "rating": 4,
                 "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà."
@@ -71,7 +71,7 @@
             {
                 "image": "/img/menu/TM/1.jpg",
                 "title": "Kem cháy hương hồi",
-                "price": "45.000",
+                "price": "45K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": ""
@@ -79,7 +79,7 @@
             {
                 "image": "/img/menu/TM/2.jpg",
                 "title": "Matcha Bưởi",
-                "price": "85.000",
+                "price": "85K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": ""
@@ -87,7 +87,7 @@
             {
                 "image": "/img/menu/Tea/Shan.jpg",
                 "title": "Trà Shan Tuyết",
-                "price": "30.000",
+                "price": "30K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
@@ -96,7 +96,7 @@
             {
                 "image": "/img/menu/Food/buncha.jpg",
                 "title": "Bún chả",
-                "price": "120.000",
+                "price": "120K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
@@ -104,7 +104,7 @@
             {
                 "image": "/img/menu/Tea/Cothu.jpg",
                 "title": "Trà Cổ Thụ",
-                "price": "35.000",
+                "price": "35K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
@@ -112,7 +112,7 @@
             {
                 "image": "/img/menu/VN/Rob.jpg",
                 "title": "Cà phê Robusta",
-                "price": "55.000",
+                "price": "55K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": "",
@@ -121,7 +121,7 @@
             {
                 "image": "/img/menu/VN/Culi.jpg",
                 "title": "Cà phê Culi",
-                "price": "45.000",
+                "price": "45K",
                 "currency": "VNĐ",
                 "rating": 5,
                 "text": ""
@@ -132,7 +132,7 @@
         {
             "image": "/img/menu/Food/bido.jpg",
             "title": "Súp bí đỏ",
-            "price": "89.000",
+            "price": "89K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -140,7 +140,7 @@
         {
             "image": "/img/menu/Food/so.jpg",
             "title": "Súp sò điệp",
-            "price": "99.000",
+            "price": "99K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -148,7 +148,7 @@
         {
             "image": "/img/menu/Food/salad-chicken.jpg",
             "title": "Sa Lát Gà",
-            "price": "149.000",
+            "price": "149K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -157,7 +157,7 @@
         {
             "image": "/img/menu/Food/saldveg.jpg",
             "title": "Sa lát hoa quả",
-            "price": "329.000",
+            "price": "329K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -166,7 +166,7 @@
         {
             "image": "/img/menu/Food/bruschetta.jpg",
             "title": "Bruschetta",
-            "price": "95.000",
+            "price": "95K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Cà Chua Thái Nhỏ Trộn Cùng Tỏi, Húng, Dầu Oliu, Giấm, Phô Mai Parmesan Ăn Kèm Bánh Mì Nướng",
@@ -175,7 +175,7 @@
         {
             "image": "/img/menu/Food/potato.jpg",
             "title": "Khoai Tây Chiên",
-            "price": "89.000",
+            "price": "89K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Khoai Tây Chiên Ăn Kèm Với Sốt Mayo Sa Tế"
@@ -183,7 +183,7 @@
         {
             "image": "/img/menu/Food/steak.jpg",
             "title": "Bít Tết Nạc Lưng",
-            "price": "295.000",
+            "price": "295K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Thịt Bò Úc Nạc Lưng Nướng Phục Vụ Cùng Khoai Tây Nghiền Hoặc Khoai Tây Chiên Cùng Salad"
@@ -191,7 +191,7 @@
         {
             "image": "/img/menu/Food/suoncuu.jpg",
             "title": "Sườn Cừu Bỏ Lò",
-            "price": "399.000",
+            "price": "399K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Sườn Cừu Bỏ Lò Phục Vụ Kèm Rau Củ Nướng, Khoai Tây Nghiền."
@@ -199,7 +199,7 @@
         {
             "image": "/img/menu/Food/buncha.jpg",
             "title": "Bún chả",
-            "price": "120.000",
+            "price": "120K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
@@ -207,7 +207,7 @@
         {
             "image": "/img/menu/Food/noodle.jpg",
             "title": "Mì xào truyền thống",
-            "price": "120.000",
+            "price": "120K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Mì Trứng Xào Với Rau Cải Chíp, Cà Rốt, Hành Tây. Lựa Chọn Bò Hoặc Gà."
@@ -215,7 +215,7 @@
         {
             "image": "/img/menu/Food/myysotkem.jpg",
             "title": "Mỳ Ý sốt kem",
-            "price": "155.000",
+            "price": "155K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -223,7 +223,7 @@
         {
             "image": "/img/menu/Food/myythitbo.jpg",
             "title": "Mỳ Ý Thịt Bò Bằm",
-            "price": "155.000",
+            "price": "155K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -231,7 +231,7 @@
         {
             "image": "/img/menu/Food/burger.jpg",
             "title": "Burger",
-            "price": "185.000",
+            "price": "185K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -239,7 +239,7 @@
         {
             "image": "/img/menu/Food/burgurga.jpg",
             "title": "Burger gà",
-            "price": "169.000",
+            "price": "169K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -247,7 +247,7 @@
         {
             "image": "/img/menu/TM/1.jpg",
             "title": "Kem cháy hương hồi",
-            "price": "45.000",
+            "price": "45K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -255,7 +255,7 @@
         {
             "image": "/img/menu/TM/2.jpg",
             "title": "Matcha Bưởi",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -263,7 +263,7 @@
         {
             "image": "/img/menu/TM/3.jpg",
             "title": "Plein yogurt",
-            "price": "25.000",
+            "price": "25K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -271,7 +271,7 @@
         {
             "image": "/img/menu/TM/4.jpg",
             "title": "Sen dừa",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -280,7 +280,7 @@
         {
             "image": "/img/menu/TM/5.jpg",
             "title": "Dâu phô mai",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -289,7 +289,7 @@
         {
             "image": "/img/menu/TM/6.jpg",
             "title": "Chocolate Mousse",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -298,7 +298,7 @@
         {
             "image": "/img/menu/TM/7.jpg",
             "title": "Brownie-Cheese",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -307,7 +307,7 @@
         {
             "image": "/img/menu/TM/8.jpg",
             "title": "Tiramisu",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -316,7 +316,7 @@
         {
             "image": "/img/menu/VN/1.jpg",
             "title": "Cà phê Arabica",
-            "price": "50.000",
+            "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -324,7 +324,7 @@
         {
             "image": "/img/menu/VN/Rob.jpg",
             "title": "Cà phê Robusta",
-            "price": "55.000",
+            "price": "55K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -333,7 +333,7 @@
         {
             "image": "/img/menu/VN/Culi.jpg",
             "title": "Cà phê Culi",
-            "price": "45.000",
+            "price": "45K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -341,7 +341,7 @@
         {
             "image": "/img/menu/VN/Cherry.jpg",
             "title": "Cà phê Cherry",
-            "price": "50.000",
+            "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -349,7 +349,7 @@
         {
             "image": "/img/menu/VN/Moka.jpg",
             "title": "Cà phê Moka",
-            "price": "60.000",
+            "price": "60K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -358,7 +358,7 @@
         {
             "image": "/img/menu/VN/Hn.jpg",
             "title": "Cafe trứng hạnh nhân",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -367,7 +367,7 @@
         {
             "image": "/img/menu/VN/Cacao.jpg",
             "title": "Cafe Cacao ",
-            "price": "45.000",
+            "price": "45K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -375,7 +375,7 @@
         {
             "image": "/img/menu/VN/Matcha.jpg",
             "title": "Matcha trứng",
-            "price": "50.000",
+            "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -384,7 +384,7 @@
         {
             "image": "/img/menu/Tea/Tôm.jpg",
             "title": "Trà Nõn Tôm",
-            "price": "30.000",
+            "price": "30K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng, có hương thơm cốm rất đậm, vị dày đượm."
@@ -392,7 +392,7 @@
         {
             "image": "/img/menu/Tea/Sen.jpg",
             "title": "Trà Sen Tây Hồ",
-            "price": "35.000",
+            "price": "35K",
             "currency": "VNĐ",
             "rating": 4,
             "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà."
@@ -400,7 +400,7 @@
         {
             "image": "/img/menu/Tea/Shan.jpg",
             "title": "Trà Shan Tuyết",
-            "price": "30.000",
+            "price": "30K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
@@ -409,7 +409,7 @@
         {
             "image": "/img/menu/Tea/Cothu.jpg",
             "title": "Trà Cổ Thụ",
-            "price": "35.000",
+            "price": "35K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
@@ -419,7 +419,7 @@
         {
             "image": "/img/menu/Food/bido.jpg",
             "title": "Súp bí đỏ",
-            "price": "89.000",
+            "price": "89K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -427,7 +427,7 @@
         {
             "image": "/img/menu/Food/so.jpg",
             "title": "Súp sò điệp",
-            "price": "99.000",
+            "price": "99K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -435,7 +435,7 @@
         {
             "image": "/img/menu/Food/salad-chicken.jpg",
             "title": "Sa Lát Gà",
-            "price": "149.000",
+            "price": "149K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -444,7 +444,7 @@
         {
             "image": "/img/menu/Food/saldveg.jpg",
             "title": "Sa lát hoa quả",
-            "price": "329.000",
+            "price": "329K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -455,7 +455,7 @@
         {
             "image": "/img/menu/Food/bruschetta.jpg",
             "title": "Bruschetta",
-            "price": "95.000",
+            "price": "95K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Cà Chua Thái Nhỏ Trộn Cùng Tỏi, Húng, Dầu Oliu, Giấm, Phô Mai Parmesan Ăn Kèm Bánh Mì Nướng",
@@ -464,7 +464,7 @@
         {
             "image": "/img/menu/Food/potato.jpg",
             "title": "Khoai Tây Chiên",
-            "price": "89.000",
+            "price": "89K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Khoai Tây Chiên Ăn Kèm Với Sốt Mayo Sa Tế"
@@ -472,7 +472,7 @@
         {
             "image": "/img/menu/Food/steak.jpg",
             "title": "Bít Tết Nạc Lưng",
-            "price": "295.000",
+            "price": "295K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Thịt Bò Úc Nạc Lưng Nướng Phục Vụ Cùng Khoai Tây Nghiền Hoặc Khoai Tây Chiên Cùng Salad"
@@ -480,7 +480,7 @@
         {
             "image": "/img/menu/Food/suoncuu.jpg",
             "title": "Sườn Cừu Bỏ Lò",
-            "price": "399.000",
+            "price": "399K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Sườn Cừu Bỏ Lò Phục Vụ Kèm Rau Củ Nướng, Khoai Tây Nghiền."
@@ -488,7 +488,7 @@
         {
             "image": "/img/menu/Food/buncha.jpg",
             "title": "Bún chả",
-            "price": "120.000",
+            "price": "120K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
@@ -496,7 +496,7 @@
         {
             "image": "/img/menu/Food/noodle.jpg",
             "title": "Mì xào truyền thống",
-            "price": "120.000",
+            "price": "120K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Mì Trứng Xào Với Rau Cải Chíp, Cà Rốt, Hành Tây. Lựa Chọn Bò Hoặc Gà."
@@ -504,7 +504,7 @@
         {
             "image": "/img/menu/Food/myysotkem.jpg",
             "title": "Mỳ Ý sốt kem",
-            "price": "155.000",
+            "price": "155K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -512,7 +512,7 @@
         {
             "image": "/img/menu/Food/myythitbo.jpg",
             "title": "Mỳ Ý Thịt Bò Bằm",
-            "price": "155.000",
+            "price": "155K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -520,7 +520,7 @@
         {
             "image": "/img/menu/Food/burger.jpg",
             "title": "Burger",
-            "price": "185.000",
+            "price": "185K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -528,7 +528,7 @@
         {
             "image": "/img/menu/Food/burgurga.jpg",
             "title": "Burger gà",
-            "price": "169.000",
+            "price": "169K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -538,7 +538,7 @@
         {
             "image": "/img/menu/TM/1.jpg",
             "title": "Kem cháy hương hồi",
-            "price": "45.000",
+            "price": "45K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -546,7 +546,7 @@
         {
             "image": "/img/menu/TM/2.jpg",
             "title": "Matcha Bưởi",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -554,7 +554,7 @@
         {
             "image": "/img/menu/TM/3.jpg",
             "title": "Plein yogurt",
-            "price": "25.000",
+            "price": "25K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -562,7 +562,7 @@
         {
             "image": "/img/menu/TM/4.jpg",
             "title": "Sen dừa",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -571,7 +571,7 @@
         {
             "image": "/img/menu/TM/5.jpg",
             "title": "Dâu phô mai",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -580,7 +580,7 @@
         {
             "image": "/img/menu/TM/6.jpg",
             "title": "Chocolate Mousse",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -589,7 +589,7 @@
         {
             "image": "/img/menu/TM/7.jpg",
             "title": "Brownie-Cheese",
-            "price": "85.000",
+            "price": "85K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -598,7 +598,7 @@
         {
             "image": "/img/menu/TM/8.jpg",
             "title": "Tiramisu",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -609,7 +609,7 @@
         {
             "image": "/img/menu/VN/1.jpg",
             "title": "Cà phê Arabica",
-            "price": "50.000",
+            "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -617,7 +617,7 @@
         {
             "image": "/img/menu/VN/Rob.jpg",
             "title": "Cà phê Robusta",
-            "price": "55.000",
+            "price": "55K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -626,7 +626,7 @@
         {
             "image": "/img/menu/VN/Culi.jpg",
             "title": "Cà phê Culi",
-            "price": "45.000",
+            "price": "45K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -634,7 +634,7 @@
         {
             "image": "/img/menu/VN/Cherry.jpg",
             "title": "Cà phê Cherry",
-            "price": "50.000",
+            "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -642,7 +642,7 @@
         {
             "image": "/img/menu/VN/Moka.jpg",
             "title": "Cà phê Moka",
-            "price": "60.000",
+            "price": "60K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -651,7 +651,7 @@
         {
             "image": "/img/menu/VN/Hn.jpg",
             "title": "Cafe trứng hạnh nhân",
-            "price": "75.000",
+            "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -660,7 +660,7 @@
         {
             "image": "/img/menu/VN/Cacao.jpg",
             "title": "Cafe Cacao ",
-            "price": "45.000",
+            "price": "45K",
             "currency": "VNĐ",
             "rating": 5,
             "text": ""
@@ -668,7 +668,7 @@
         {
             "image": "/img/menu/VN/Matcha.jpg",
             "title": "Matcha trứng",
-            "price": "50.000",
+            "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "",
@@ -677,7 +677,7 @@
         {
             "image": "/img/menu/Tea/Tôm.jpg",
             "title": "Trà Nõn Tôm",
-            "price": "30.000",
+            "price": "30K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng, có hương thơm cốm rất đậm, vị dày đượm."
@@ -685,7 +685,7 @@
         {
             "image": "/img/menu/Tea/Sen.jpg",
             "title": "Trà Sen Tây Hồ",
-            "price": "35.000",
+            "price": "35K",
             "currency": "VNĐ",
             "rating": 4,
             "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà."
@@ -693,7 +693,7 @@
         {
             "image": "/img/menu/Tea/Shan.jpg",
             "title": "Trà Shan Tuyết",
-            "price": "30.000",
+            "price": "30K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
@@ -702,7 +702,7 @@
         {
             "image": "/img/menu/Tea/Cothu.jpg",
             "title": "Trà Cổ Thụ",
-            "price": "35.000",
+            "price": "35K",
             "currency": "VNĐ",
             "rating": 5,
             "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
