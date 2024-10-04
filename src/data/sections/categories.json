@@ -10,25 +10,25 @@
             "image": "/img/categories/1.png",
             "title": "Món khai vị",
             "text": "Chúng tôi cung cấp nhiều món khai vị hấp dẫn.",
-            "link": "/products"
+            "link": "/products-3"
         },
         {
             "image": "/img/categories/2.png",
             "title": "Món chính",
             "text": "Khám phá các món chính ngon miệng tại đây.",
-            "link": "/products"
+            "link": "/products-4"
         },
         {
             "image": "/img/categories/3.png",
             "title": "Đồ uống",
             "text": "Thưởng thức các loại đồ uống tươi mát.",
-            "link": "/products"
+            "link": "/products-6"
         },
         {
             "image": "/img/categories/4.png",
             "title": "Món tráng miệng",
             "text": "Đừng bỏ lỡ các món tráng miệng tuyệt vời.",
-            "link": "/products"
+            "link": "/products-5"
         }
     ]
 }
