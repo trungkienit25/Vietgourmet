@@ -25,16 +25,16 @@ const Shop = () => {
       <CategoriesSection heading={0} paddingTop={90} />
       <ProductsSlider 
         items={Products.collection['popular']} 
-        title={'Most <span>popular</span> dishes'} 
-        description={'Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.'} 
+        title={'Tinh hoa ẩm thực'} 
+        description={'Tinh hoa ẩm thực không chỉ là món ăn ngon, mà còn là nét đẹp văn hóa được gìn giữ qua bao thế hệ.'} 
         button={ {"link": "/products", "label": "View all", "icon": '/img/ui/icons/arrow.svg'} }
         slidesPerView={4}
         itemType={'product'} 
       />
       <ProductsSlider 
         items={Products.collection['bestseller']} 
-        title={'Our <span>Bestsellers</span>'} 
-        description={'Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi.'} 
+        title={'Best-seller - Sự lựa chọn hàng đầu'} 
+        description={'Thực đơn đặc sắc với những món ăn được yêu thích nhất, từ hương vị truyền thống đến phong cách hiện đại, hứa hẹn mang đến cho bạn trải nghiệm ẩm thực tuyệt vời.'} 
         button={ {"link": "/products-2", "label": "View all", "icon": '/img/ui/icons/arrow.svg'} }
         slidesPerView={4}
         itemType={'product'} 
