@@ -4,7 +4,7 @@
         "siteDescription": "Vietgourmet",
         "formspreeURL": "https://formspree.io/f/",
         "mapbox": {
-            "AccessToken": "pk.eyJ1Ijoidml0ZWdvZCIsImEiOiJjbTFtdjhrcjgwcDZuMmlxNm9ocTNtamU0In0.L4vUAB0eCBbd2iavi-4KqQ",
+            "AccessToken": "pk.eyJ1Ijoidml0ZWdvZCIsImEiOiJjbTF1em4zMTgwNjY5Mmpxd2xmcTU3c2pmIn0.PlezCRZdGuZ8YOFHLhTH2Q",
             "style": "mapbox://styles/mapbox/light-v11",
             "zoom": 5,
             "long": 105.8,
