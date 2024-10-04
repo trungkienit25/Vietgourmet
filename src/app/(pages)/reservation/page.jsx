@@ -75,8 +75,7 @@ const Reservation = () => {
       {/* banner end */}
 
       <ContactInfoSection />
-
-      {/* <ContactMapSection /> */}
+      <ContactMapSection />
     </>
   );
 };
