@@ -25,7 +25,7 @@ const Products = () => {
           <div />
         </div>
         <div className="container">
-          <ProductsGrid items={ProductsData.items2} /> {/*items 2 chứa thông tin món chính*/}
+          <ProductsGrid items={ProductsData.maindish} /> {/*items 2 chứa thông tin món chính*/}
 
           <div>
             <ul className="sb-pagination">

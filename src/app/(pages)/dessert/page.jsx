@@ -25,7 +25,7 @@ const Products = () => {
           <div />
         </div>
         <div className="container">
-          <ProductsGrid items={ProductsData.items3} /> {/*items 3 chứa thông tin món tráng miệng*/}
+          <ProductsGrid items={ProductsData.dessert} /> {/*items 3 chứa thông tin món tráng miệng*/}
 
           <div>
             <ul className="sb-pagination">
