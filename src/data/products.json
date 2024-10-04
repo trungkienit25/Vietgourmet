@@ -2,112 +2,111 @@
     "collection": {
         "popular": [
             {
-                "image": "/img/menu/Food/salad-chicken.jpg",
-                "title": "Sa Lát Gà",
-                "price": "149K",
+                "image": "/img/menu/Food/pho-bo.jfif",
+                "title": "Phở bò",
+                "price": "60K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": ""
+                "text": "Phở bò được chế biến từ nước dùng thơm ngon, thanh ngọt, kết hợp cùng bánh phở mềm mịn, thịt bò tái hoặc chín, ăn kèm hành tươi, giá đỗ và chanh ớt."
             },
             {
-                "image": "/img/menu/Tea/Shan.jpg",
-                "title": "Trà Shan Tuyết",
-                "price": "30K",
+                "image": "/img/menu/Food/bunbohue.jfif",
+                "title": "Bún bò Huế",
+                "price": "75K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
-                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-    },
+                "text": "Bún bò Huế với sợi bún to, dai, nước dùng đậm đà, hòa quyện vị sả và ớt cay nồng, thịt bò hầm nhừ, giò heo và chả cua ăn kèm rau sống tươi mát."
+            },
+            {
+                "image": "/img/menu/Food/banh-xeo.jfif",
+                "title": "Bánh xèo",
+                "price": "50K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Bánh xèo giòn tan, nhân tôm, thịt heo và giá đỗ, ăn kèm rau sống và nước mắm chua ngọt, mang đến hương vị thơm ngon khó cưỡng."
+            },
+            {
+                "image": "/img/menu/Food/canhchua.jfif",
+                "title": "Canh chua cá lóc",
+                "price": "90K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Canh chua cá lóc nấu với dọc mùng, cà chua, me chua, tạo nên hương vị thanh mát, chua ngọt, kết hợp cùng cá lóc tươi ngọt và các loại rau thơm."
+            },
+            {
+                "image": "/img/menu/Food/cakhoto.jfif",
+                "title": "Cá kho tộ",
+                "price": "130K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cá kho tộ mang đậm vị miền Nam với cá lóc tươi, được kho trong nồi đất cùng nước mắm, đường, tiêu, ớt, hành, tạo nên món ăn mặn ngọt hài hòa.",
+                "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+            },
+            {
+                "image": "/img/menu/Food/thitkho.jfif",
+                "title": "Thịt kho tàu",
+                "price": "80K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Thịt kho tàu là món ăn quen thuộc với thịt ba chỉ kho mềm, nước sốt vàng óng, ăn kèm trứng gà hoặc trứng cút, tạo nên món ăn đưa cơm tuyệt vời."
+            },
             {
                 "image": "/img/menu/Food/buncha.jpg",
-                "title": "Bún chả",
-                "price": "120K",
+                "title": "Bún chả cuốn",
+                "price": "80K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
-            },
-        {
-            "image": "/img/menu/TM/4.jpg",
-            "title": "Sen dừa",
-            "price": "85K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-    },
-            {
-                "image": "/img/menu/VN/Hn.jpg",
-                "title": "Cafe trứng hạnh nhân",
-                "price": "4",
-                "currency": "$",
-                "rating": 5,
-                "text": ""
+                "text": "Bún chả cuốn với sự kết hợp đầy đủ của các món thịt, rau cộng thêm nước chấm đậm đà hương vị truyền thống."
             },
             {
-                "image": "/img/menu/VN/1.jpg",
-                "title": "Cà phê Arabica",
-                "price": "45000",
+                "image": "/img/menu/Food/noodle.jpg",
+                "title": "Bánh đa trộn",
+                "price": "80K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": "Cà phê Arabica có mùi thơm nồng nàn, vị chua nhẹ."
+                "text": "Bánh đa trộn là món ăn đậm chất Bắc Bộ, gồm bánh đa đỏ trộn cùng với thịt bò, giò lụa, chả cá, rau muống, giá đỗ và lạc rang. Đặc biệt, nước sốt chua ngọt được pha chế theo công thức riêng tạo nên hương vị đặc trưng, khiến bạn khó quên."
+            },
+            {
+                "image": "/img/menu/Food/chaoca.jfif",
+                "title": "Cháo cá miền Tây",
+                "price": "70K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cháo cá miền Tây nấu từ cá lóc tươi, gạo thơm và các loại rau đặc trưng, mang đến vị ngọt thanh, thơm ngon, ăn kèm rau đắng, giá đỗ."
+            },
+            {
+                "image": "/img/menu/Food/canuongtron.jfif",
+                "title": "Cá nướng trộn gỏi",
+                "price": "150K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cá nướng trộn gỏi với cá nướng thơm lừng, thịt cá dai mềm, trộn cùng xoài xanh, rau thơm và nước mắm chua ngọt, tạo nên món ăn đậm đà khó quên."
+            },
+            {
+                "image": "/img/menu/Food/cuondiep.jfif",
+                "title": "Cuốn diếp",
+                "price": "55K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cuốn diếp là sự kết hợp hoàn hảo của thịt nạc, bún, tôm và các loại rau thơm, cuốn trong lá diếp xanh tươi, ăn kèm nước mắm chua cay."
             }
         ],
         "bestseller": [
             {
-                "image": "/img/menu/Food/steak.jpg",
-                "title": "Bít Tết Nạc Lưng",
-                "price": "295K",
+                "image": "/img/menu/Food/pho-bo.jfif",
+                "title": "Phở bò",
+                "price": "60K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": "Thịt Bò Úc Nạc Lưng Nướng Phục Vụ Cùng Khoai Tây Nghiền Hoặc Khoai Tây Chiên Cùng Salad"
+                "text": "Phở bò được chế biến từ nước dùng thơm ngon, thanh ngọt, kết hợp cùng bánh phở mềm mịn, thịt bò tái hoặc chín, ăn kèm hành tươi, giá đỗ và chanh ớt."
             },
             {
-                "image": "/img/menu/Tea/Sen.jpg",
-                "title": "Trà Sen Tây Hồ",
-                "price": "35K",
-                "currency": "VNĐ",
-                "rating": 4,
-                "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà."
-            },
-            {
-                "image": "/img/menu/TM/1.jpg",
-                "title": "Kem cháy hương hồi",
-                "price": "45K",
+                "image": "/img/menu/Food/bunbohue.jfif",
+                "title": "Bún bò Huế",
+                "price": "75K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": ""
-            },
-            {
-                "image": "/img/menu/TM/2.jpg",
-                "title": "Matcha Bưởi",
-                "price": "85K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": ""
-            },
-            {
-                "image": "/img/menu/Tea/Shan.jpg",
-                "title": "Trà Shan Tuyết",
-                "price": "30K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
-                "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
-            },
-            {
-                "image": "/img/menu/Food/buncha.jpg",
-                "title": "Bún chả",
-                "price": "120K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
-            },
-            {
-                "image": "/img/menu/Tea/Cothu.jpg",
-                "title": "Trà Cổ Thụ",
-                "price": "35K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
+                "text": "Bún bò Huế với sợi bún to, dai, nước dùng đậm đà, hòa quyện vị sả và ớt cay nồng, thịt bò hầm nhừ, giò heo và chả cua ăn kèm rau sống tươi mát."
             },
             {
                 "image": "/img/menu/VN/Rob.jpg",
@@ -115,304 +114,156 @@
                 "price": "55K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": "",
+                "text": "Robusta là loại cà phê phổ biến và được trồng nhiều ở các vùng đất đỏ bazan Việt Nam. Với vị đắng đậm, hương thơm mạnh mẽ và lượng caffein cao, Robusta mang đến cảm giác đầy năng lượng và mạnh mẽ cho người thưởng thức.",
                 "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
             },
             {
-                "image": "/img/menu/VN/Culi.jpg",
-                "title": "Cà phê Culi",
-                "price": "45K",
+                "image": "/img/menu/Food/buncha.jpg",
+                "title": "Bún chả cuốn",
+                "price": "80K",
                 "currency": "VNĐ",
                 "rating": 5,
-                "text": ""
+                "text": "Bún chả cuốn với sự kết hợp đầy đủ của các món thịt, rau cộng thêm nước chấm đậm đà hương vị truyền thống."
+            },
+            {
+                "image": "/img/menu/Food/noodle.jpg",
+                "title": "Bánh đa trộn",
+                "price": "80K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Bánh đa trộn là món ăn đậm chất Bắc Bộ, gồm bánh đa đỏ trộn cùng với thịt bò, giò lụa, chả cá, rau muống, giá đỗ và lạc rang. Đặc biệt, nước sốt chua ngọt được pha chế theo công thức riêng tạo nên hương vị đặc trưng, khiến bạn khó quên."
+            },
+            {
+                "image": "/img/menu/Dessert/banhflan.jfif",
+                "title": "Bánh Flan",
+                "price": "50K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Bánh flan mịn màng với vị ngọt vừa phải, béo ngậy từ trứng và sữa, ăn kèm với cà phê đắng nhẹ và đá bào mát lạnh."
+            },
+            {
+                "image": "/img/menu/Dessert/traisay.jfif",
+                "title": "Trái cây sấy",
+                "price": "60K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Trái cây sấy giòn tan, giữ nguyên hương vị tự nhiên của các loại trái cây như mít, chuối, xoài, táo, cung cấp vitamin và dinh dưỡng."
+            },
+            {
+                "image": "/img/menu/Food/chaoca.jfif",
+                "title": "Cháo cá miền Tây",
+                "price": "70K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cháo cá miền Tây nấu từ cá lóc tươi, gạo thơm và các loại rau đặc trưng, mang đến vị ngọt thanh, thơm ngon, ăn kèm rau đắng, giá đỗ."
+            },
+            {
+                "image": "/img/menu/Food/canuongtron.jfif",
+                "title": "Cá nướng trộn gỏi",
+                "price": "150K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cá nướng trộn gỏi với cá nướng thơm lừng, thịt cá dai mềm, trộn cùng xoài xanh, rau thơm và nước mắm chua ngọt, tạo nên món ăn đậm đà khó quên."
+            },
+            {
+                "image": "/img/menu/Food/cuondiep.jfif",
+                "title": "Cuốn diếp",
+                "price": "55K",
+                "currency": "VNĐ",
+                "rating": 5,
+                "text": "Cuốn diếp là sự kết hợp hoàn hảo của thịt nạc, bún, tôm và các loại rau thơm, cuốn trong lá diếp xanh tươi, ăn kèm nước mắm chua cay."
             }
         ]
     },
     "items": [
         {
-            "image": "/img/menu/Food/bido.jpg",
-            "title": "Súp bí đỏ",
-            "price": "89K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/Food/so.jpg",
-            "title": "Súp sò điệp",
-            "price": "99K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/Food/salad-chicken.jpg",
-            "title": "Sa Lát Gà",
-            "price": "149K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-            
-        },
-        {
-            "image": "/img/menu/Food/saldveg.jpg",
-            "title": "Sa lát hoa quả",
-            "price": "329K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "",
-            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-        },
-        {
-            "image": "/img/menu/Food/bruschetta.jpg",
-            "title": "Bruschetta",
-            "price": "95K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "Cà Chua Thái Nhỏ Trộn Cùng Tỏi, Húng, Dầu Oliu, Giấm, Phô Mai Parmesan Ăn Kèm Bánh Mì Nướng",
-            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-        },
-        {
-            "image": "/img/menu/Food/potato.jpg",
-            "title": "Khoai Tây Chiên",
-            "price": "89K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "Khoai Tây Chiên Ăn Kèm Với Sốt Mayo Sa Tế"
-        },
-        {
-            "image": "/img/menu/Food/steak.jpg",
-            "title": "Bít Tết Nạc Lưng",
-            "price": "295K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "Thịt Bò Úc Nạc Lưng Nướng Phục Vụ Cùng Khoai Tây Nghiền Hoặc Khoai Tây Chiên Cùng Salad"
-        },
-        {
-            "image": "/img/menu/Food/suoncuu.jpg",
-            "title": "Sườn Cừu Bỏ Lò",
-            "price": "399K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "Sườn Cừu Bỏ Lò Phục Vụ Kèm Rau Củ Nướng, Khoai Tây Nghiền."
-        },
-        {
-            "image": "/img/menu/Food/buncha.jpg",
-            "title": "Bún chả",
-            "price": "120K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "Bún Sợi Nhỏ Kèm Nem Rán, Thịt Chả Băm, Chả Miếng Cùng Nước Chấm Chua Ngọt, Rau Thơm"
-        },
-        {
-            "image": "/img/menu/Food/noodle.jpg",
-            "title": "Mì xào truyền thống",
-            "price": "120K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "Mì Trứng Xào Với Rau Cải Chíp, Cà Rốt, Hành Tây. Lựa Chọn Bò Hoặc Gà."
-        },
-        {
-            "image": "/img/menu/Food/myysotkem.jpg",
-            "title": "Mỳ Ý sốt kem",
-            "price": "155K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/Food/myythitbo.jpg",
-            "title": "Mỳ Ý Thịt Bò Bằm",
-            "price": "155K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/Food/burger.jpg",
-            "title": "Burger",
-            "price": "185K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/Food/burgurga.jpg",
-            "title": "Burger gà",
-            "price": "169K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/TM/1.jpg",
-            "title": "Kem cháy hương hồi",
-            "price": "45K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/TM/2.jpg",
-            "title": "Matcha Bưởi",
-            "price": "85K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/TM/3.jpg",
-            "title": "Plein yogurt",
-            "price": "25K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/TM/4.jpg",
-            "title": "Sen dừa",
-            "price": "85K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-          
-        },
-        {
-            "image": "/img/menu/TM/5.jpg",
-            "title": "Dâu phô mai",
-            "price": "75K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-           
-        },
-        {
-            "image": "/img/menu/TM/6.jpg",
-            "title": "Chocolate Mousse",
-            "price": "75K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-            
-        },
-        {
-            "image": "/img/menu/TM/7.jpg",
-            "title": "Brownie-Cheese",
-            "price": "85K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-            
-        },
-        {
-            "image": "/img/menu/TM/8.jpg",
-            "title": "Tiramisu",
-            "price": "75K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-            
-        },
-        {
-            "image": "/img/menu/VN/1.jpg",
-            "title": "Cà phê Arabica",
-            "price": "50K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/VN/Rob.jpg",
-            "title": "Cà phê Robusta",
-            "price": "55K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": "",
-            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
-        },
-        {
-            "image": "/img/menu/VN/Culi.jpg",
-            "title": "Cà phê Culi",
-            "price": "45K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/VN/Cherry.jpg",
-            "title": "Cà phê Cherry",
-            "price": "50K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/VN/Moka.jpg",
-            "title": "Cà phê Moka",
+            "image": "/img/menu/Food/pho-bo.jfif",
+            "title": "Phở bò",
             "price": "60K",
             "currency": "VNĐ",
             "rating": 5,
-            "text": "",
-            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+            "text": "Phở bò được chế biến từ nước dùng thơm ngon, thanh ngọt, kết hợp cùng bánh phở mềm mịn, thịt bò tái hoặc chín, ăn kèm hành tươi, giá đỗ và chanh ớt."
         },
         {
-            "image": "/img/menu/VN/Hn.jpg",
-            "title": "Cafe trứng hạnh nhân",
+            "image": "/img/menu/Food/bunbohue.jfif",
+            "title": "Bún bò Huế",
             "price": "75K",
             "currency": "VNĐ",
             "rating": 5,
-            "text": "",
-            "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
+            "text": "Bún bò Huế với sợi bún to, dai, nước dùng đậm đà, hòa quyện vị sả và ớt cay nồng, thịt bò hầm nhừ, giò heo và chả cua ăn kèm rau sống tươi mát."
         },
         {
-            "image": "/img/menu/VN/Cacao.jpg",
-            "title": "Cafe Cacao ",
-            "price": "45K",
-            "currency": "VNĐ",
-            "rating": 5,
-            "text": ""
-        },
-        {
-            "image": "/img/menu/VN/Matcha.jpg",
-            "title": "Matcha trứng",
+            "image": "/img/menu/Food/banh-xeo.jfif",
+            "title": "Bánh xèo",
             "price": "50K",
             "currency": "VNĐ",
             "rating": 5,
-            "text": "",
-            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+            "text": "Bánh xèo giòn tan, nhân tôm, thịt heo và giá đỗ, ăn kèm rau sống và nước mắm chua ngọt, mang đến hương vị thơm ngon khó cưỡng."
         },
         {
-            "image": "/img/menu/Tea/Tôm.jpg",
-            "title": "Trà Nõn Tôm",
-            "price": "30K",
+            "image": "/img/menu/Food/canhchua.jfif",
+            "title": "Canh chua cá lóc",
+            "price": "90K",
             "currency": "VNĐ",
             "rating": 5,
-            "text": "Trà Nõn Tôm là trà Thái Nguyên thượng hạng, có hương thơm cốm rất đậm, vị dày đượm."
+            "text": "Canh chua cá lóc nấu với dọc mùng, cà chua, me chua, tạo nên hương vị thanh mát, chua ngọt, kết hợp cùng cá lóc tươi ngọt và các loại rau thơm."
         },
         {
-            "image": "/img/menu/Tea/Sen.jpg",
-            "title": "Trà Sen Tây Hồ",
-            "price": "35K",
-            "currency": "VNĐ",
-            "rating": 4,
-            "text": "Trà Sen Tây Hồ được tôn vinh là thiên cổ đệ nhất trà."
-        },
-        {
-            "image": "/img/menu/Tea/Shan.jpg",
-            "title": "Trà Shan Tuyết",
-            "price": "30K",
+            "image": "/img/menu/Food/cakhoto.jfif",
+            "title": "Cá kho tộ",
+            "price": "130K",
             "currency": "VNĐ",
             "rating": 5,
-            "text": "Trà Shan Tuyết mang đến sản phẩm có chất lượng và hương vị vượt trội của Tây Bắc.",
-            "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"
+            "text": "Cá kho tộ mang đậm vị miền Nam với cá lóc tươi, được kho trong nồi đất cùng nước mắm, đường, tiêu, ớt, hành, tạo nên món ăn mặn ngọt hài hòa.",
+            "badge": "<div class='sb-badge sb-hot'><i class='fas fa-pepper-hot'></i> Cay</div>"
         },
         {
-            "image": "/img/menu/Tea/Cothu.jpg",
-            "title": "Trà Cổ Thụ",
-            "price": "35K",
+            "image": "/img/menu/Food/thitkho.jfif",
+            "title": "Thịt kho tàu",
+            "price": "80K",
             "currency": "VNĐ",
             "rating": 5,
-            "text": "Trà Cổ Thụ Tà Xùa là loại trà được đánh giá là ngon và khác biệt hẳn với hương vị các loại trà shan tuyết cổ thụ ở các vùng khác."
+            "text": "Thịt kho tàu là món ăn quen thuộc với thịt ba chỉ kho mềm, nước sốt vàng óng, ăn kèm trứng gà hoặc trứng cút, tạo nên món ăn đưa cơm tuyệt vời."
+        },
+        {
+            "image": "/img/menu/Food/buncha.jpg",
+            "title": "Bún chả cuốn",
+            "price": "80K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Bún chả cuốn với sự kết hợp đầy đủ của các món thịt, rau cộng thêm nước chấm đậm đà hương vị truyền thống."
+        },
+        {
+            "image": "/img/menu/Food/noodle.jpg",
+            "title": "Bánh đa trộn",
+            "price": "80K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Bánh đa trộn là món ăn đậm chất Bắc Bộ, gồm bánh đa đỏ trộn cùng với thịt bò, giò lụa, chả cá, rau muống, giá đỗ và lạc rang. Đặc biệt, nước sốt chua ngọt được pha chế theo công thức riêng tạo nên hương vị đặc trưng, khiến bạn khó quên."
+        },
+        {
+            "image": "/img/menu/Food/chaoca.jfif",
+            "title": "Cháo cá miền Tây",
+            "price": "70K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cháo cá miền Tây nấu từ cá lóc tươi, gạo thơm và các loại rau đặc trưng, mang đến vị ngọt thanh, thơm ngon, ăn kèm rau đắng, giá đỗ."
+        },
+        {
+            "image": "/img/menu/Food/canuongtron.jfif",
+            "title": "Cá nướng trộn gỏi",
+            "price": "150K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cá nướng trộn gỏi với cá nướng thơm lừng, thịt cá dai mềm, trộn cùng xoài xanh, rau thơm và nước mắm chua ngọt, tạo nên món ăn đậm đà khó quên."
+        },
+        {
+            "image": "/img/menu/Food/cuondiep.jfif",
+            "title": "Cuốn diếp",
+            "price": "55K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cuốn diếp là sự kết hợp hoàn hảo của thịt nạc, bún, tôm và các loại rau thơm, cuốn trong lá diếp xanh tươi, ăn kèm nước mắm chua cay."
         }
     ],
     "appetizer": [
