@@ -367,6 +367,14 @@
             "text": "Phở bò được chế biến từ nước dùng thơm ngon, thanh ngọt, kết hợp cùng bánh phở mềm mịn, thịt bò tái hoặc chín, ăn kèm hành tươi, giá đỗ và chanh ớt."
         },
         {
+            "image": "/img/menu/Food/com-trang.jfif",
+            "title": "Cơm trắng",
+            "price": "20K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cơm trắng nóng hổi sử dụng gạo ST25 thượng hạng"
+        },
+        {
             "image": "/img/menu/Food/bunbohue.jfif",
             "title": "Bún bò Huế",
             "price": "75K",
