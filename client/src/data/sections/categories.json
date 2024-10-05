@@ -29,6 +29,12 @@
             "title": "Món tráng miệng",
             "text": "Đừng bỏ lỡ các món tráng miệng tuyệt vời.",
             "link": "/dessert"
+        },
+        {
+            "image": "/img/categories/4.png",
+            "title": "Set combo",
+            "text": "Chinh phục ẩm thực Việt Nam chỉ với một nút bấm",
+            "link": "/set-combo"
         }
     ]
 }
