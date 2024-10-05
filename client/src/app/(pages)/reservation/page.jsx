@@ -5,6 +5,7 @@ import Link from "next/link";
 
 import ReservationForm from "@components/forms/ReservationForm";
 import ContactInfoSection from "@components/sections/ContactInfo";
+import ContactMapSection from "@components/sections/ContactMap";
 
 export const metadata = {
   title: {

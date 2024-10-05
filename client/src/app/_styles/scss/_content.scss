@@ -1203,11 +1203,10 @@ categories
     transition: $tr;
 
     & .sb-category-icon {
-      margin: 0 auto;
+      margin: 0 20px 30px 20px;
       position: relative;
       width: 110px;
       height: 110px;
-      margin-bottom: 30px;
 
       &:before {
         content: "";
