@@ -26,7 +26,7 @@ export const metadata = {
 const About2 = () => {
   return (
     <>
-      <PageBanner pageTitle={"There is no <span>love</span> more sincere <br> than the love of <span>food</span>."} breadTitle={"About us"} description={"Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi."} type={2} />
+      <PageBanner pageTitle={"Không tình yêu nào <br>chân thành hơn <br> tình yêu dành cho ẩm thực."} breadTitle={"About us"} description={"Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi."} type={2} />
       <AboutTwoSection />
       <FeaturesOneSection />
       <PromoVideoSection />
