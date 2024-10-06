@@ -20,7 +20,7 @@ const CallToActionSection = ( { bg } ) => {
                     </div>
                     <div className="col-lg-6">
                         <div className="sb-illustration-3">
-                            <img src="/client/public/img/illustrations/image.png" alt="delivery" className="sb-phones" />
+                            <img src={Data.image.url} alt={Data.image.alt} className="sb-phones" />
 
                             <div className="sb-cirkle-1"></div>
                             <div className="sb-cirkle-2"></div>
