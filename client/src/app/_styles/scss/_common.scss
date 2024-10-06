@@ -1136,6 +1136,18 @@ animations
     margin-top: 0;
   }
 }
+@keyframes anima5 {
+  0% {
+    transform: translateX(0);
+  }
+  25% {
+    transform: translateX(100px);
+  }
+  100% {
+    transform: translateX(0);
+  }
+}
+
 @keyframes ce-1 {
   0% {
     transform: scale(1);
