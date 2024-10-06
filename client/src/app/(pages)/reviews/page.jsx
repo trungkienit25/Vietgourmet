@@ -19,7 +19,7 @@ export const metadata = {
 const Reviews1 = () => {
   return (
     <>
-      <PageBanner pageTitle={"Feedback from our guests."} breadTitle={"Reviews"} type={1} />
+      <PageBanner pageTitle={"Đánh giá từ khách hàng"} breadTitle={"Đánh giá"} type={1} />
       
       {/* reviews */}
       <section className="sb-reviews sb-p-90-90">

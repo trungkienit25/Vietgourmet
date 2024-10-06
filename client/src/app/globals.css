@@ -29,10 +29,45 @@
 
 /* End Home */
 
+/* About us */
+
+.sb-illustration-3 .sb-phones {
+    object-fit: contain;
+    margin-right: 30px;
+    width: 100%;
+}
+
+.sb-team-member .sb-photo-frame img {
+    border-radius: 40px;
+    border: solid 7px #f5c332;
+}
+
+.sb-illustration-4 .sb-burger{
+    object-fit: contain;
+}
+.sb-illustration-5 .sb-cup {
+    bottom: 0%;
+    height: 125%;
+    width: 75%;
+    right: 10%;
+}
+/*End About us */
 
 
-/* Header  */
+
+/* Contact + Reservation*/
+.sb-illustration-9 .sb-envelope-1{
+    left: -40%;
+    width: 75%;
+}
 
 
+.sb-illustration-9 .fix {
+    height: 20%;
+    width: 40%;
+    left: -20%;
+    
+}
 
-/* End Hedaer */
+
+/* End both */

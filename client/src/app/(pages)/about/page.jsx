@@ -30,7 +30,7 @@ const About2 = () => {
       <AboutTwoSection />
       <FeaturesOneSection />
       <PromoVideoSection />
-      <TeamSection items={3} />
+      <TeamSection items={3} /> 
       <TestimonialSlider />
       <CallToActionSection />
       <PageBanner pageTitle={"Gallery."} breadTitle={"Gallery"} type={1} />
@@ -54,7 +54,7 @@ const About2 = () => {
       </div>
       {/* gallery end */}
 
-      <CallToActionSection />
+      
     </>
   );
 };

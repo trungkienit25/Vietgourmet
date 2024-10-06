@@ -7,7 +7,7 @@
     },
     "items": [
         {
-            "image": "/img/team/1.png",
+            "image": "/img/team/1.webp",
             "name": "Paul Trueman",
             "role": "Đầu bếp",
             "social": [
@@ -34,7 +34,7 @@
             ]
         },
         {
-            "image": "/img/team/2.png",
+            "image": "/img/team/2.webp",
             "name": "Emma Newman",
             "role": "Trợ lý đầu bếp",
             "social": [
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "image": "/img/team/3.png",
+            "image": "/img/team/3.webp",
             "name": "Oscar Oldman",
             "role": "Đầu bếp",
             "social": [
@@ -88,7 +88,7 @@
             ]
         },
         {
-            "image": "/img/team/4.png",
+            "image": "/img/team/4.webp",
             "name": "Ed Freeman",
             "role": "Trợ lý đầu bếp",
             "social": [

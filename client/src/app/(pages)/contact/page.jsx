@@ -25,13 +25,13 @@ const Contact = () => {
                             {/* main title */}
                             <div className="sb-main-title-frame">
                                 <div className="sb-main-title">
-                                    <span className="sb-suptitle sb-mb-30">Contact</span>
-                                    <h1 className="sb-mb-30">Get in <span>Touch with Starbelly</span></h1>
-                                    <p className="sb-text sb-text-lg sb-mb-30">Consectetur numquam poro nemo veniam<br/>eligendi rem adipisci quo modi.</p>
+                                    
+                                    <h1 className="sb-mb-30">Kết nối với <span> VietGourmet</span></h1>
+                                    <p className="sb-text sb-text-lg sb-mb-30">Hãy cho chúng tôi biết bạn đang nghĩ gì</p>
 
                                     <ul className="sb-breadcrumbs">
-                                        <li><Link href="/">Home</Link></li>
-                                        <li><Link href="/contact">Contact</Link></li>
+                                        <li><Link href="/">Trang chủ</Link></li>
+                                        <li><Link href="/contact">Liên hệ</Link></li>
                                     </ul>
                                 </div>
                             </div>
@@ -40,8 +40,8 @@ const Contact = () => {
                         <div className="col-lg-5">
                             <div className="sb-contact-form-frame">
                                 <div className="sb-illustration-9">
-                                    <img src="/img/illustrations/envelope-1.png" alt="envelope" className="sb-envelope-1" />
-                                    <img src="/img/illustrations/envelope-2.png" alt="envelope" className="sb-envelope-2" />
+                                    <img src="/img/illustrations/thu.png" alt="envelope" className="sb-envelope-1" />
+                                    <img src="/img/illustrations/stamp.png" alt="envelope" className="sb-envelope-2" />
 
                                     <div className="sb-cirkle-1"></div>
                                     <div className="sb-cirkle-2"></div>
@@ -49,21 +49,21 @@ const Contact = () => {
                                 </div>
                                 <div className="sb-form-content">
                                     <div className="sb-main-content">
-                                        <h3 className="sb-mb-30">Send Message</h3>
+                                        <h3 className="sb-mb-30">Gửi thư</h3>
                                         
                                         <ContactForm />
                                     </div>
                                     <div className="sb-success-result" id="contactFormStatus">
                                         <img src="/img/ui/success.jpg" alt="success" className="sb-mb-15" />
-                                        <div className="sb-success-title sb-mb-15">Success!</div>
-                                        <p className="sb-text sb-mb-15">Your message has been sent <br/>successfully</p>
+                                        <div className="sb-success-title sb-mb-15">Thành công!</div>
+                                        <p className="sb-text sb-mb-15">Thư của bạn đã được gửi <br/>thành công</p>
 
                                         {/* button */}
                                         <Link href="/" className="sb-btn sb-btn-2">
                                             <span className="sb-icon">
                                                 <img src="/img/ui/icons/arrow-2.svg" alt="icon" />
                                             </span>
-                                            <span>Back to home</span>
+                                            <span>Quay lại trang chủ</span>
                                         </Link>
                                         {/* button end */}
                                     </div>

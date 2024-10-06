@@ -26,7 +26,7 @@ const Gallery1 = () => {
         <div className="container">
           <GalleryMasonry items={GalleryData.items} layout={1} />
 
-          <div>
+          {/* <div>
             <ul className="sb-pagination">
               <li className="sb-active"><a href="#.">1</a></li>
               <li><a href="#.">2</a></li>
@@ -34,7 +34,7 @@ const Gallery1 = () => {
               <li><a href="#.">4</a></li>
               <li><a href="#.">...</a></li>
             </ul>
-          </div>
+          </div> */}
         </div>
         
       </div>
