@@ -188,6 +188,14 @@
                     "currency": "VNĐ",
                     "rating": 5,
                     "text": "Cuốn diếp là sự kết hợp hoàn hảo của thịt nạc, bún, tôm và các loại rau thơm, cuốn trong lá diếp xanh tươi, ăn kèm nước mắm chua cay."
+                },
+                {
+                    "image": "/img/menu/Food/bundau.jpg",
+                    "title": "Bún đậu mắm tôm",
+                    "price": "80K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Món ăn dân dã của người dân Hà Thành. Hương vị đậm đà, hấp dẫn đặc trưng của mắm tôm, đậu, bún, rau thơm cùng nhiều nguyên liệu khác."
                 }
             ]
         },
@@ -276,6 +284,22 @@
                     "currency": "VNĐ",
                     "rating": 5,
                     "text": "Kem trà chanh với vị ngọt thanh, mát lạnh, hòa quyện giữa trà xanh và vị chanh tươi mát, mang đến cảm giác dễ chịu và sảng khoái."
+                },
+                {
+                    "image": "/img/menu/Dessert/thach.jpg",
+                    "title": "Thạch rau câu",
+                    "price": "40K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Thạch rau câu với hương vị thơm ngon, mát lạnh."
+                },
+                {
+                    "image": "/img/menu/Dessert/taopho.jpg",
+                    "title": "Tào phớ",
+                    "price": "40K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Tào phớ trắng ngà, mềm mịn. Không những thơm ngon còn bổ dưỡng."
                 }
             ]
         },
@@ -383,6 +407,14 @@
                     "rating": 5,
                     "text": "Matcha trứng là món đồ uống độc đáo với lớp kem trứng béo ngậy kết hợp cùng hương vị thanh mát của bột matcha. Sự hoà quyện giữa vị đắng nhẹ và ngọt béo mang lại trải nghiệm thú vị cho người thưởng thức.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                },
+                {
+                    "image": "/img/menu/VN/trasua.jpg",
+                    "title": "Trà sữa trân châu",
+                    "price": "50K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Loại thức uống đã quá quen thuộc với giới trẻ. Trà sữa thơm béo cùng trân châu giòn dai nhai mãi không chán."
                 }
             ]
         },
