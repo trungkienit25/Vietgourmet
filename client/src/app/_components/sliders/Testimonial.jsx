@@ -6,8 +6,8 @@ import { Swiper, SwiperSlide } from "swiper/react";
 import Data from '@data/sliders/testimonial';
 import Link from "next/link";
 
-import { useEffect } from "react";
 import { ScrollAnimation } from "@common/scrollAnims";
+import { useEffect } from "react";
 
 const TestimonialSlider = () => {
   useEffect(() => {

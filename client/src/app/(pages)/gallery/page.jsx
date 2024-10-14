@@ -1,11 +1,9 @@
-import React from "react";
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
 import GalleryData from "@data/gallery.json";
 
 import PageBanner from "@components/PageBanner";
-import CallToActionSection from "@components/sections/CallToAction";
 
 const GalleryMasonry = dynamic( () => import("@components/gallery/GalleryMasonry"), { ssr: false } );
 
@@ -40,7 +38,7 @@ const Gallery1 = () => {
       </div>
       {/* gallery end */}
 
-      <CallToActionSection />
+      {/* <CallToActionSection /> */}
     </>
   );
 };

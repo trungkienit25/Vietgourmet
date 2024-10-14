@@ -26,7 +26,16 @@
             {
                 "label": "Giới thiệu",
                 "link": "/about",
-                "children": []
+                "children": [
+                    {
+                        "label": "Về chúng tôi",
+                        "link": "/about"
+                    },
+                    {
+                        "label": "Thư viện ảnh",
+                        "link": "/gallery"
+                    }
+                ]
             },
             {
                 "label": "Thực đơn",
