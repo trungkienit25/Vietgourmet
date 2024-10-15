@@ -36,7 +36,8 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
         </Link>
         <div className="sb-card-tp">
             <h4 className="sb-card-title"><Link href={`/product`}>{item.title}</Link></h4>
-            <div className="sb-price"><sub>{item.currency}</sub> {item.price}</div>
+            {/* <div className="sb-price"><sub>{item.currency}</sub> {item.price}</div> */}
+            <div className="sb-price"><sub>{item.price} </sub> {item.currency}</div>
         </div>
         <div className="sb-description">
             <p className="sb-text sb-mb-15">
