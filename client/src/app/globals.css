@@ -1,4 +1,11 @@
-
+:root {
+    --color-1: #6A4F3A;
+    --color-2: #E3B37F;
+    --color-3: #F8E4C8;
+    --color-4: #303F1E;
+    --color-5: #8F413E;
+    --color-6: #FCB363;
+}
 body {
     font-family: var(--font-bevnpro);
 }
@@ -8,8 +15,16 @@ h1,h2,h3,h4,h5,h6,h7 {
     letter-spacing: 1px !important; 
 }
 
-p {
+/* p {
     font-family: var(--font-phudu);
+} */
+b {
+    letter-spacing: 1px !important; 
+}
+
+span {
+    font-family: var(--font-lodestone);
+    letter-spacing: 1px;
 }
 
 /* Menu */
@@ -17,10 +32,45 @@ p {
     width: 150px;
 }
 
+.sb-top-bar-frame .sb-top-bar-bg {
+    background-color: var(--color-1);
+    
+}
+
+.sb-top-bar-frame .sb-top-bar {
+    font-family: var(--font-lodestone);
+    /* letter-spacing: 1px;
+     */
+}
+.sb-nav .sb-navigation li:hover ul {
+    background-color: var(--color-5);
+}
+
+.sb-nav .sb-navigation li a {
+    font-size: 18px;
+    color: var(--color-3);
+    padding: 0 25px;
+}
+
+.sb-btn.sb-btn-icon.sb-btn-gray .sb-icon{
+  background-color: var(--color-3);
+  border-color: var(--color-3); 
+}
+.sb-cart-number {
+    background-color: var(--color-6);
+
+}
 
 /* End Menu */
 
 /* Home */
+
+/* Section1  */
+
+.sb-banner {
+    /* background-color: var(--color-2); */
+}
+
 .sb-illustration-1-2 .sb-food-1 {
     border-radius: 50%;
     width: 60%;
@@ -41,6 +91,9 @@ p {
     height: 60%;
     object-fit: cover;
 }
+/* End Section1 */
+
+
 
 
 /* End Home */
