@@ -6,20 +6,27 @@
     --color-5: #8F413E;
     --color-6: #FCB363;
 }
+
 body {
     font-family: var(--font-bevnpro);
 }
 
-h1,h2,h3,h4,h5,h6,h7 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+h7 {
     font-family: var(--font-lodestone);
-    letter-spacing: 1px !important; 
+    letter-spacing: 1px !important;
 }
 
 /* p {
     font-family: var(--font-phudu);
 } */
 b {
-    letter-spacing: 1px !important; 
+    letter-spacing: 1px !important;
 }
 
 span {
@@ -34,7 +41,7 @@ span {
 
 .sb-top-bar-frame .sb-top-bar-bg {
     background-color: var(--color-1);
-    
+
 }
 
 .sb-top-bar-frame .sb-top-bar {
@@ -42,6 +49,7 @@ span {
     /* letter-spacing: 1px;
      */
 }
+
 .sb-nav .sb-navigation li:hover ul {
     background-color: var(--color-5);
 }
@@ -52,13 +60,13 @@ span {
     padding: 0 25px;
 }
 
-.sb-btn.sb-btn-icon.sb-btn-gray .sb-icon{
-  background-color: var(--color-3);
-  border-color: var(--color-3); 
+.sb-btn.sb-btn-icon.sb-btn-gray .sb-icon {
+    background-color: var(--color-3);
+    border-color: var(--color-3);
 }
+
 .sb-cart-number {
     background-color: var(--color-6);
-
 }
 
 /* End Menu */
@@ -66,10 +74,6 @@ span {
 /* Home */
 
 /* Section1  */
-
-.sb-banner {
-    /* background-color: var(--color-2); */
-}
 
 .sb-illustration-1-2 .sb-food-1 {
     border-radius: 50%;
@@ -91,6 +95,47 @@ span {
     height: 60%;
     object-fit: cover;
 }
+
+.sb-illustration-1-2 .sb-cirkle-3 {
+    background-color: var(--color-2);
+}
+.sb-illustration-1-2  .sb-cirkle-2 {
+    background-color: var(--color-2);
+}
+.sb-illustration-1-2 .sb-cirkle-4 {
+    background-color: var(--color-2);
+}
+
+
+.sb-banner {
+    background-color: var(--color-1);
+}
+.sb-banner .sb-mb-30 {
+    color: var(--color-3);
+}
+.sb-banner .sb-suptitle {
+    background-color: var(--color-5);
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 10px;
+}
+
+.sb-banner .sb-btn {
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+
+.sb-btn.sb-btn-2 span {
+    padding: 0 20px;
+    
+}
+.sb-btn.sb-btn-gray {
+    border: none;
+    background-color: var(--color-4);
+    color: white;
+    box-shadow: none;
+}
+
 /* End Section1 */
 
 
