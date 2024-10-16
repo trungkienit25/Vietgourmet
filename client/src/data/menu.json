@@ -188,6 +188,86 @@
                     "currency": "VNĐ",
                     "rating": 5,
                     "text": "Cuốn diếp là sự kết hợp hoàn hảo của thịt nạc, bún, tôm và các loại rau thơm, cuốn trong lá diếp xanh tươi, ăn kèm nước mắm chua cay."
+                },
+                {
+                    "image": "/img/menu/Food/banhchung.jpg",
+                    "title": "Bánh chưng",
+                    "price": "150K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Hương vị Tết cổ truyền gói trọn trong từng lớp lá dong xanh mướt, hòa quyện vị dẻo thơm của nếp nương, béo ngậy của đậu xanh, đậm đà của thịt heo. Món ăn mang đậm hồn quê, gợi nhớ ký ức tuổi thơ."
+                },
+                {
+                    "image": "/img/menu/Food/banhcanhcua.jpg",
+                    "title": "Bánh canh cua",
+                    "price": "80K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Nước dùng đậm đà, bánh canh dai ngon, ăn kèm thịt cua, tôm, chả cá và rau thơm."
+                },
+                {
+                    "image": "/img/menu/Food/banhduc.jpg",
+                    "title": "Bánh đúc nóng",
+                    "price": "70K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Bánh đúc mềm mịn, ăn kèm thịt băm, mộc nhĩ, hành phi và nước mắm."
+                },
+                {
+                    "image": "/img/menu/Food/canhmang.jpg",
+                    "title": "Canh măng",
+                    "price": "150K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Nồi canh thanh ngọt, đậm đà hương vị quê nhà với măng tươi giòn sần sật, thịt gà ta mềm thơm hòa quyện cùng nấm hương dậy mùi."
+                },
+                {
+                    "image": "/img/menu/Food/chaca.jpg",
+                    "title": "Chả cá Lã Vọng",
+                    "price": "150K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Cá lăng phi lê ướp nghệ, rán vàng thơm, ăn kèm bún, mắm tôm và rau thơm."
+                },
+                {
+                    "image": "/img/menu/Food/comtam.jpg",
+                    "title": "Cơm tầm Sài Gòn",
+                    "price": "80K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Cơm tấm dẻo thơm, ăn kèm sườn nướng, bì, chả và trứng ốp la."
+                },
+                {
+                    "image": "/img/menu/Food/goica.jpg",
+                    "title": "Gỏi cá Nam Ô",
+                    "price": "200K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Cá tươi sống ướp thính, ăn kèm rau sống, bánh tráng và nước chấm."
+                },
+                {
+                    "image": "/img/menu/Food/laumam.jpg",
+                    "title": "Lẩu mắm",
+                    "price": "400K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Lẩu mắm đậm đà, với nhiều loại rau, cá, thịt và hải sản."
+                },
+                {
+                    "image": "/img/menu/Food/ocluoc.jpg",
+                    "title": "Ốc luộc",
+                    "price": "150K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Ốc tươi ngon, luộc vừa chín tới, giữ trọn vị ngọt tự nhiên, chấm kèm nước mắm gừng cay nồng, thơm lừng hương lá chanh."
+                },
+                {
+                    "image": "/img/menu/Food/xoithapcam.jpg",
+                    "title": "Xôi thập cẩm",
+                    "price": "80K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Xôi nếp dẻo thơm ăn cùng thịt kho, pate và trứng"
                 }
             ]
         },
