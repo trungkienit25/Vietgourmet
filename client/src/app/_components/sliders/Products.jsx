@@ -26,7 +26,7 @@ const ProductsSlider = ( {items, title, description, button = {}, slidesPerView,
         </div>
         ) : (
         <div className="sb-bg-2">
-            <div></div>
+            {/* <div></div> */}
         </div>
         )}
         <div className="container">

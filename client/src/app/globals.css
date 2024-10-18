@@ -120,6 +120,7 @@ span {
 .sb-banner {
     background-color: var(--color-2);
 }
+
 .sb-banner .sb-mb-30 {
     color: var(--color-1);
     font-weight: 500;
@@ -173,7 +174,7 @@ span {
     margin-bottom: 10px;
 }
 
-.sb-about-text .head img{
+.sb-about-text .head img {
     width: 100%;
     margin-left: 0;
 }
@@ -188,7 +189,7 @@ span {
 .sb-about-text,
 .sb-p-90-0 .row {
     background-color: var(--color-7);
-    
+
 }
 
 
@@ -218,8 +219,9 @@ span {
     border: solid;
 
 }
-.sb-about-text .sb-text{
-    overflow-wrap: break-word; 
+
+.sb-about-text .sb-text {
+    overflow-wrap: break-word;
     overflow: visible;
     font-size: 18px;
 }
@@ -235,10 +237,68 @@ span {
     margin-top: 30px;
     text-align: center !important;
     font-size: 60px;
+    color: var(--color-5);
 }
+
+.sb-short-menu {
+    background-color: var(--color-7);
+}
+
+.sb-short-menu .sb-btn {
+    background-color: var(--color-5);
+    color: white;
+}
+
+.sb-short-menu .sb-menu-item .sb-card-tp {
+    background-color: var(--color-2);
+}
+.sb-short-menu .sb-menu-item .sb-card-tp .sb-price {
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+
 /* End Section 3 */
+/* Section4 */
+.sb-reviews {
+    background-color: var(--color-7);
+}
+.sb-reviews .sb-btn {
+    background-color: var(--color-5);
+    color: white;
+}
+.sb-reviews .sb-review-card{
+    background-color: var(--color-2);
+    border: 5px solid var(--color-5);
+    border-radius: 30px;
+    padding: 10px 30px;
+    
+}
+.sb-reviews .sb-group-title .sb-text{
+    overflow: visible;
+}
+.sb-reviews .sb-review-card .sb-text{
+    color: var(--color-1);
+    overflow: visible;
+}
+.sb-reviews .sb-p-0-90 {
+    padding-bottom: 0 !important;
+}
+.sb-reviews .swiper {
+    margin-bottom: 100px;
+}
 
+.sb-reviews .foot img {
+    width: 100%;
+    
+    
+}
+/* End Section4 */
+/* Section5 */
+.sb-call-to-action{
+    background-color: var(--color-5);
+}
 
+/* End Section 5 */
 /* End Home */
 
 /* About us */
