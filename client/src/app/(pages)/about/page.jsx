@@ -39,7 +39,7 @@ const About2 = async () => {
   
   return (
     <>
-      <PageBanner pageTitle={"There is no <span>love</span> more sincere <br> than the love of <span>food</span>."} breadTitle={"About us"} description={"Consectetur numquam poro nemo veniam<br>eligendi rem adipisci quo modi."} type={2} />
+      <PageBanner pageTitle={"Sự kết nối với di sản Việt Nam là<br> sự kết nối chân thành nhất"} breadTitle={"Về chúng tôi"} description={"VietGourmet là sự kết hợp hài hoà của không gian hoàn niệm về một Hà Nội xưa <br>với các món ăn, thức uống đơn giản và tinh tế"} type={2} />
       <AboutTwoSection />
       <FeaturesOneSection />
       <PromoVideoSection />

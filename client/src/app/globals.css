@@ -345,11 +345,21 @@ footer .sb-footer-frame .sb-copy{
     margin-right: 30px;
     width: 100%;
 }
-
+.sb-team-member .sb-photo-frame{
+    background-color: var(--color-7);
+    border: var(--color-7);
+    overflow: visible;
+}
 .sb-team-member .sb-photo-frame img {
     border-radius: 40px;
-    border: solid 7px #f5c332;
+    border: solid 7px var(--color-6);
 }
+/* .sb-team-member .sb-mb-15 {
+    margin-bottom: 30px !important;
+}
+.sb-team-member .sb-photo-frame:before{
+    background-color: var(--color-7);
+} */
 
 .sb-illustration-4 .sb-burger {
     object-fit: contain;
@@ -360,6 +370,68 @@ footer .sb-footer-frame .sb-copy{
     height: 125%;
     width: 75%;
     right: 10%;
+}
+
+.sb-banner.sb-banner-color{
+    background-color: var(--color-2);
+    border-color: var(--color-2);
+}
+.sb-about-text h2{
+    color: var(--color-1);
+}
+
+.sb-features {
+    background-color: var(--color-7);
+}
+.sb-features .sb-features-item{
+    border: 5px solid var(--color-5);
+    border-radius: 15px;
+    padding: 20px 25px;
+    color: var(--color-1);
+}
+
+.sb-features .sb-features-item .sb-number {
+    color: var(--color-5);
+}
+.sb-video {
+    background-color: var(--color-7);
+}
+.sb-video .sb-suptitle{
+    background-color: var(--color-5);
+    color: var(--color-3);
+    padding: 10px 15px;
+    border-radius: 15px;
+}
+.sb-video h2{
+    color: var(--color-1);
+}
+.sb-video .sb-btn {
+    background-color: var(--color-4);
+    
+}
+.sb-video .sb-btn span{
+    color: var(--color-3);
+}
+.sb-breadcrumbs {
+    background-color: var(--color-1);
+    color: var(--color-3);
+}
+.sb-illustration-7 .sb-cirkle-2, .sb-illustration-7 .sb-cirkle-3 {
+    background-color: var(--color-2);
+}
+.sb-illustration-7 .sb-cirkle-1, .sb-illustration-7 .sb-cirkle-4 {
+    border-color: var(--color-2);
+}
+.sb-illustration-7 .sb-interior-frame {
+    border: 8px solid var(--color-5);
+    border-radius: 15px;
+}
+.sb-p-0-60{
+    background-color: var(--color-7);
+}
+.sb-p-0-60 .sb-btn{
+    background-color: var(--color-5);
+    color: #FFFFFF;
 }
 
 /*End About us */
