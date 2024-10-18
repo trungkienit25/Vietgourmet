@@ -7,11 +7,10 @@ const CallToActionTwoSection = ({ bg }) => {
             {/* call to action */}
             <section className="sb-call-to-action">
                 <div className="sb-bg-3"></div>
-
+                <div className="foot">
+                    <img src="/img/connect/foot.png" alt="" />
+                </div>
                 <div className="container">
-                    <div className="foot">
-                        <img src="/img/connect/foot.png" alt="" />
-                    </div>
                     <div className="row">
                         <div className="col-lg-6 align-self-center">
                             <div className="sb-cta-text">
@@ -45,9 +44,9 @@ const CallToActionTwoSection = ({ bg }) => {
                                 <div className="sb-cirkle-3"></div>
                                 <div className="sb-cirkle-4"></div>
                                 <div className="sb-cirkle-5"></div>
-
+{/* 
                                 <img src="/img/illustrations/2.svg" alt="icon" className="sb-pik-2" />
-                                <img src="/img/illustrations/3.svg" alt="icon" className="sb-pik-3" />
+                                <img src="/img/illustrations/3.svg" alt="icon" className="sb-pik-3" /> */}
                             </div>
                         </div>
                     </div>
