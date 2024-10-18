@@ -71,7 +71,14 @@ span {
 }
 
 /* End Menu */
-
+/* Footer */
+footer{
+    background-color: var(--color-1);
+}
+footer .sb-footer-frame .sb-copy{
+    color: var(--color-3);
+}
+/* End Footer    */
 /* Home */
 
 /* Section1  */
@@ -249,10 +256,10 @@ span {
     color: white;
 }
 
-.sb-short-menu .sb-menu-item .sb-card-tp {
+.sb-menu-item .sb-card-tp {
     background-color: var(--color-2);
 }
-.sb-short-menu .sb-menu-item .sb-card-tp .sb-price {
+.sb-menu-item .sb-card-tp .sb-price {
     background-color: var(--color-5);
     color: var(--color-3);
 }
