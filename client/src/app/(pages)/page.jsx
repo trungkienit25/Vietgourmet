@@ -58,7 +58,7 @@ const Home2 = () => {
     <>
       <HeroSection type={2} />
       <AboutTwoSection />
-      <FeaturesOneSection />
+      {/* <FeaturesOneSection /> */}
       <ProductsSlider items={Products.collection['popular']} slidesPerView={3} />
       <TestimonialSlider />
       <CallToActionTwoSection />

@@ -23,7 +23,7 @@ const Hero = ({ type }) => {
                     </div> */}
                     <div className="row">
                         <div className="col-lg-6">
-                            {/* main title */}  
+                            {/* main title */}
                             <div className="sb-main-title-frame">
                                 <div className="sb-main-title">
                                     <span className="sb-suptitle sb-mb-30">{Data.subtitle}</span>
@@ -51,8 +51,8 @@ const Hero = ({ type }) => {
                             </div>
                             {/* main title end */}
                         </div>
-                        
-                         <div className="col-lg-6">
+
+                        <div className="col-lg-6">
                             {type == 1 ? (
                                 <div className="sb-illustration-1">
                                     <img src={Data.image.url} alt={Data.image.alt} className="sb-girl" />
@@ -77,20 +77,25 @@ const Hero = ({ type }) => {
                                         <div className="sb-illu-dialog-1"><span>😋</span> Hãy thử món này</div>
                                         <div className="sb-illu-dialog-2"><span>🥰</span> Ngol</div>
 
-                                        
+
                                         <div className="sb-cirkle-2"></div>
                                         <div className="sb-cirkle-3"></div>
                                         <div className="sb-cirkle-4"></div>
-                                        
 
-                                        <img src="/img/illustrations/3.svg" alt="phones" className="sb-pik-1" />
+
+                                        {/* <img src="/img/illustrations/3.svg" alt="phones" className="sb-pik-1" />
                                         <img src="/img/illustrations/1.svg" alt="phones" className="sb-pik-2" />
-                                        <img src="/img/illustrations/2.svg" alt="phones" className="sb-pik-3" />
+                                        <img src="/img/illustrations/2.svg" alt="phones" className="sb-pik-3" /> */}
                                     </div>
                                 </div>
-                            )}  
+                            )}
                         </div>
+                        {/* <div className="col-lg-12"> */}
+                            {/* <div className="head">
+                                <img src="/img/connect/foot.png" alt="" />
+                            </div> */}
 
+                        {/* </div> */}
                     </div>
                 </div>
             </section>

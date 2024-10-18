@@ -5,6 +5,7 @@
     --color-4: #303F1E;
     --color-5: #8F413E;
     --color-6: #FCB363;
+    --color-7: #F0E9DA;
 }
 
 body {
@@ -77,9 +78,11 @@ span {
 
 .sb-illustration-1-2 .sb-food-1 {
     border-radius: 50%;
-    width: 60%;
-    height: 60%;
+    width: 55%;
+    height: 55%;
     object-fit: cover;
+    margin-left: 50px;
+    z-index: 1;
 }
 
 .sb-illustration-1-2 .sb-food-2 {
@@ -91,33 +94,47 @@ span {
 
 .sb-illustration-1-2 .sb-food-3 {
     border-radius: 50%;
-    width: 60%;
-    height: 60%;
+    width: 50%;
+    height: 50%;
     object-fit: cover;
+    margin-bottom: 70px;
+    z-index: 2;
 }
 
 .sb-illustration-1-2 .sb-cirkle-3 {
-    background-color: var(--color-2);
+    background-color: var(--color-5);
+    z-index: 5;
 }
-.sb-illustration-1-2  .sb-cirkle-2 {
-    background-color: var(--color-2);
+
+.sb-illustration-1-2 .sb-cirkle-2 {
+    background-color: var(--color-5);
+    z-index: 5;
 }
+
 .sb-illustration-1-2 .sb-cirkle-4 {
-    background-color: var(--color-2);
+    background-color: var(--color-5);
+    z-index: 5;
 }
 
 
 .sb-banner {
-    background-color: var(--color-1);
+    background-color: var(--color-2);
 }
 .sb-banner .sb-mb-30 {
-    color: var(--color-3);
+    color: var(--color-1);
+    font-weight: 500;
 }
+
+.sb-banner h1 {
+    font-size: 55px;
+}
+
 .sb-banner .sb-suptitle {
     background-color: var(--color-5);
     padding: 5px 10px;
     font-size: 16px;
     border-radius: 10px;
+    color: var(--color-3);
 }
 
 .sb-banner .sb-btn {
@@ -127,8 +144,9 @@ span {
 
 .sb-btn.sb-btn-2 span {
     padding: 0 20px;
-    
+
 }
+
 .sb-btn.sb-btn-gray {
     border: none;
     background-color: var(--color-4);
@@ -136,9 +154,89 @@ span {
     box-shadow: none;
 }
 
+.sb-illustration-1-2 .sb-illu-dialog-1,
+.sb-illustration-1-2 .sb-illu-dialog-2 {
+    z-index: 999;
+    justify-content: center;
+    font-weight: 500;
+    font-family: var(--font-lodestone);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.sb-illustration-1-2 .sb-illu-dialog-1 span,
+.sb-illustration-1-2 .sb-illu-dialog-2 span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.sb-about-text .head img{
+    width: 100%;
+    margin-left: 0;
+}
+
 /* End Section1 */
+/* Section2 */
+
+.sb-about-text .head img {
+    margin-top: -300px;
+}
+
+.sb-about-text,
+.sb-p-90-0 .row {
+    background-color: var(--color-7);
+    
+}
 
 
+.sb-illustration-2 .sb-interior-frame {
+    border: 10px solid #8F413E;
+    border-radius: 30px;
+}
+
+.sb-illustration-2 .sb-cirkle-3,
+.sb-illustration-2 .sb-cirkle-2 {
+    background-color: var(--color-2);
+}
+
+.sb-illustration-2 .sb-cirkle-4,
+.sb-illustration-2 .sb-cirkle-1 {
+    border-color: var(--color-2);
+}
+
+.sb-illustration-2 .sb-experience {
+    border-radius: 30px;
+    border: 5px solid;
+    border-color: var(--color-3);
+    background-color: var(--color-6);
+}
+
+.sb-illustration-2 .sb-experience .sb-exp-content {
+    border: solid;
+
+}
+.sb-about-text .sb-text{
+    overflow-wrap: break-word; 
+    overflow: visible;
+    font-size: 18px;
+}
+
+.sb-signature {
+    margin-top: 70px;
+}
+
+
+/* End section 2 */
+/* Section3  */
+.sb-group-title .sb-mid {
+    margin-top: 30px;
+    text-align: center !important;
+    font-size: 60px;
+}
+/* End Section 3 */
 
 
 /* End Home */
