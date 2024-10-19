@@ -44,13 +44,19 @@ span {
     background-color: var(--color-1);
 
 }
-
+.sb-top-bar-frame .sb-top-bar .sb-logo-frame img {
+    margin-top: 20px;
+    margin-left: 50px;
+    transform: scale(2.2); /* Phóng to lên 120% */
+}
 .sb-top-bar-frame .sb-top-bar {
     font-family: var(--font-lodestone);
     /* letter-spacing: 1px;
      */
 }
+.sb-top-bar-frame .sb-top-bar .sb-logo-frame{
 
+}
 .sb-nav .sb-navigation li:hover ul {
     background-color: var(--color-5);
 }
@@ -93,6 +99,7 @@ footer .sb-footer-frame .sb-copy{
 }
 
 .sb-illustration-1-2 .sb-food-2 {
+    margin-top: 40px;
     border-radius: 50%;
     width: 50%;
     height: 50%;
@@ -484,7 +491,62 @@ footer .sb-footer-frame .sb-copy{
     width: 75%;
     right: 10%;
 }
-
+.sb-categorie-card{
+    background-color: var(--color-6);
+    box-shadow: none;
+    border: 5px solid var(--color-5);
+}
+.sb-categorie-card.sb-categorie-card-2 .sb-card-body {
+    background-color: var(--color-6);
+    box-shadow: none;
+    border: var(--color-6);
+}
+.sb-categorie-card h3{
+    color: var(--color-1);
+}
+.sb-categorie-card p{
+    color: var(--color-5);
+}
+.sb-blog-list {
+    background-color: var(--color-7);
+}
+.sb-blog-card .sb-blog-card-descr h3, .sb-blog-card .sb-blog-card-descr h4, .sb-blog-card .sb-blog-card-descr h5 {
+    color: var(--color-5);
+}  .sb-categorie-card.sb-categorie-card-2 .sb-card-body .sb-category-icon img{
+    width: 200%;
+    margin-left: -70%;
+    margin-top: -50%;
+}
+.sb-categorie-card.sb-categorie-card-2 .sb-card-body .sb-category-icon:before {
+    background-color: var(--color-3);
+}
+.sb-masonry-grid .sb-suptitle{
+    background-color: var(--color-6);
+    border-radius: 15px;
+    color: var(--color-4);
+}
+.sb-sidebar-frame {
+    background-color: var(--color-2);
+}
+.sb-sidebar-frame .sb-sidebar{
+    border: dotted 3px var(--color-5);
+}
+.sb-sidebar-frame h4 {
+    color: var(--color-1);
+}
+.sb-group-input.sb-group-with-btn button{
+    background-color: var(--color-6);
+}
+.sb-keywords li a {
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+.sb-pagination li a{
+    background-color: var(--color-6);
+}
+.sb-pagination li.sb-active a{
+    background-color: var(--color-7);
+}
 
 /* End Menu */
 
