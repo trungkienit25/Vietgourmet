@@ -563,6 +563,26 @@ footer .sb-footer-frame .sb-copy{
     left: -20%;
 
 }
-
+.sb-illustration-9 .sb-cirkle-1 {
+    border-color: var(--color-5);
+}
+.sb-illustration-9 .sb-cirkle-2, .sb-illustration-9 .sb-cirkle-3 {
+    background-color: var(--color-5);
+}
+.sb-p-90-30{
+    background-color: var(--color-2);
+}
+.sb-features-item .sb-number{
+    color: var(--color-5);
+}
+.sb-features-item h3 {
+    color: var(--color-1);
+}
+.sb-map-frame{
+    border: none;
+}
+.sb-lock{
+    background-color: var(--color-3);
+}
 
 /* End both */

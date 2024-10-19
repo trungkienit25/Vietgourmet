@@ -26,7 +26,7 @@ const Contact = () => {
                             <div className="sb-main-title-frame">
                                 <div className="sb-main-title">
                                     
-                                    <h1 className="sb-mb-30">Kết nối với <span> VietGourmet</span></h1>
+                                    <h1 className="sb-mb-30">Kết nối với VietGourmet</h1>
                                     <p className="sb-text sb-text-lg sb-mb-30">Hãy cho chúng tôi biết bạn đang nghĩ gì</p>
 
                                     <ul className="sb-breadcrumbs">
