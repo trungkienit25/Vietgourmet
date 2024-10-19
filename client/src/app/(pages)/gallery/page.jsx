@@ -9,7 +9,7 @@ const GalleryMasonry = dynamic( () => import("@components/gallery/GalleryMasonry
 
 export const metadata = {
   title: {
-		default: "Gallery",
+		default: "Thư viện ảnh",
 	},
   description: AppData.settings.siteDescription,
 }

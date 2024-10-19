@@ -364,17 +364,6 @@ footer .sb-footer-frame .sb-copy{
     margin-top: 40px;
 }
 
-.sb-illustration-4 .sb-burger {
-    object-fit: contain;
-}
-
-.sb-illustration-5 .sb-cup {
-    bottom: 0%;
-    height: 125%;
-    width: 75%;
-    right: 10%;
-}
-
 .sb-banner.sb-banner-color{
     background-color: var(--color-2);
     border-color: var(--color-2);
@@ -456,6 +445,48 @@ footer .sb-footer-frame .sb-copy{
 }
 /* End Gallery */
 
+/* Menu */
+.sb-menu-section {
+    background-color: var(--color-7);
+}
+.sb-bg-1 {
+    border: var(--color-7);    
+}
+.sb-filter .sb-filter-link.sb-active{
+    background-color: var(--color-7);
+    color: var(--color-5);
+}
+.sb-filter .sb-filter-link{
+    background-color: var(--color-2);
+    color: var(--color-5);
+}
+.sb-promo-frame {
+    background-color: var(--color-2);
+    box-shadow: none;
+}
+.sb-illustration-4 .sb-burger {
+    object-fit: contain;
+    
+}
+.sb-illustration-4, .sb-illustration-5 {
+    background-color: var(--color-2);
+    animation: none;
+}
+.sb-illustration-4 .sb-cirkle-2, .sb-illustration-4 .sb-cirkle-3,.sb-illustration-5 .sb-cirkle-2,.sb-illustration-5 .sb-cirkle-3 {
+    background-color: var(--color-5);
+}
+.sb-illustration-4 .sb-cirkle-1, .sb-illustration-5 .sb-cirkle-1 {
+    border-color: var(--color-5);
+}
+.sb-illustration-5 .sb-cup {
+    bottom: 0%;
+    height: 125%;
+    width: 75%;
+    right: 10%;
+}
+
+
+/* End Menu */
 
 /* Contact + Reservation*/
 .sb-illustration-9 .sb-envelope-1 {

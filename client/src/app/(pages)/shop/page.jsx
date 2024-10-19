@@ -13,7 +13,7 @@ const ProductsSlider = dynamic( () => import("@components/sliders/Products"), { 
 
 export const metadata = {
   title: {
-		default: "Shop",
+		default: "Mang về",
 	},
   description: AppData.settings.siteDescription,
 }
@@ -21,7 +21,7 @@ export const metadata = {
 const Shop = () => {
   return (
     <>
-      <PageBanner pageTitle={"Online shop"} breadTitle={"Shop"} type={1} />
+      <PageBanner pageTitle={"Đặt đồ ăn"} breadTitle={"Mang về"} type={1} />
       <CategoriesSection heading={0} paddingTop={90} />
       <ProductsSlider 
         items={Products.collection['popular']} 
