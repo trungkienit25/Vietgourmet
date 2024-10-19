@@ -463,6 +463,70 @@
                     "rating": 5,
                     "text": "Matcha trứng là món đồ uống độc đáo với lớp kem trứng béo ngậy kết hợp cùng hương vị thanh mát của bột matcha. Sự hoà quyện giữa vị đắng nhẹ và ngọt béo mang lại trải nghiệm thú vị cho người thưởng thức.",
                     "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
+                },
+                {
+                    "image": "/img/menu/VN/biahoi.jpg",
+                    "title": "Bia hơi Hà Nội",
+                    "price": "30K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Nét văn hóa ẩm thực Hà thành, vị bia mát lạnh sảng khoái, kết hợp cùng hương thơm đặc trưng khó cưỡng."
+                },
+                {
+                    "image": "/img/menu/VN/nuocmia.jpg",
+                    "title": "Nước mía",
+                    "price": "15K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Nước mía tươi nguyên chất, thơm ngon, mát lành."
+                },
+                {
+                    "image": "/img/menu/VN/trada.jpg",
+                    "title": "Trà đá",
+                    "price": "5K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Thức uống bình dị mà tinh tế, vị chát nhẹ nhàng lan tỏa, giải khát tức thì, xua tan mọi oi bức."
+                },
+                {
+                    "image": "/img/menu/VN/suadaunanh.jpg",
+                    "title": "Sữa đậu nành",
+                    "price": "20K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Từ hạt đậu nành thơm ngon, bổ dưỡng, mang đến hương vị ngọt thanh, mát lành."
+                },
+                {
+                    "image": "/img/menu/VN/trachanh.jpg",
+                    "title": "Trà chanh",
+                    "price": "15K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Trà chanh chua chua ngọt ngọt, mát lạnh, giải khát tuyệt vời."
+                },
+                {
+                    "image": "/img/menu/VN/nuocme.jpg",
+                    "title": "Nước me",
+                    "price": "20K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Thơm mát, chua ngọt dịu dàng, giải nhiệt mùa hè."
+                },
+                {
+                    "image": "/img/menu/VN/nuocdua.jpg",
+                    "title": "Nước dừa",
+                    "price": "20K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Hương vị tinh tế, ngọt thanh, thanh lọc cơ thể."
+                },
+                {
+                    "image": "/img/menu/VN/nuocloc.jpg",
+                    "title": "Nước khoáng",
+                    "price": "5K",
+                    "currency": "VNĐ",
+                    "rating": 5,
+                    "text": "Lựa chọn tốt cho sức khỏe, cung cấp khoáng chất cần thiết."
                 }
             ]
         },
