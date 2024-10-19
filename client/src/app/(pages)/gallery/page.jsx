@@ -17,7 +17,7 @@ export const metadata = {
 const Gallery1 = () => {
   return (
     <>
-      <PageBanner pageTitle={"Gallery."} breadTitle={"Gallery"} type={1} />
+      <PageBanner pageTitle={"Thư viện ảnh"} breadTitle={"Thư viện ảnh"} type={1} />
       
       {/* gallery */}
       <div className="sb-p-90-60">

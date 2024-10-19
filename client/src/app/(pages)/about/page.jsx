@@ -20,39 +20,40 @@ import Link from "next/link";
 
 
 
-const BlogPaginated = dynamic( () => import("@components/blog/BlogPaginated"), { ssr: false } );
+const BlogPaginated = dynamic(() => import("@components/blog/BlogPaginated"), { ssr: false });
 
-const GalleryMasonry = dynamic( () => import("@components/gallery/GalleryMasonry"), { ssr: false } );
+const GalleryMasonry = dynamic(() => import("@components/gallery/GalleryMasonry"), { ssr: false });
 
-const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial"), { ssr: false } );
+const TestimonialSlider = dynamic(() => import("@components/sliders/Testimonial"), { ssr: false });
 
 export const metadata = {
   title: {
-		default: "About 2",
-	},
+    default: "Về chúng tôi",
+  },
   description: AppData.settings.siteDescription,
 }
 
 const About2 = async () => {
   const populars = await getAllPupulars();
   const postsData = await getAllPosts();
-  
+  const galleryItems = GalleryData.items.slice(0, 6);
+
   return (
     <>
       <PageBanner pageTitle={"Sự kết nối với di sản Việt Nam là<br> sự kết nối chân thành nhất"} breadTitle={"Về chúng tôi"} description={"VietGourmet là sự kết hợp hài hoà của không gian hoàn niệm về một Hà Nội xưa <br>với các món ăn, thức uống đơn giản và tinh tế"} type={2} />
       <AboutTwoSection />
       <FeaturesOneSection />
       <PromoVideoSection />
-      <TeamSection items={3} /> 
+      <TeamSection items={3} />
       <TestimonialSlider />
       {/* <CallToActionSection /> */}
       {/* <PageBanner pageTitle={"Gallery."} breadTitle={"Gallery"} type={3} /> */}
       {/* gallery */}
       <div className="sb-p-90-60">
         <div className="container">
-        <div className="sb-group-title sb-mb-30">
+          <div className="sb-group-title sb-mb-30">
             <div className="sb-left sb-mb-30">
-              <h2 className="sb-mb-30" dangerouslySetInnerHTML={{__html : "Khoảng khắc tại Vietgourmet"}} />
+              <h2 className="sb-mb-30" dangerouslySetInnerHTML={{ __html: "Khoảng khắc tại Vietgourmet" }} />
               {/* <p className="sb-text" dangerouslySetInnerHTML={{__html : Data.description}} /> */}
             </div>
             <div className="sb-right sb-mb-30">
@@ -66,43 +67,26 @@ const About2 = async () => {
               {/* button end */}
             </div>
           </div>
-          <GalleryMasonry items={GalleryData.items} layout={1} />
+          <GalleryMasonry items={galleryItems} layout={1} />
 
-          {/* <div>
-            <ul className="sb-pagination">
-              <li className="sb-active"><a href="#.">1</a></li>
-              <li><a href="#.">2</a></li>
-              <li><a href="#.">3</a></li>
-              <li><a href="#.">4</a></li>
-              <li><a href="#.">...</a></li>
-            </ul>
-          </div>
-          <div>
-            <Pagination
-              currentPage={postsData.currentPage}
-              totalItems={postsData.totalPosts}
-              perPage={AppData.settings.perPage}
-              renderPageLink={(page) => `/blog/page/${page}`}
-            />
-          </div> */}
         </div>
-        
+
       </div>
       {/* gallery end */}
 
-      
+
     </>
   );
 };
 
 async function getAllPupulars() {
-  const popularsData = await getFeaturedPostsData( PopularsPostsData.featured )
+  const popularsData = await getFeaturedPostsData(PopularsPostsData.featured)
 
   return popularsData
 }
 
 async function getAllPosts() {
-  const { posts, total } = getPaginatedPostsData( AppData.settings.perPage, 1 );
+  const { posts, total } = getPaginatedPostsData(AppData.settings.perPage, 1);
 
   return {
     posts: posts,

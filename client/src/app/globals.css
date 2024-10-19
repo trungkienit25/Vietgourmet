@@ -291,7 +291,7 @@ footer .sb-footer-frame .sb-copy{
     padding-bottom: 0 !important;
 }
 .sb-reviews .swiper {
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 
 
@@ -349,17 +349,20 @@ footer .sb-footer-frame .sb-copy{
     background-color: var(--color-7);
     border: var(--color-7);
     overflow: visible;
+    margin-bottom: 50px;
 }
 .sb-team-member .sb-photo-frame img {
     border-radius: 40px;
     border: solid 7px var(--color-6);
 }
-/* .sb-team-member .sb-mb-15 {
-    margin-bottom: 30px !important;
-}
-.sb-team-member .sb-photo-frame:before{
+.sb-team-member:hover .sb-photo-frame{
     background-color: var(--color-7);
-} */
+    border: var(--color-7);
+    overflow: visible;
+}
+.sb-team-member .sb-member-description{
+    margin-top: 40px;
+}
 
 .sb-illustration-4 .sb-burger {
     object-fit: contain;
@@ -413,7 +416,7 @@ footer .sb-footer-frame .sb-copy{
     color: var(--color-3);
 }
 .sb-breadcrumbs {
-    background-color: var(--color-1);
+    background-color: var(--color-5);
     color: var(--color-3);
 }
 .sb-illustration-7 .sb-cirkle-2, .sb-illustration-7 .sb-cirkle-3 {
@@ -433,9 +436,25 @@ footer .sb-footer-frame .sb-copy{
     background-color: var(--color-5);
     color: #FFFFFF;
 }
-
+.sb-p-90-60{
+    background-color: var(--color-7);
+}
+.sb-p-90-60 h2{
+    color: var(--color-5);
+}
+.sb-p-90-60 .sb-btn {
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+.sb-gallery-item > img {
+    border-radius: 20px;
+}
 /*End About us */
-
+/* Gallery */
+.sb-banner h1{
+    color: var(--color-5);
+}
+/* End Gallery */
 
 
 /* Contact + Reservation*/

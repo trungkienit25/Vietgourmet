@@ -48,7 +48,7 @@ const PageBanner = ({ pageTitle, breadTitle, description, type }) => {
                   <p className="sb-text sb-text-lg sb-mb-30" dangerouslySetInnerHTML={{__html : description}} />
                   }
                   <ul className="sb-breadcrumbs">
-                    <li><Link href="/">Home</Link></li>
+                    <li><Link href="/">Trang chủ</Link></li>
                     {asPath.indexOf('/blog/') != -1 && asPath.indexOf('/blog/page/') == -1 &&
                     <li>
                       <Link href="/blog">Blog</Link>
@@ -56,12 +56,12 @@ const PageBanner = ({ pageTitle, breadTitle, description, type }) => {
                     }
                     {asPath.indexOf('/products') != -1 || asPath.indexOf('/cart') != -1 || asPath.indexOf('/checkout') != -1 &&
                     <li>
-                      <Link href="/shop">Shop</Link>
+                      <Link href="/shop">Đặt hàng</Link>
                     </li>
                     }
                     {asPath.endsWith('/product') == 1 &&
                     <li>
-                      <Link href="/products">Products</Link>
+                      <Link href="/products">Sản phẩm</Link>
                     </li>
                     }
                     <li><a dangerouslySetInnerHTML={{__html : clearBreadTitle}} /></li>
