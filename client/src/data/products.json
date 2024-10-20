@@ -357,7 +357,7 @@
             "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
         }
     ],
-    "maindish":[
+    "maindish": [
         {
             "image": "/img/menu/Food/pho-bo.jfif",
             "title": "Phở bò",
@@ -456,7 +456,7 @@
             "text": "Cuốn diếp là sự kết hợp hoàn hảo của thịt nạc, bún, tôm và các loại rau thơm, cuốn trong lá diếp xanh tươi, ăn kèm nước mắm chua cay."
         }
     ],
-    "dessert":[
+    "dessert": [
         {
             "image": "/img/menu/Dessert/chethapcam.jfif",
             "title": "Chè thập cẩm",
@@ -536,9 +536,89 @@
             "currency": "VNĐ",
             "rating": 5,
             "text": "Kem trà chanh với vị ngọt thanh, mát lạnh, hòa quyện giữa trà xanh và vị chanh tươi mát, mang đến cảm giác dễ chịu và sảng khoái."
+        },
+        {
+            "image": "/img/menu/Food/banhchung.jpg",
+            "title": "Bánh chưng",
+            "price": "150K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Hương vị Tết cổ truyền gói trọn trong từng lớp lá dong xanh mướt, hòa quyện vị dẻo thơm của nếp nương, béo ngậy của đậu xanh, đậm đà của thịt heo. Món ăn mang đậm hồn quê, gợi nhớ ký ức tuổi thơ."
+        },
+        {
+            "image": "/img/menu/Food/banhcanhcua.jpg",
+            "title": "Bánh canh cua",
+            "price": "80K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Nước dùng đậm đà, bánh canh dai ngon, ăn kèm thịt cua, tôm, chả cá và rau thơm."
+        },
+        {
+            "image": "/img/menu/Food/banhduc.jpg",
+            "title": "Bánh đúc nóng",
+            "price": "70K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Bánh đúc mềm mịn, ăn kèm thịt băm, mộc nhĩ, hành phi và nước mắm."
+        },
+        {
+            "image": "/img/menu/Food/canhmang.jpg",
+            "title": "Canh măng",
+            "price": "150K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Nồi canh thanh ngọt, đậm đà hương vị quê nhà với măng tươi giòn sần sật, thịt gà ta mềm thơm hòa quyện cùng nấm hương dậy mùi."
+        },
+        {
+            "image": "/img/menu/Food/chaca.jpg",
+            "title": "Chả cá Lã Vọng",
+            "price": "150K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cá lăng phi lê ướp nghệ, rán vàng thơm, ăn kèm bún, mắm tôm và rau thơm."
+        },
+        {
+            "image": "/img/menu/Food/comtam.jpg",
+            "title": "Cơm tầm Sài Gòn",
+            "price": "80K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cơm tấm dẻo thơm, ăn kèm sườn nướng, bì, chả và trứng ốp la."
+        },
+        {
+            "image": "/img/menu/Food/goica.jpg",
+            "title": "Gỏi cá Nam Ô",
+            "price": "200K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Cá tươi sống ướp thính, ăn kèm rau sống, bánh tráng và nước chấm."
+        },
+        {
+            "image": "/img/menu/Food/laumam.jpg",
+            "title": "Lẩu mắm",
+            "price": "400K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Lẩu mắm đậm đà, với nhiều loại rau, cá, thịt và hải sản."
+        },
+        {
+            "image": "/img/menu/Food/ocluoc.jpg",
+            "title": "Ốc luộc",
+            "price": "150K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Ốc tươi ngon, luộc vừa chín tới, giữ trọn vị ngọt tự nhiên, chấm kèm nước mắm gừng cay nồng, thơm lừng hương lá chanh."
+        },
+        {
+            "image": "/img/menu/Food/xoithapcam.jpg",
+            "title": "Xôi thập cẩm",
+            "price": "80K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Xôi nếp dẻo thơm ăn cùng thịt kho, pate và trứng"
         }
     ],
-    "drinks":[
+    "drinks": [
         {
             "image": "/img/menu/Tea/Tôm.jpg",
             "title": "Trà Nõn Tôm",
@@ -640,54 +720,54 @@
             "badge": "<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Chay</div>"
         }
     ],
-        "set_combo": [
-            {
-                "image": "/img/menu/Set-combo/set-combo4.jfif",
-                "title": "Combo Bùng nổ",
-                "price": "200K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Giảm chỉ còn 200K: Bún bò Huế, Chả giò, Bánh flan."
-            },
-            {
-                "image": "/img/menu/Set-combo/set-combo1.jfif",
-                "title": "Combo Hồn Quê",
-                "price": "230K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Giảm chỉ còn 230K: Gỏi cuốn, Phở bò, Bún chả, Bánh xèo."
-            },
-            {
-                "image": "/img/menu/Set-combo/set-combo3.jfif",
-                "title": "Combo Tươi Mát",
-                "price": "170K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Giảm chỉ còn 170K: Nộm đu đủ, Bánh đa trộn, Chè thập cẩm."
-            },
-            {
-                "image": "/img/menu/Set-combo/set-combo2.jfif",
-                "title": "Combo Miền Tây",
-                "price": "155K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Giảm chỉ còn 155K: Nộm hoa chuối, Cháo cá miền Tây, Chè thập cẩm."
-            },
-            {
-                "image": "/img/menu/Set-combo/set-combo5.jfif",
-                "title": "Combo Mẹ Nấu",
-                "price": "245K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Giảm chỉ còn 245K: Cá kho tộ, Canh chua cá lóc, Trà Sen Tây Hồ kèm Cơm trắng."
-            },
-            {
-                "image": "/img/menu/Set-combo/set-combo6.jfif",
-                "title": "Buffet Tiệc Tùng",
-                "price": "350K",
-                "currency": "VNĐ",
-                "rating": 5,
-                "text": "Giảm chỉ còn 350K: Tự chọn Món khai vị, món chính, tráng miệng."
-            }   
-        ]
+    "set_combo": [
+        {
+            "image": "/img/menu/Set-combo/set-combo4.jfif",
+            "title": "Combo<br/> Bùng nổ",
+            "price": "200K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Giảm chỉ còn 200K: Bún bò Huế, Chả giò, Bánh flan."
+        },
+        {
+            "image": "/img/menu/Set-combo/set-combo1.jfif",
+            "title": "Combo Hồn Quê",
+            "price": "230K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Giảm chỉ còn 230K: Gỏi cuốn, Phở bò, Bún chả, Bánh xèo."
+        },
+        {
+            "image": "/img/menu/Set-combo/set-combo3.jfif",
+            "title": "Combo Tươi Mát",
+            "price": "170K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Giảm chỉ còn 170K: Nộm đu đủ, Bánh đa trộn, Chè thập cẩm."
+        },
+        {
+            "image": "/img/menu/Set-combo/set-combo2.jfif",
+            "title": "Combo Miền Tây",
+            "price": "155K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Giảm chỉ còn 155K: Nộm hoa chuối, Cháo cá miền Tây, Chè thập cẩm."
+        },
+        {
+            "image": "/img/menu/Set-combo/set-combo5.jfif",
+            "title": "Combo Mẹ Nấu",
+            "price": "245K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Giảm chỉ còn 245K: Cá kho tộ, Canh chua cá lóc, Trà Sen Tây Hồ kèm Cơm trắng."
+        },
+        {
+            "image": "/img/menu/Set-combo/set-combo6.jfif",
+            "title": "Buffet Tiệc Tùng",
+            "price": "350K",
+            "currency": "VNĐ",
+            "rating": 5,
+            "text": "Giảm chỉ còn 350K: Tự chọn Món khai vị, món chính, tráng miệng."
+        }
+    ]
 }
