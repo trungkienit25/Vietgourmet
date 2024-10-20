@@ -42,7 +42,7 @@ const Reviews1 = () => {
       </section>
       {/* reviews end */}
 
-      <CallToActionSection />
+  
     </>
   );
 };

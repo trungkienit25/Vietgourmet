@@ -48,7 +48,7 @@ const TestimonialSlider = dynamic( () => import("@components/sliders/Testimonial
 
 export const metadata = {
   title: {
-		default: "Home 2",
+		default: "Trang chủ",
 	},
   description: AppData.settings.siteDescription,
 }
@@ -58,7 +58,7 @@ const Home2 = () => {
     <>
       <HeroSection type={2} />
       <AboutTwoSection />
-      <FeaturesOneSection />
+      {/* <FeaturesOneSection /> */}
       <ProductsSlider items={Products.collection['popular']} slidesPerView={3} />
       <TestimonialSlider />
       <CallToActionTwoSection />

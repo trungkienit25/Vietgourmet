@@ -10,7 +10,7 @@ const MenuFiltered = dynamic( () => import("@components/menu/MenuFiltered"), { s
 
 export const metadata = {
   title: {
-		default: "Menu 3",
+		default: "Thực đơn",
 	},
   description: AppData.settings.siteDescription,
 }
@@ -18,7 +18,7 @@ export const metadata = {
 const Menu3 = () => {
   return (
     <>
-      <PageBanner pageTitle={"Menu món ăn."} breadTitle={"Menu"} type={1} />
+      <PageBanner pageTitle={"Thực đơn món ăn"} breadTitle={"Thực đơn"} type={1} />
       
       {/* menu section 1 */}
       <section className="sb-menu-section sb-p-90-60">

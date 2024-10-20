@@ -25,7 +25,7 @@ const Reservation = () => {
               {/* main title */}
               <div className="sb-main-title-frame">
                 <div className="sb-main-title">
-                  <span className="sb-suptitle sb-mb-30"></span>
+                  
                   <h1 className="sb-mb-30">Bữa ăn của bạn <br/>sẽ rất tuyệt!</h1>
                   <p className="sb-text sb-text-lg sb-mb-30">Hãy đặt bàn tại chỗ chúng tôi</p>
 
