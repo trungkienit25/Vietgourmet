@@ -4,9 +4,11 @@ import Link from "next/link";
 import { useState } from "react";
 import CartData from "@data/cart.json";
 
-const ProductItem = ({ item, index, marginBottom, moreType }) => {
+const ProductItem = ({ item, index, marginBottom }) => {
   const [cartTotal, setCartTotal] = useState(CartData.total);
   const [quantity, setQuantity] = useState(1);
+  const minQuantity = 1;
+  const maxQuantity = 10;
 
   const addToCart = async (e) => {
     e.preventDefault();
@@ -19,6 +21,7 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
     setTimeout(() => {
         cartNumberEl.classList.remove('sb-added');
     }, 600);
+    
     const newItem = {
       title: item.title,
       image: item.image,
@@ -55,7 +58,6 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
       });
   
       if (response.ok) {
-        setCartTotal(cartTotal + quantity);
         console.log("Sản phẩm đã được thêm vào giỏ hàng.");
       } else {
         console.error("Có lỗi khi thêm sản phẩm vào giỏ hàng.");
@@ -83,6 +85,11 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
         <p className="sb-text sb-mb-15">{item.text}</p>
       </div>
       <div className="sb-card-buttons-frame">
+        <div className="sb-input-number-frame">
+          <div className="sb-input-number-btn sb-sub" onClick={() => setQuantity(quantity > minQuantity ? quantity - 1 : quantity)}>-</div>
+          <input type="number" readOnly value={quantity} min={minQuantity} max={maxQuantity} />
+          <div className="sb-input-number-btn sb-add" onClick={() => setQuantity(quantity < maxQuantity ? quantity + 1 : quantity)}>+</div>
+        </div>
         <a href="#." className="sb-btn sb-atc" onClick={(e) => addToCart(e)}>
           <span className="sb-icon">
             <img src="/img/ui/icons/cart.svg" alt="icon" />

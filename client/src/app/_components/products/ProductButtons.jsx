@@ -73,24 +73,22 @@ const ProductButtons = ({ item }) => {
   };
 
   return (
-    <>
-      <div className="sb-buttons-frame">
-        <div className="sb-input-number-frame">
-          <div className="sb-input-number-btn sb-sub" onClick={() => setQuantity(quantity > minQuantity ? quantity - 1 : quantity)}>-</div>
-          <input type="number" readOnly value={quantity} min={minQuantity} max={maxQuantity} />
-          <div className="sb-input-number-btn sb-add" onClick={() => setQuantity(quantity < maxQuantity ? quantity + 1 : quantity)}>+</div>
-        </div>
-        {/* button */}
-        <a href="#." className="sb-btn sb-atc" onClick={(e) => addToCart(e)}>
-          <span className="sb-icon">
-            <img src="/img/ui/icons/cart.svg" alt="icon" />
-          </span>
-          <span className="sb-add-to-cart-text">Add to cart</span>
-          <span className="sb-added-text">Added</span>
-        </a>
-        {/* button end */}
+    <div className="sb-buttons-frame">
+      <div className="sb-input-number-frame">
+        <div className="sb-input-number-btn sb-sub" onClick={() => setQuantity(quantity > minQuantity ? quantity - 1 : quantity)}>-</div>
+        <input type="number" readOnly value={quantity} min={minQuantity} max={maxQuantity} />
+        <div className="sb-input-number-btn sb-add" onClick={() => setQuantity(quantity < maxQuantity ? quantity + 1 : quantity)}>+</div>
       </div>
-    </>
+      {/* button */}
+      <a href="#." className="sb-btn sb-atc" onClick={(e) => addToCart(e)}>
+        <span className="sb-icon">
+          <img src="/img/ui/icons/cart.svg" alt="icon" />
+        </span>
+        <span className="sb-add-to-cart-text">Add to cart</span>
+        <span className="sb-added-text">Added</span>
+      </a>
+      {/* button end */}
+    </div>
   );
 };
 

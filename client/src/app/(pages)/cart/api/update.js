@@ -6,7 +6,8 @@ export default async function handler(req, res) {
     try {
       const newData = req.body; // Lấy dữ liệu từ body của request
 
-      const filePath = path.resolve(process.cwd(), 'data/cart.json'); 
+      // Đường dẫn tới cart.json
+      const filePath = path.resolve(process.cwd(), 'src/data/cart.json'); 
 
       // Đọc file hiện tại
       const fileData = await fs.readFile(filePath, 'utf-8');
