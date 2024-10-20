@@ -21,7 +21,8 @@ const MenuItem = ({ item, index, noImage, marginBottom }) => {
         }
         <div className="sb-card-tp">
             <h4 className="sb-card-title">{item.title}</h4>
-            <div className="sb-price"><sub>{item.currency}</sub> {item.price}</div>
+            {/* <div className="sb-price"><sub>{item.currency}</sub> {item.price}</div> */}
+            <div className="sb-price">{item.price} <sub> {item.currency} </sub></div>
         </div>
         <div className="sb-description">
             <p className="sb-text sb-mb-15">
