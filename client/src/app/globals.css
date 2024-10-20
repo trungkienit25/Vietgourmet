@@ -586,3 +586,24 @@ footer .sb-footer-frame .sb-copy{
 }
 
 /* End both */
+/* Productdetail */
+.sb-p-90-0{
+    background-color: var(--color-7);
+}
+.sb-product-description .sb-price-frame{
+    background-color: var(--color-2);
+    
+}
+.sb-product-description .sb-price-frame .sb-price{
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+.sb-input-number-frame .sb-input-number-btn{
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+.sb-buttons-frame .sb-btn{
+    background-color: var(--color-5);
+    color: var(--color-3);
+}
+/* End PD */

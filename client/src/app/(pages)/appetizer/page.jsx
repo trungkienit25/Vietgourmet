@@ -27,15 +27,7 @@ const Products = () => {
         <div className="container">
           <ProductsGrid items={ProductsData.appetizer} /> {/*items 1 chứa thông tin món khai vị*/}
 
-          <div>
-            <ul className="sb-pagination">
-              <li className="sb-active"><a href="#.">1</a></li>
-              <li><a href="#">2</a></li>
-              <li><a href="#">3</a></li>
-              <li><a href="#">4</a></li>
-              <li><a href="#">...</a></li>
-            </ul>
-          </div>
+          
         </div>
       </section>
       {/* shop list end */}
