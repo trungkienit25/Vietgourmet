@@ -606,4 +606,10 @@ footer .sb-footer-frame .sb-copy{
     background-color: var(--color-5);
     color: var(--color-3);
 }
+.sb-p-90-90 {
+    background-color: var(--color-7);
+}
+.sb-author-panel .sb-suptitle{
+    background-color: var(--color-2);
+}
 /* End PD */
