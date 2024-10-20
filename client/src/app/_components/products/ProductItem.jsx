@@ -46,7 +46,7 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
 
     try {
       // Gửi dữ liệu mới đến API
-      const response = await fetch("src/(pages)/cart/api/update", {
+      const response = await fetch("/cart/api/update", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
