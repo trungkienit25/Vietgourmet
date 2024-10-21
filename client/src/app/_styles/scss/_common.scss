@@ -762,8 +762,8 @@ buttons
   }
 
   &.sb-btn-text {
-    background-color: $c5;
-
+    background-color: var(--color-5);
+    color: var(--color-3);
     & .sb-icon {
       background-color: $c5;
       transform: scale(.95);
