@@ -1,5 +1,4 @@
-"use client";
-import { useSearchParams } from 'next/navigation';
+import { useSearchParams } from 'next/navigation'
 
 import BlogItem from "@components/blog/BlogItem";
 

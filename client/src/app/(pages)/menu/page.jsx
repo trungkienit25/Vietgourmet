@@ -26,7 +26,7 @@ const Menu3 = () => {
           <div></div>
         </div>
         <div className="container">
-          <MenuFiltered categories={MenuData.categories} columns={1} />
+          <MenuFiltered categories={MenuData.categories} />
         </div>
       </section>
       {/* menu end */}

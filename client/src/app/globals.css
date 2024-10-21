@@ -517,7 +517,7 @@ footer .sb-footer-frame .sb-copy {
 }
 
 .sb-filter .sb-filter-link.sb-active {
-    background-color: var(--color-3);
+    background-color: var(--color-7);
     color: var(--color-5);
 }
 
