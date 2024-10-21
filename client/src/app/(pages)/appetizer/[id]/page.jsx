@@ -1,17 +1,12 @@
-import {getPostData} from "@library/pd";
-import { notFound } from 'next/navigation';
-
-import React from "react";
 import dynamic from "next/dynamic";
 
 import AppData from "@data/app.json";
 import ProductsData from "@data/products.json";
 
-
 import PageBanner from "@components/PageBanner";
-import ReviewItem from "@components/reviews/ReviewItem";
-import ProductImage from "@components/products/ProductImage";
 import ProductButtons from "@components/products/ProductButtons";
+import ProductImage from "@components/products/ProductImage";
+import ReviewItem from "@components/reviews/ReviewItem";
 import CallToActionTwoSection from "@components/sections/CallToActionTwo";
 
 const ProductsSlider = dynamic(() => import("@components/sliders/Products"), { ssr: false });
@@ -19,12 +14,12 @@ const ProductTabs = dynamic(() => import("@components/products/ProductTabs"), { 
 
 export const metadata = {
     title: {
-        default: "Thông tin món ăn",
+        default: "Chi tiết",
     },
     description: AppData.settings.siteDescription,
 }
 
-async function Products ({params}) {
+const Products = () => {
     async function ProductAtts() {
         const AttsData = [
             {
@@ -126,7 +121,7 @@ async function Products ({params}) {
             "name": "Reviews"
         }
     ];
-    const ProductData = await getSingleProductData(params);
+
     return (
         <>
             <PageBanner pageTitle={"Product Detail"} breadTitle={"Product Detail"} type={1} />
@@ -136,12 +131,12 @@ async function Products ({params}) {
                 <div className="container">
                     <div className="row align-items-center">
                         <div className="col-lg-6">
-                            <ProductImage src={ProductData.image} alt={"Saumon Gravlax"} badge={"<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"} />
+                            <ProductImage src={"/img/menu/4.jpg"} alt={"Saumon Gravlax"} badge={"<div class='sb-badge sb-vegan'><i class='fas fa-leaf'></i> Vegan</div>"} />
                         </div>
                         <div className="col-lg-6">
                             <div className="sb-product-description sb-mb-90">
                                 <div className="sb-price-frame sb-mb-30">
-                                    <h3>{ProductData.title}</h3>
+                                    <h3>Saumon Gravlax</h3>
                                     <div className="sb-price"><sub>$</sub> 19</div>
                                 </div>
                                 <ul className="sb-stars sb-mb-25">
@@ -225,15 +220,3 @@ async function Products ({params}) {
     );
 };
 export default Products;
-
-async function getSingleProductData(params) {
-    const postData = await getPostData(params.id)
-
-    if (!postData) {
-        notFound()
-    } else {
-        return postData
-    }
-}
-
-

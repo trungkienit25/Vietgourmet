@@ -5,7 +5,7 @@ import ProductItem from "@components/products/ProductItem";
 const ProductsGrid = ({ items, columns }) => {
   var columnsClass = '';
   var moreType = '';
-  
+
   switch (columns) {
     case 3:
       columnsClass = 'col-lg-4';
@@ -24,13 +24,12 @@ const ProductsGrid = ({ items, columns }) => {
     <>
       <div className="row">
         {items.map((item, key) => (
-        <div className={columnsClass} key={`products-grid-item-${key}`}>
-          <ProductItem item={item} index={key} marginBottom={30} moreType={moreType} />
-        </div>
+          <div className={columnsClass} key={`products-grid-item-${key}`}>
+            <ProductItem item={item} index={key} marginBottom={30} moreType={moreType} />
+          </div>
         ))}
       </div>
     </>
   );
 };
 export default ProductsGrid;
-  

@@ -8,7 +8,7 @@ categories:
 tags:
     - Gastronomy
     - Fast Food
-author: Peter Stanbridge
+author: Nguyễn Hoàng Việt
 short: Fresh cucumber, bitey shallots, cooling mint, and sweet fleshy peaches coming together in serious flavor harmony! I love this peach salad.
 
 #full details
