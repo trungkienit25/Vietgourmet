@@ -39,7 +39,7 @@
             },
             {
                 "label": "Thực đơn",
-                "link": "/menu",
+                "link": "/shop",
                 "children": [
                     {
                         "label": "Tại quán",
