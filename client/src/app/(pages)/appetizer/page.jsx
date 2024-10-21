@@ -9,8 +9,8 @@ import PromoSection from "@components/sections/Promo";
 
 export const metadata = {
   title: {
-		default: "Products",
-	},
+    default: "Products",
+  },
   description: AppData.settings.siteDescription,
 }
 
@@ -25,9 +25,11 @@ const Products = () => {
           <div />
         </div>
         <div className="container">
-          <ProductsGrid items={ProductsData.appetizer} /> {/*items 1 chứa thông tin món khai vị*/}
+          <ProductsGrid
+            items={ProductsData.appetizer}
+          /> {/*items 1 chứa thông tin món khai vị*/}
 
-          
+
         </div>
       </section>
       {/* shop list end */}

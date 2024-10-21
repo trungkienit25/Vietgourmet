@@ -30,12 +30,12 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
   return (
     <>
       <div className={`sb-menu-item sb-mb-${marginBottom}`}>
-        <Link href={`/product`} className="sb-cover-frame">
+        <Link href={`/appetizer/${item.id}`} className="sb-cover-frame">
           <img src={item.image} alt={item.title} />
           <div dangerouslySetInnerHTML={{ __html: item.badge }} />
         </Link>
         <div className="sb-card-tp">
-          <h4 className="sb-card-title"><Link href={`/product`}>{item.title}</Link></h4>
+          <h4 className="sb-card-title"><Link href={`/appetizer/${item.id}`}>{item.title}</Link></h4>
           <div className="sb-price"><sub>{item.currency}</sub> {item.price}</div>
         </div>
         <div className="sb-description">
@@ -46,13 +46,13 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
         <div className="sb-card-buttons-frame">
           {/* button */}
           {moreType != 2 ? (
-            <Link href="/product" className="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
+            <Link href="/appetizer/${item.id}" className="sb-btn sb-btn-2 sb-btn-gray sb-btn-icon sb-m-0">
               <span className="sb-icon">
                 <img src="/img/ui/icons/arrow.svg" alt="icon" />
               </span>
             </Link>
           ) : (
-            <Link href="/product" className="sb-btn sb-btn-gray">
+            <Link href="/appetizer/${item.id}" className="sb-btn sb-btn-gray">
               <span className="sb-icon">
                 <img src="/img/ui/icons/arrow.svg" alt="icon" />
               </span>
