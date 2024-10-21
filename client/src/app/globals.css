@@ -240,7 +240,7 @@ footer .sb-footer-frame .sb-copy {
 }
 
 .sb-about-text .sb-text {
-    overflow-wrap: break-word;
+    
     overflow: visible;
     font-size: 18px;
 }
@@ -711,3 +711,9 @@ footer .sb-footer-frame .sb-copy {
 }
 
 /* End PD */
+/* Blog */
+.sb-publication .sb-text {
+    display: inline-block;
+    overflow: visible;
+}
+/* End Blog */
