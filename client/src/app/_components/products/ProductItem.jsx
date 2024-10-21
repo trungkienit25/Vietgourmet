@@ -14,19 +14,52 @@ const ProductItem = ({ item, index, marginBottom, moreType }) => {
     cartNumberEl.innerHTML = cartTotal;
   }, [cartTotal]);
 
-  const addToCart = (e) => {
+  const addToCart = async (e) => {
     e.preventDefault();
     const cartNumberEl = document.querySelector('.sb-cart-number');
     setCartTotal(cartTotal + quantity);
-
+  
     cartNumberEl.classList.add('sb-added');
     e.currentTarget.classList.add('sb-added');
-
+  
     setTimeout(() => {
       cartNumberEl.classList.remove('sb-added');
     }, 600);
-  }
-
+  
+    const newItem = {
+      title: item.title,
+      image: item.image,
+      description: item.description,
+      price: item.price,
+      currency: item.currency,
+      rating: item.rating, // Thêm rating nếu có
+      text: item.text,     // Thêm text nếu có
+    };
+  
+    try {
+      // Gửi dữ liệu sản phẩm và số lượng đến API
+      const response = await fetch("/api/cart/add", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          item: newItem,
+          quantity: quantity,
+        }),
+      });
+  
+      if (response.ok) {
+        console.log("Sản phẩm đã được thêm vào giỏ hàng.");
+      } else {
+        console.error("Có lỗi khi thêm sản phẩm vào giỏ hàng.");
+      }
+    } catch (error) {
+      console.error("Lỗi khi gọi API:", error);
+    }
+  };
+  
+  
   return (
     <>
       <div className={`sb-menu-item sb-mb-${marginBottom}`}>

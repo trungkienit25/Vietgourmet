@@ -18,51 +18,38 @@ const ProductButtons = ({ item }) => {
     e.preventDefault();
     const cartNumberEl = document.querySelector('.sb-cart-number');
     setCartTotal(cartTotal + quantity);
-
+  
     cartNumberEl.classList.add('sb-added');
     e.currentTarget.classList.add('sb-added');
-    
+  
     setTimeout(() => {
-        cartNumberEl.classList.remove('sb-added');
+      cartNumberEl.classList.remove('sb-added');
     }, 600);
-
+  
     const newItem = {
       title: item.title,
       image: item.image,
       description: item.description,
-      quantity: quantity,
       price: item.price,
       currency: item.currency,
+      rating: item.rating, // Thêm rating nếu có
+      text: item.text,     // Thêm text nếu có
     };
-
-    // Kiểm tra sản phẩm có tồn tại trong giỏ hàng không
-    const existingItem = CartData.items.find(
-      (cartItem) => cartItem.title === item.title
-    );
-
-    if (existingItem) {
-      // Nếu sản phẩm đã có, chỉ tăng số lượng
-      existingItem.quantity += quantity;
-    } else {
-      // Nếu chưa có, thêm sản phẩm mới
-      CartData.items.push(newItem);
-    }
-
-    // Cập nhật tổng số lượng sản phẩm
-    CartData.total += quantity;
-
+  
     try {
-      // Gửi dữ liệu mới đến API
-      const response = await fetch("/cart/api/update", {
+      // Gửi dữ liệu sản phẩm và số lượng đến API
+      const response = await fetch("/api/cart/add", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
         },
-        body: JSON.stringify(CartData),
+        body: JSON.stringify({
+          item: newItem,
+          quantity: quantity,
+        }),
       });
   
       if (response.ok) {
-        setCartTotal(cartTotal + quantity);
         console.log("Sản phẩm đã được thêm vào giỏ hàng.");
       } else {
         console.error("Có lỗi khi thêm sản phẩm vào giỏ hàng.");
@@ -71,6 +58,7 @@ const ProductButtons = ({ item }) => {
       console.error("Lỗi khi gọi API:", error);
     }
   };
+  
 
   return (
     <>
