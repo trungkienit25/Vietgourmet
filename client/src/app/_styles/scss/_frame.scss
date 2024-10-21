@@ -263,7 +263,7 @@ navigation
       display: block;
       height: calc(100vh - 80px);
       overflow: scroll;
-      background-color: $c4t;
+      background-color: none;
       transition: $tr;
       backdrop-filter: blur(8px);
       -webkit-backdrop-filter: blur(8px);
