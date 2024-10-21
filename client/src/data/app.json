@@ -42,12 +42,12 @@
                 "link": "/shop",
                 "children": [
                     {
-                        "label": "Tại quán",
-                        "link": "/menu"
-                    },
-                    {
                         "label": "Mang về",
                         "link": "/shop"
+                    },
+                    {
+                        "label": "Tại quán",
+                        "link": "/menu"
                     }
                 ]
             },
