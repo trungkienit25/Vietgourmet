@@ -29,7 +29,7 @@ const Reviews1 = () => {
         <div className="container">
           <ReviewsMasonry items={ReviewsData.items} />
 
-          <div>
+          {/* <div>
             <ul className="sb-pagination sb-mt-0">
               <li className="sb-active"><a href="#.">1</a></li>
               <li><a href="#.">2</a></li>
@@ -37,7 +37,7 @@ const Reviews1 = () => {
               <li><a href="#.">4</a></li>
               <li><a href="#.">...</a></li>
             </ul>
-          </div>
+          </div> */}
         </div>
       </section>
       {/* reviews end */}

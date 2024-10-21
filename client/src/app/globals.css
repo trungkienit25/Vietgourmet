@@ -312,7 +312,12 @@ footer .sb-footer-frame .sb-copy {
 .sb-reviews .swiper {
     margin-bottom: 30px;
 }
-
+.sb-reviews .sb-review-card .sb-text{
+    display: inline-block;
+}
+.sb-reviews .sb-bg-2 div:after{
+    display: none;
+}
 
 /* End Section4 */
 /* Section5 */
