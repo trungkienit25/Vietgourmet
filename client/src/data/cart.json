@@ -1,5 +1,5 @@
 {
-  "total": 8,
+  "total": 2,
   "items": [
     {
       "image": "/img/menu/Food/goicuon.jfif",
@@ -8,7 +8,7 @@
       "currency": "VNĐ",
       "rating": 5,
       "text": "Gỏi cuốn tươi ngon từ tôm, thịt, bún, rau sống cuốn trong bánh tráng, chấm cùng nước mắm chua ngọt.",
-      "quantity": 5
+      "quantity": 1
     },
     {
       "title": "Bún bò Huế",
@@ -17,42 +17,6 @@
       "currency": "VNĐ",
       "rating": 5,
       "text": "Bún bò Huế với sợi bún to, dai, nước dùng đậm đà, hòa quyện vị sả và ớt cay nồng, thịt bò hầm nhừ, giò heo và chả cua ăn kèm rau sống tươi mát.",
-      "quantity": 3
-    },
-    {
-      "title": "Phở bò",
-      "image": "/img/menu/Food/pho-bo.jfif",
-      "price": "60K",
-      "currency": "VNĐ",
-      "rating": 5,
-      "text": "Phở bò được chế biến từ nước dùng thơm ngon, thanh ngọt, kết hợp cùng bánh phở mềm mịn, thịt bò tái hoặc chín, ăn kèm hành tươi, giá đỗ và chanh ớt.",
-      "quantity": 1
-    },
-    {
-      "title": "Bánh xèo",
-      "image": "/img/menu/Food/banh-xeo.jfif",
-      "price": "50K",
-      "currency": "VNĐ",
-      "rating": 5,
-      "text": "Bánh xèo giòn tan, nhân tôm, thịt heo và giá đỗ, ăn kèm rau sống và nước mắm chua ngọt, mang đến hương vị thơm ngon khó cưỡng.",
-      "quantity": 1
-    },
-    {
-      "title": "Canh chua cá lóc",
-      "image": "/img/menu/Food/canhchua.jfif",
-      "price": "90K",
-      "currency": "VNĐ",
-      "rating": 5,
-      "text": "Canh chua cá lóc nấu với dọc mùng, cà chua, me chua, tạo nên hương vị thanh mát, chua ngọt, kết hợp cùng cá lóc tươi ngọt và các loại rau thơm.",
-      "quantity": 1
-    },
-    {
-      "title": "Cà phê Robusta",
-      "image": "/img/menu/VN/Rob.jpg",
-      "price": "55K",
-      "currency": "VNĐ",
-      "rating": 5,
-      "text": "Robusta là loại cà phê phổ biến và được trồng nhiều ở các vùng đất đỏ bazan Việt Nam. Với vị đắng đậm, hương thơm mạnh mẽ và lượng caffein cao, Robusta mang đến cảm giác đầy năng lượng và mạnh mẽ cho người thưởng thức.",
       "quantity": 1
     }
   ]

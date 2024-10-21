@@ -4,6 +4,25 @@ import path from 'path';
 // Đường dẫn tới file cart.json
 const cartFilePath = path.join(process.cwd(), 'src/data/cart.json');
 
+export async function GET() {
+    try {
+      // Đọc dữ liệu từ file cart.json
+      const cartData = JSON.parse(fs.readFileSync(cartFilePath, 'utf8'));
+  
+      // Phản hồi với dữ liệu giỏ hàng
+      return new Response(JSON.stringify(cartData), {
+        status: 200,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    } catch (error) {
+      console.error('Error fetching cart data:', error.message);
+      return new Response(JSON.stringify({ message: 'Lỗi khi lấy dữ liệu giỏ hàng.' }), {
+        status: 500,
+        headers: { 'Content-Type': 'application/json' }
+      });
+    }
+  }
+
 export async function POST(request) {
   try {
     // Lấy dữ liệu từ body của request
