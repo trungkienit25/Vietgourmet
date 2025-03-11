@@ -42,6 +42,6 @@ Chúng tôi hoan nghênh mọi sự đóng góp để Vietgourmet ngày càng ho
 
 ## Liên hệ
 
-Nếu có bất kỳ câu hỏi hoặc góp ý, xin vui lòng liên hệ qua email: nhv1312004@gmail.com
+Nếu có bất kỳ câu hỏi hoặc góp ý, xin vui lòng liên hệ qua email: kiennguyen.kris@gmail.com
 
 **Hãy cùng Vietgourmet khám phá hương vị Việt Nam!**
